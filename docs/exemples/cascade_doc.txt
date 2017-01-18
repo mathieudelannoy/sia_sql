@@ -1,0 +1,33 @@
+Type de correspondance :
+
+MATCH FULL 
+ - correspondance totale
+ - n'autorise une colonne d'une clé étrangère composite à être NULL que si l'ensemble des colonnes de la clé étrangère sont NULL
+ 
+MATCH SIMPLE 
+ - correspondance simple
+ - autorise une colonne de clé étrangère à être NULL même si les autres parties de la clé étrangère ne sont pas nulles
+ 
+c'est utile uniquement pour les clés étrangères composites
+
+
+ON DELETE
+ON UPDATE
+
+NO ACTION
+Une erreur est produite pour indiquer que la suppression ou la mise à jour entraîne une violation de la contrainte de clé étrangère. Si la contrainte est différée, cette erreur est produite au moment de la vérification, si toutefois il existe encore des lignes de référence. C'est le comportement par défaut
+- bloque la supression si une référence existe
+
+RESTRICT
+Une erreur est produite pour indiquer que la suppression ou la mise à jour entraîne une violation de la contrainte de clé étrangère. Ce comportement est identique à NO ACTION, si ce n'est que la vérification n'est pas décalable dans le temps
+- bloque la supression si une référence existe
+
+CASCADE
+La mise à jour ou la suppression de la ligne de référence est propagée à l'ensemble des lignes qui la référencent, qui sont, respectivement, mises à jour ou supprimées
+- supprime l'enregistrement lié à la supression
+
+SET NULL
+La valeur de la colonne qui référence est positionnée à NULL
+
+SET DEFAULT
+La valeur de la colonne qui référence est positionnée à celle par défaut.
