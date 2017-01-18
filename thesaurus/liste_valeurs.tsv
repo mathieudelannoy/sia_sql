@@ -1630,7 +1630,7 @@ id	type_liste	valeur
 594	ListeTypeMesureAnthropologique	arc frontal (26)
 576	ListeTypeMesureAnthropologique	arc occipital (28)
 635	ListeTypeMesureAnthropologique	arc pariétal (27)
-601	ListeTypeMesureAnthropologique	arc sagittal (25)"
+601	ListeTypeMesureAnthropologique	arc sagittal (25)
 583	ListeTypeMesureAnthropologique	cordes frontales (29)
 631	ListeTypeMesureAnthropologique	cordes occipitale (31)
 608	ListeTypeMesureAnthropologique	cordes pariétales (30)
@@ -1646,12 +1646,12 @@ id	type_liste	valeur
 602	ListeTypeMesureAnthropologique	hauteur PO-BR (20)
 630	ListeTypeMesureAnthropologique	hauteur Pm2/M1
 612	ListeTypeMesureAnthropologique	hauteur antérieure corps (lombaires) / réelle sacrum (1)
-628	ListeTypeMesureAnthropologique	hauteur antérieure en projection (sacrum - "2)
+628	ListeTypeMesureAnthropologique	hauteur antérieure en projection (sacrum - 2)
 647	ListeTypeMesureAnthropologique	hauteur branche montante (70a)
 591	ListeTypeMesureAnthropologique	hauteur cavité glénoïde (12)
 624	ListeTypeMesureAnthropologique	hauteur maximum / apophyse odontoïde (Axis) / supérieure (splanchnocrâne - 48)
 651	ListeTypeMesureAnthropologique	hauteur nez (55)
-627	ListeTypeMesureAnthropologique	hauteur orbites (G/D - "52)
+627	ListeTypeMesureAnthropologique	hauteur orbites (G/D - 52)
 622	ListeTypeMesureAnthropologique	hauteur postérieur corps (lombaires)
 598	ListeTypeMesureAnthropologique	hauteur spino-alvéolaire (NS-PR)
 634	ListeTypeMesureAnthropologique	hauteur symphyse (69)
