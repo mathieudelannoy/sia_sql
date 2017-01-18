@@ -1,10 +1,6 @@
 ﻿-- Export d'un inventaire céramique pour spécialiste
--- sans index 112 ms
--- avec index 36 ms
-
 -- A OPTIMISER AVEC UN CTE TRIANT LES MESURES AVEC UN WITH EXISTS
 
---EXPLAIN ANALYZE
 SELECT 
   mobilier.id,
   ue.numero AS "ue",
