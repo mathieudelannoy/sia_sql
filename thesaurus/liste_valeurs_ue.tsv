@@ -1,0 +1,139 @@
+39	ListeTypeUE	annulée
+40	ListeTypeUE	ensemble
+1858	ListeTypeUE	iso
+37	ListeTypeUE	niveau
+38	ListeTypeUE	sondage
+41	ListeTypeUE	structure
+36	ListeTypeUE	tranchée
+
+209	ListeNatureUE	Pilier
+1458	ListeNatureUE	aire de chauffe
+2921	ListeNatureUE	amas lithique
+213	ListeNatureUE	bâtiment
+218	ListeNatureUE	carottage
+212	ListeNatureUE	chapelle
+1459	ListeNatureUE	chemin
+191	ListeNatureUE	circulation
+190	ListeNatureUE	colluvion
+192	ListeNatureUE	comblement
+1927	ListeNatureUE	construction
+1838	ListeNatureUE	contenant funéraire
+219	ListeNatureUE	coupe
+211	ListeNatureUE	cuve
+194	ListeNatureUE	destruction
+193	ListeNatureUE	dépotoir
+214	ListeNatureUE	espace ouvert
+203	ListeNatureUE	fosse
+1457	ListeNatureUE	fosses
+204	ListeNatureUE	fossé
+1455	ListeNatureUE	four
+195	ListeNatureUE	foyer
+196	ListeNatureUE	géoarchéologie
+197	ListeNatureUE	incendie
+1839	ListeNatureUE	individu anthropologique
+198	ListeNatureUE	indéterminé
+1452	ListeNatureUE	interface
+205	ListeNatureUE	mur
+199	ListeNatureUE	naturel
+200	ListeNatureUE	occupation
+206	ListeNatureUE	piquet
+207	ListeNatureUE	poteau
+1456	ListeNatureUE	poteaux
+2923	ListeNatureUE	prélèvement
+201	ListeNatureUE	remblai
+202	ListeNatureUE	sol construit
+215	ListeNatureUE	sondage géologie (log)
+216	ListeNatureUE	sondage tarière manuelle
+217	ListeNatureUE	sondage tarière motorisée
+210	ListeNatureUE	sépulture
+208	ListeNatureUE	tranchée
+220	ListeNatureUE	tranchée de diagnostic
+221	ListeNatureUE	tranchée géoarchéologique
+1453	ListeNatureUE	utilisation
+1919	ListeNatureUE	voirie
+
+1911	ListeInterpretationUE	aire de chauffe
+1454	ListeInterpretationUE	alandier
+1926	ListeInterpretationUE	apprêt de sol / remblai de préparation
+1928	ListeInterpretationUE	arase
+1908	ListeInterpretationUE	arrachage
+284	ListeInterpretationUE	avant trou
+1903	ListeInterpretationUE	bitumée
+1929	ListeInterpretationUE	blocage
+240	ListeInterpretationUE	bâtiment excavé
+1895	ListeInterpretationUE	béton de tuileau
+259	ListeInterpretationUE	canalisation
+1914	ListeInterpretationUE	carneau
+273	ListeInterpretationUE	carottage
+1900	ListeInterpretationUE	casson
+241	ListeInterpretationUE	cellier
+1842	ListeInterpretationUE	cercueil
+1854	ListeInterpretationUE	cercueil ou coffrage
+242	ListeInterpretationUE	chablis
+1913	ListeInterpretationUE	chambre de chauffe
+1922	ListeInterpretationUE	chape de mortier
+1843	ListeInterpretationUE	coffrage
+269	ListeInterpretationUE	coupe
+1896	ListeInterpretationUE	craie damée
+1897	ListeInterpretationUE	dallage
+1841	ListeInterpretationUE	de la tombe inhumation
+254	ListeInterpretationUE	drainage
+1840	ListeInterpretationUE	du contenant funéraire
+253	ListeInterpretationUE	défense
+1925	ListeInterpretationUE	démolition
+243	ListeInterpretationUE	dépotoir
+1917	ListeInterpretationUE	dôme
+1909	ListeInterpretationUE	empreinte
+282	ListeInterpretationUE	empreinte avec avant-trou
+283	ListeInterpretationUE	empreinte sans avant-trou
+1904	ListeInterpretationUE	en cassons
+1906	ListeInterpretationUE	en craie damée
+1905	ListeInterpretationUE	en rognons
+266	ListeInterpretationUE	encaissant
+255	ListeInterpretationUE	enclos
+1450	ListeInterpretationUE	extraction
+244	ListeInterpretationUE	fond de cabane
+257	ListeInterpretationUE	fondation
+261	ListeInterpretationUE	fondation et élévation
+258	ListeInterpretationUE	fondation fantôme
+245	ListeInterpretationUE	fosse
+246	ListeInterpretationUE	fosse à gravats
+2922	ListeInterpretationUE	foyer
+275	ListeInterpretationUE	incendie
+247	ListeInterpretationUE	indéterminé
+1916	ListeInterpretationUE	laboratoire
+1451	ListeInterpretationUE	languette
+248	ListeInterpretationUE	latrines
+1844	ListeInterpretationUE	linceul
+1920	ListeInterpretationUE	lit de pose
+1923	ListeInterpretationUE	matériaux
+262	ListeInterpretationUE	maçonnerie
+1898	ListeInterpretationUE	mosaïque
+256	ListeInterpretationUE	parcellaire
+1899	ListeInterpretationUE	pavage
+1902	ListeInterpretationUE	pavée
+1930	ListeInterpretationUE	pillage/récupération
+1921	ListeInterpretationUE	placage (mortier, maçonnerie, etc.)
+1846	ListeInterpretationUE	plancher/brancard
+278	ListeInterpretationUE	poteau absent avec avant-trou
+279	ListeInterpretationUE	poteau absent sans avant-trou
+280	ListeInterpretationUE	poteau arraché avec avant-trou
+281	ListeInterpretationUE	poteau arraché sans avant-trou
+276	ListeInterpretationUE	poteau présent avec avant-trou
+277	ListeInterpretationUE	poteau présent sans avant-trou
+1910	ListeInterpretationUE	présent
+249	ListeInterpretationUE	puits
+1901	ListeInterpretationUE	rognons de silex
+263	ListeInterpretationUE	sablière
+1847	ListeInterpretationUE	sarcophage
+250	ListeInterpretationUE	silo
+1915	ListeInterpretationUE	sole
+264	ListeInterpretationUE	solin
+268	ListeInterpretationUE	structure
+265	ListeInterpretationUE	terre végétale
+251	ListeInterpretationUE	tombe - incinération
+252	ListeInterpretationUE	tombe - inhumation
+270	ListeInterpretationUE	tranchée
+274	ListeInterpretationUE	trou de bombe
+1848	ListeInterpretationUE	vêtement
+260	ListeInterpretationUE	élévation

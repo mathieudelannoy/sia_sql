@@ -1,0 +1,90 @@
+287	ListeMatiere	autre
+289	ListeMatiere	indéterminé
+286	ListeMatiere	minéral
+290	ListeMatiere	métal
+292	ListeMatiere	organique
+285	ListeMatiere	terre cuite
+288	ListeMatiere	verre
+
+302	ListeMatiereType	Autre (non travaillé)
+1833	ListeMatiereType	Faune (non travaillé)
+1832	ListeMatiereType	Humain (non travaillé)
+308	ListeMatiereType	autre
+296	ListeMatiereType	céramique
+2208	ListeMatiereType	indéterminé
+294	ListeMatiereType	lapidaire
+293	ListeMatiereType	lithique
+306	ListeMatiereType	matériaux de construction autre
+305	ListeMatiereType	monétaire
+304	ListeMatiereType	métal ferreux
+303	ListeMatiereType	métal non ferreux
+295	ListeMatiereType	pierre autre
+307	ListeMatiereType	synthétique
+297	ListeMatiereType	terre cuite architecturale
+298	ListeMatiereType	terre cuite autre
+301	ListeMatiereType	travaillé
+300	ListeMatiereType	verre autre
+299	ListeMatiereType	verre de construction
+
+1093	ListeMatiereTypePrecision	alliage cuivreux
+2209	ListeMatiereTypePrecision	ardoise
+1094	ListeMatiereTypePrecision	argent
+1099	ListeMatiereTypePrecision	autre
+1086	ListeMatiereTypePrecision	bois
+1463	ListeMatiereTypePrecision	boudin de four
+1109	ListeMatiereTypePrecision	brique
+2674	ListeMatiereTypePrecision	bronze
+1853	ListeMatiereTypePrecision	calcaire
+2214	ListeMatiereTypePrecision	calcaire schisteux
+1110	ListeMatiereTypePrecision	carreau de pavage
+1462	ListeMatiereTypePrecision	carreaux de pavage
+1100	ListeMatiereTypePrecision	charbon de bois
+1101	ListeMatiereTypePrecision	coquille
+1105	ListeMatiereTypePrecision	craie
+2848	ListeMatiereTypePrecision	dolérite
+1087	ListeMatiereTypePrecision	enduit peint
+1092	ListeMatiereTypePrecision	fer
+1102	ListeMatiereTypePrecision	flore
+1113	ListeMatiereTypePrecision	four
+1114	ListeMatiereTypePrecision	fourneau
+1106	ListeMatiereTypePrecision	galet
+1084	ListeMatiereTypePrecision	grès
+1461	ListeMatiereTypePrecision	houille
+1096	ListeMatiereTypePrecision	indéterminé
+2211	ListeMatiereTypePrecision	marbre
+2212	ListeMatiereTypePrecision	mortier
+1088	ListeMatiereTypePrecision	mosaïque
+1465	ListeMatiereTypePrecision	métal
+1097	ListeMatiereTypePrecision	or
+2849	ListeMatiereTypePrecision	phtanite
+1098	ListeMatiereTypePrecision	plomb
+1089	ListeMatiereTypePrecision	plâtre
+2927	ListeMatiereTypePrecision	poudingue
+1115	ListeMatiereTypePrecision	pâte à verre
+1107	ListeMatiereTypePrecision	roche
+2850	ListeMatiereTypePrecision	rocheverte
+1108	ListeMatiereTypePrecision	schiste
+1085	ListeMatiereTypePrecision	silex
+2852	ListeMatiereTypePrecision	silex Bartonien
+2859	ListeMatiereTypePrecision	silex Lutécien
+2853	ListeMatiereTypePrecision	silex de Ghlin
+2855	ListeMatiereTypePrecision	silex de Meusnes
+2914	ListeMatiereTypePrecision	silex de Spiennes
+2854	ListeMatiereTypePrecision	silex de l''Escaut
+2856	ListeMatiereTypePrecision	silex du Grand-Pressigny
+2857	ListeMatiereTypePrecision	silex indéterminable brûlé
+2858	ListeMatiereTypePrecision	silex indéterminable patiné
+2920	ListeMatiereTypePrecision	silex indéterminé
+2860	ListeMatiereTypePrecision	silex secondaire
+2851	ListeMatiereTypePrecision	silex à cortex verdi
+2818	ListeMatiereTypePrecision	soufre
+1080	ListeMatiereTypePrecision	sédiment
+1081	ListeMatiereTypePrecision	sédiment organique
+1090	ListeMatiereTypePrecision	terre crue
+1111	ListeMatiereTypePrecision	tomette
+1091	ListeMatiereTypePrecision	torchis
+1082	ListeMatiereTypePrecision	tourbe
+1112	ListeMatiereTypePrecision	tuile
+1116	ListeMatiereTypePrecision	verre soufflé
+1117	ListeMatiereTypePrecision	vitrage
+1095	ListeMatiereTypePrecision	étain

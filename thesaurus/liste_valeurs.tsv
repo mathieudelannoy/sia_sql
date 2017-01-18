@@ -1,0 +1,2747 @@
+id	type_liste	valeur
+2823	ListeContenantLongueur	118.9
+738	ListeContenantLongueur	120
+2676	ListeContenantLongueur	16
+736	ListeContenantLongueur	19
+737	ListeContenantLongueur	29
+730	ListeContenantLongueur	30
+2837	ListeContenantLongueur	35
+731	ListeContenantLongueur	40
+2926	ListeContenantLongueur	42.5
+2832	ListeContenantLongueur	46
+734	ListeContenantLongueur	50
+735	ListeContenantLongueur	55
+2824	ListeContenantLongueur	59.4
+732	ListeContenantLongueur	60
+733	ListeContenantLongueur	80
+2825	ListeContenantLongueur	84.1
+1039	ListeAnthropologieEffetParoiPied	non
+1038	ListeAnthropologieEffetParoiPied	oui
+713	ListeContenant	bac gerbable N.E.
+2925	ListeContenant	bac gerbable non-NE
+710	ListeContenant	bac gerbable parois ajourées
+2821	ListeContenant	boite à archive A0
+2820	ListeContenant	boite à archive A1
+2819	ListeContenant	boite à archive A2
+712	ListeContenant	boite à archive A3
+714	ListeContenant	boite à archive A4
+716	ListeContenant	boîte hermétique
+719	ListeContenant	boîte membrane
+1894	ListeContenant	cadre numismatique
+2839	ListeContenant	classeur
+708	ListeContenant	flacon vissé
+717	ListeContenant	gouttière
+3071	ListeContenant	indéterminé
+707	ListeContenant	palette
+2822	ListeContenant	rouleau
+718	ListeContenant	sac étanche
+709	ListeContenant	sachet minigrip
+720	ListeContenant	sachet papier
+715	ListeContenant	scellofrais
+711	ListeContenant	seau
+52	ListeRelationInterMobilier	appartient au lot
+51	ListeRelationInterMobilier	comporte
+50	ListeRelationInterMobilier	remonte
+1412	ListeLocalisationContenantEtagere	1
+2327	ListeLocalisationContenantEtagere	1-1
+2328	ListeLocalisationContenantEtagere	1-2
+2329	ListeLocalisationContenantEtagere	1-3
+2330	ListeLocalisationContenantEtagere	1-4
+2347	ListeLocalisationContenantEtagere	1-5
+2362	ListeLocalisationContenantEtagere	1-6
+2363	ListeLocalisationContenantEtagere	1-7
+2364	ListeLocalisationContenantEtagere	1-8
+1421	ListeLocalisationContenantEtagere	10
+2399	ListeLocalisationContenantEtagere	10-1
+2400	ListeLocalisationContenantEtagere	10-2
+2401	ListeLocalisationContenantEtagere	10-3
+2402	ListeLocalisationContenantEtagere	10-4
+2403	ListeLocalisationContenantEtagere	10-5
+2404	ListeLocalisationContenantEtagere	10-6
+2405	ListeLocalisationContenantEtagere	10-7
+2406	ListeLocalisationContenantEtagere	10-8
+1422	ListeLocalisationContenantEtagere	11
+2407	ListeLocalisationContenantEtagere	11-1
+2408	ListeLocalisationContenantEtagere	11-2
+2409	ListeLocalisationContenantEtagere	11-3
+2410	ListeLocalisationContenantEtagere	11-4
+2411	ListeLocalisationContenantEtagere	11-5
+2412	ListeLocalisationContenantEtagere	11-6
+2413	ListeLocalisationContenantEtagere	11-7
+2414	ListeLocalisationContenantEtagere	11-8
+1423	ListeLocalisationContenantEtagere	12
+2415	ListeLocalisationContenantEtagere	12-1
+2416	ListeLocalisationContenantEtagere	12-2
+2417	ListeLocalisationContenantEtagere	12-3
+2418	ListeLocalisationContenantEtagere	12-4
+2419	ListeLocalisationContenantEtagere	12-5
+2420	ListeLocalisationContenantEtagere	12-6
+2421	ListeLocalisationContenantEtagere	12-7
+2422	ListeLocalisationContenantEtagere	12-8
+1424	ListeLocalisationContenantEtagere	13
+2423	ListeLocalisationContenantEtagere	13-1
+2424	ListeLocalisationContenantEtagere	13-2
+2425	ListeLocalisationContenantEtagere	13-3
+2426	ListeLocalisationContenantEtagere	13-4
+2427	ListeLocalisationContenantEtagere	13-5
+2428	ListeLocalisationContenantEtagere	13-6
+2429	ListeLocalisationContenantEtagere	13-7
+2430	ListeLocalisationContenantEtagere	13-8
+1425	ListeLocalisationContenantEtagere	14
+2431	ListeLocalisationContenantEtagere	14-1
+2432	ListeLocalisationContenantEtagere	14-2
+2433	ListeLocalisationContenantEtagere	14-3
+2434	ListeLocalisationContenantEtagere	14-4
+2435	ListeLocalisationContenantEtagere	14-5
+2436	ListeLocalisationContenantEtagere	14-6
+2437	ListeLocalisationContenantEtagere	14-7
+2438	ListeLocalisationContenantEtagere	14-8
+1426	ListeLocalisationContenantEtagere	15
+2439	ListeLocalisationContenantEtagere	15-1
+2440	ListeLocalisationContenantEtagere	15-2
+2441	ListeLocalisationContenantEtagere	15-3
+2442	ListeLocalisationContenantEtagere	15-4
+2443	ListeLocalisationContenantEtagere	15-5
+2444	ListeLocalisationContenantEtagere	15-6
+2445	ListeLocalisationContenantEtagere	15-7
+2446	ListeLocalisationContenantEtagere	15-8
+1427	ListeLocalisationContenantEtagere	16
+2447	ListeLocalisationContenantEtagere	16-1
+2448	ListeLocalisationContenantEtagere	16-2
+2449	ListeLocalisationContenantEtagere	16-3
+2450	ListeLocalisationContenantEtagere	16-4
+2451	ListeLocalisationContenantEtagere	16-5
+2452	ListeLocalisationContenantEtagere	16-6
+2453	ListeLocalisationContenantEtagere	16-7
+2454	ListeLocalisationContenantEtagere	16-8
+1428	ListeLocalisationContenantEtagere	17
+2455	ListeLocalisationContenantEtagere	17-1
+2456	ListeLocalisationContenantEtagere	17-2
+2457	ListeLocalisationContenantEtagere	17-3
+2458	ListeLocalisationContenantEtagere	17-4
+2459	ListeLocalisationContenantEtagere	17-5
+2460	ListeLocalisationContenantEtagere	17-6
+2461	ListeLocalisationContenantEtagere	17-7
+2462	ListeLocalisationContenantEtagere	17-8
+1429	ListeLocalisationContenantEtagere	18
+2463	ListeLocalisationContenantEtagere	18-1
+2464	ListeLocalisationContenantEtagere	18-2
+2465	ListeLocalisationContenantEtagere	18-3
+2466	ListeLocalisationContenantEtagere	18-4
+2467	ListeLocalisationContenantEtagere	18-5
+2468	ListeLocalisationContenantEtagere	18-6
+2469	ListeLocalisationContenantEtagere	18-7
+2470	ListeLocalisationContenantEtagere	18-8
+1430	ListeLocalisationContenantEtagere	19
+2471	ListeLocalisationContenantEtagere	19-1
+2472	ListeLocalisationContenantEtagere	19-2
+2473	ListeLocalisationContenantEtagere	19-3
+2474	ListeLocalisationContenantEtagere	19-4
+2475	ListeLocalisationContenantEtagere	19-5
+2476	ListeLocalisationContenantEtagere	19-6
+2477	ListeLocalisationContenantEtagere	19-7
+2478	ListeLocalisationContenantEtagere	19-8
+1413	ListeLocalisationContenantEtagere	2
+2331	ListeLocalisationContenantEtagere	2-1
+2332	ListeLocalisationContenantEtagere	2-2
+2333	ListeLocalisationContenantEtagere	2-3
+2334	ListeLocalisationContenantEtagere	2-4
+2348	ListeLocalisationContenantEtagere	2-5
+2365	ListeLocalisationContenantEtagere	2-6
+2366	ListeLocalisationContenantEtagere	2-7
+2367	ListeLocalisationContenantEtagere	2-8
+1431	ListeLocalisationContenantEtagere	20
+2479	ListeLocalisationContenantEtagere	20-1
+2480	ListeLocalisationContenantEtagere	20-2
+2481	ListeLocalisationContenantEtagere	20-3
+2482	ListeLocalisationContenantEtagere	20-4
+2483	ListeLocalisationContenantEtagere	20-5
+2484	ListeLocalisationContenantEtagere	20-6
+2485	ListeLocalisationContenantEtagere	20-7
+2486	ListeLocalisationContenantEtagere	20-8
+2487	ListeLocalisationContenantEtagere	21-1
+2488	ListeLocalisationContenantEtagere	21-2
+2489	ListeLocalisationContenantEtagere	21-3
+2490	ListeLocalisationContenantEtagere	21-4
+2491	ListeLocalisationContenantEtagere	21-5
+2492	ListeLocalisationContenantEtagere	21-6
+2493	ListeLocalisationContenantEtagere	21-7
+2494	ListeLocalisationContenantEtagere	21-8
+2495	ListeLocalisationContenantEtagere	22-1
+2496	ListeLocalisationContenantEtagere	22-2
+2497	ListeLocalisationContenantEtagere	22-3
+2498	ListeLocalisationContenantEtagere	22-4
+2499	ListeLocalisationContenantEtagere	22-5
+2500	ListeLocalisationContenantEtagere	22-6
+2501	ListeLocalisationContenantEtagere	22-7
+2502	ListeLocalisationContenantEtagere	22-8
+2503	ListeLocalisationContenantEtagere	23-1
+2504	ListeLocalisationContenantEtagere	23-2
+2505	ListeLocalisationContenantEtagere	23-3
+2506	ListeLocalisationContenantEtagere	23-4
+2507	ListeLocalisationContenantEtagere	23-5
+2508	ListeLocalisationContenantEtagere	23-6
+2509	ListeLocalisationContenantEtagere	23-7
+2510	ListeLocalisationContenantEtagere	23-8
+2511	ListeLocalisationContenantEtagere	24-1
+2512	ListeLocalisationContenantEtagere	24-2
+2513	ListeLocalisationContenantEtagere	24-3
+2514	ListeLocalisationContenantEtagere	24-4
+2515	ListeLocalisationContenantEtagere	24-5
+2516	ListeLocalisationContenantEtagere	24-6
+2517	ListeLocalisationContenantEtagere	24-7
+2518	ListeLocalisationContenantEtagere	24-8
+2519	ListeLocalisationContenantEtagere	25-1
+2520	ListeLocalisationContenantEtagere	25-2
+2521	ListeLocalisationContenantEtagere	25-3
+2522	ListeLocalisationContenantEtagere	25-4
+2523	ListeLocalisationContenantEtagere	25-5
+2524	ListeLocalisationContenantEtagere	25-6
+2525	ListeLocalisationContenantEtagere	25-7
+2526	ListeLocalisationContenantEtagere	25-8
+2527	ListeLocalisationContenantEtagere	26-1
+2528	ListeLocalisationContenantEtagere	26-2
+2529	ListeLocalisationContenantEtagere	26-3
+2530	ListeLocalisationContenantEtagere	26-4
+2531	ListeLocalisationContenantEtagere	26-5
+2532	ListeLocalisationContenantEtagere	26-6
+2533	ListeLocalisationContenantEtagere	26-7
+2534	ListeLocalisationContenantEtagere	26-8
+2535	ListeLocalisationContenantEtagere	27-1
+2536	ListeLocalisationContenantEtagere	27-2
+2537	ListeLocalisationContenantEtagere	27-3
+2538	ListeLocalisationContenantEtagere	27-4
+2539	ListeLocalisationContenantEtagere	27-5
+2540	ListeLocalisationContenantEtagere	27-6
+2541	ListeLocalisationContenantEtagere	27-7
+2542	ListeLocalisationContenantEtagere	27-8
+2543	ListeLocalisationContenantEtagere	28-1
+2544	ListeLocalisationContenantEtagere	28-2
+2545	ListeLocalisationContenantEtagere	28-3
+2546	ListeLocalisationContenantEtagere	28-4
+2547	ListeLocalisationContenantEtagere	28-5
+2548	ListeLocalisationContenantEtagere	28-6
+2549	ListeLocalisationContenantEtagere	28-7
+2550	ListeLocalisationContenantEtagere	28-8
+2551	ListeLocalisationContenantEtagere	29-1
+2552	ListeLocalisationContenantEtagere	29-2
+2553	ListeLocalisationContenantEtagere	29-3
+2554	ListeLocalisationContenantEtagere	29-4
+2555	ListeLocalisationContenantEtagere	29-5
+2556	ListeLocalisationContenantEtagere	29-6
+2557	ListeLocalisationContenantEtagere	29-7
+2558	ListeLocalisationContenantEtagere	29-8
+1414	ListeLocalisationContenantEtagere	3
+2335	ListeLocalisationContenantEtagere	3-1
+2336	ListeLocalisationContenantEtagere	3-2
+2337	ListeLocalisationContenantEtagere	3-3
+2338	ListeLocalisationContenantEtagere	3-4
+2349	ListeLocalisationContenantEtagere	3-5
+2368	ListeLocalisationContenantEtagere	3-6
+2369	ListeLocalisationContenantEtagere	3-7
+2370	ListeLocalisationContenantEtagere	3-8
+2559	ListeLocalisationContenantEtagere	30-1
+2560	ListeLocalisationContenantEtagere	30-2
+2561	ListeLocalisationContenantEtagere	30-3
+2562	ListeLocalisationContenantEtagere	30-4
+2563	ListeLocalisationContenantEtagere	30-5
+2564	ListeLocalisationContenantEtagere	30-6
+2565	ListeLocalisationContenantEtagere	30-7
+2566	ListeLocalisationContenantEtagere	30-8
+2567	ListeLocalisationContenantEtagere	31-1
+2568	ListeLocalisationContenantEtagere	31-2
+2569	ListeLocalisationContenantEtagere	31-3
+2570	ListeLocalisationContenantEtagere	31-4
+2571	ListeLocalisationContenantEtagere	31-5
+2572	ListeLocalisationContenantEtagere	31-6
+2573	ListeLocalisationContenantEtagere	31-7
+2574	ListeLocalisationContenantEtagere	31-8
+2575	ListeLocalisationContenantEtagere	32-1
+2576	ListeLocalisationContenantEtagere	32-2
+2577	ListeLocalisationContenantEtagere	32-3
+2578	ListeLocalisationContenantEtagere	32-4
+2579	ListeLocalisationContenantEtagere	32-5
+2580	ListeLocalisationContenantEtagere	32-6
+2581	ListeLocalisationContenantEtagere	32-7
+2582	ListeLocalisationContenantEtagere	32-8
+2583	ListeLocalisationContenantEtagere	33-1
+2584	ListeLocalisationContenantEtagere	33-2
+2585	ListeLocalisationContenantEtagere	33-3
+2586	ListeLocalisationContenantEtagere	33-4
+2587	ListeLocalisationContenantEtagere	33-5
+2588	ListeLocalisationContenantEtagere	33-6
+2589	ListeLocalisationContenantEtagere	33-7
+2590	ListeLocalisationContenantEtagere	33-8
+2591	ListeLocalisationContenantEtagere	34-1
+2592	ListeLocalisationContenantEtagere	34-2
+2593	ListeLocalisationContenantEtagere	34-3
+2594	ListeLocalisationContenantEtagere	34-4
+2595	ListeLocalisationContenantEtagere	34-5
+2596	ListeLocalisationContenantEtagere	34-6
+2597	ListeLocalisationContenantEtagere	34-7
+2598	ListeLocalisationContenantEtagere	34-8
+2599	ListeLocalisationContenantEtagere	35-1
+2600	ListeLocalisationContenantEtagere	35-2
+2601	ListeLocalisationContenantEtagere	35-3
+2602	ListeLocalisationContenantEtagere	35-4
+2603	ListeLocalisationContenantEtagere	35-5
+2604	ListeLocalisationContenantEtagere	35-6
+2605	ListeLocalisationContenantEtagere	35-7
+2606	ListeLocalisationContenantEtagere	35-8
+2607	ListeLocalisationContenantEtagere	36-1
+2608	ListeLocalisationContenantEtagere	36-2
+2609	ListeLocalisationContenantEtagere	36-3
+2610	ListeLocalisationContenantEtagere	36-4
+2611	ListeLocalisationContenantEtagere	36-5
+2612	ListeLocalisationContenantEtagere	36-6
+2613	ListeLocalisationContenantEtagere	36-7
+2614	ListeLocalisationContenantEtagere	36-8
+2615	ListeLocalisationContenantEtagere	37-1
+2616	ListeLocalisationContenantEtagere	37-2
+2617	ListeLocalisationContenantEtagere	37-3
+2618	ListeLocalisationContenantEtagere	37-4
+2619	ListeLocalisationContenantEtagere	37-5
+2620	ListeLocalisationContenantEtagere	37-6
+2621	ListeLocalisationContenantEtagere	37-7
+2622	ListeLocalisationContenantEtagere	37-8
+2623	ListeLocalisationContenantEtagere	38-1
+2624	ListeLocalisationContenantEtagere	38-2
+2625	ListeLocalisationContenantEtagere	38-3
+2626	ListeLocalisationContenantEtagere	38-4
+2627	ListeLocalisationContenantEtagere	38-5
+2628	ListeLocalisationContenantEtagere	38-6
+2629	ListeLocalisationContenantEtagere	38-7
+2630	ListeLocalisationContenantEtagere	38-8
+2631	ListeLocalisationContenantEtagere	39-1
+2632	ListeLocalisationContenantEtagere	39-2
+2633	ListeLocalisationContenantEtagere	39-3
+2634	ListeLocalisationContenantEtagere	39-4
+2635	ListeLocalisationContenantEtagere	39-5
+2636	ListeLocalisationContenantEtagere	39-6
+2637	ListeLocalisationContenantEtagere	39-7
+2638	ListeLocalisationContenantEtagere	39-8
+1415	ListeLocalisationContenantEtagere	4
+2339	ListeLocalisationContenantEtagere	4-1
+2340	ListeLocalisationContenantEtagere	4-2
+2341	ListeLocalisationContenantEtagere	4-3
+2342	ListeLocalisationContenantEtagere	4-4
+2350	ListeLocalisationContenantEtagere	4-5
+2371	ListeLocalisationContenantEtagere	4-6
+2372	ListeLocalisationContenantEtagere	4-7
+2373	ListeLocalisationContenantEtagere	4-8
+2639	ListeLocalisationContenantEtagere	40-1
+2640	ListeLocalisationContenantEtagere	40-2
+2641	ListeLocalisationContenantEtagere	40-3
+2642	ListeLocalisationContenantEtagere	40-4
+2643	ListeLocalisationContenantEtagere	40-5
+2644	ListeLocalisationContenantEtagere	40-6
+2645	ListeLocalisationContenantEtagere	40-7
+2646	ListeLocalisationContenantEtagere	40-8
+2647	ListeLocalisationContenantEtagere	41-1
+2648	ListeLocalisationContenantEtagere	41-2
+2649	ListeLocalisationContenantEtagere	41-3
+2650	ListeLocalisationContenantEtagere	41-4
+2651	ListeLocalisationContenantEtagere	41-5
+2652	ListeLocalisationContenantEtagere	41-6
+2653	ListeLocalisationContenantEtagere	41-7
+2654	ListeLocalisationContenantEtagere	41-8
+1416	ListeLocalisationContenantEtagere	5
+2343	ListeLocalisationContenantEtagere	5-1
+2344	ListeLocalisationContenantEtagere	5-2
+2345	ListeLocalisationContenantEtagere	5-3
+2346	ListeLocalisationContenantEtagere	5-4
+2351	ListeLocalisationContenantEtagere	5-5
+2374	ListeLocalisationContenantEtagere	5-6
+2375	ListeLocalisationContenantEtagere	5-7
+2376	ListeLocalisationContenantEtagere	5-8
+1417	ListeLocalisationContenantEtagere	6
+2352	ListeLocalisationContenantEtagere	6-1
+2353	ListeLocalisationContenantEtagere	6-2
+2354	ListeLocalisationContenantEtagere	6-3
+2355	ListeLocalisationContenantEtagere	6-4
+2356	ListeLocalisationContenantEtagere	6-5
+2377	ListeLocalisationContenantEtagere	6-6
+2378	ListeLocalisationContenantEtagere	6-7
+2379	ListeLocalisationContenantEtagere	6-8
+1418	ListeLocalisationContenantEtagere	7
+2357	ListeLocalisationContenantEtagere	7-1
+2358	ListeLocalisationContenantEtagere	7-2
+2359	ListeLocalisationContenantEtagere	7-3
+2360	ListeLocalisationContenantEtagere	7-4
+2361	ListeLocalisationContenantEtagere	7-5
+2380	ListeLocalisationContenantEtagere	7-6
+2381	ListeLocalisationContenantEtagere	7-7
+2382	ListeLocalisationContenantEtagere	7-8
+1419	ListeLocalisationContenantEtagere	8
+2383	ListeLocalisationContenantEtagere	8-1
+2384	ListeLocalisationContenantEtagere	8-2
+2385	ListeLocalisationContenantEtagere	8-3
+2386	ListeLocalisationContenantEtagere	8-4
+2387	ListeLocalisationContenantEtagere	8-5
+2388	ListeLocalisationContenantEtagere	8-6
+2389	ListeLocalisationContenantEtagere	8-7
+2390	ListeLocalisationContenantEtagere	8-8
+1420	ListeLocalisationContenantEtagere	9
+2391	ListeLocalisationContenantEtagere	9-1
+2392	ListeLocalisationContenantEtagere	9-2
+2393	ListeLocalisationContenantEtagere	9-3
+2394	ListeLocalisationContenantEtagere	9-4
+2395	ListeLocalisationContenantEtagere	9-5
+2396	ListeLocalisationContenantEtagere	9-6
+2397	ListeLocalisationContenantEtagere	9-7
+2398	ListeLocalisationContenantEtagere	9-8
+1432	ListeLocalisationContenantTablette	1
+1433	ListeLocalisationContenantTablette	2
+1434	ListeLocalisationContenantTablette	3
+1435	ListeLocalisationContenantTablette	4
+1436	ListeLocalisationContenantTablette	5
+1437	ListeLocalisationContenantTablette	6
+2319	ListeLocalisationContenantTablette	7
+2320	ListeLocalisationContenantTablette	8
+865	ListeDocumentChamps	indéterminé
+864	ListeDocumentChamps	vue aérienne
+863	ListeDocumentChamps	vue de détail
+866	ListeDocumentChamps	vue en coupe
+867	ListeDocumentChamps	vue en plan
+868	ListeDocumentChamps	vue générale
+1078	ListeAnthropologieEtat	déplacée
+1079	ListeAnthropologieEtat	lâche
+1077	ListeAnthropologieEtat	étroite
+749	ListeContenantHauteur	11.8
+748	ListeContenantHauteur	15
+759	ListeContenantHauteur	16
+750	ListeContenantHauteur	17.5
+756	ListeContenantHauteur	20
+753	ListeContenantHauteur	23.5
+2844	ListeContenantHauteur	25
+755	ListeContenantHauteur	26
+2828	ListeContenantHauteur	3
+757	ListeContenantHauteur	30
+754	ListeContenantHauteur	31.9
+2843	ListeContenantHauteur	32.5
+2834	ListeContenantHauteur	4.5
+758	ListeContenantHauteur	41.2
+760	ListeContenantHauteur	6
+752	ListeContenantHauteur	7.4
+2835	ListeContenantHauteur	8.5
+747	ListeContenantHauteur	9
+1019	ListeAnthropologieCompression	bassin
+1017	ListeAnthropologieCompression	genoux
+1018	ListeAnthropologieCompression	pieds
+1016	ListeAnthropologieCompression	épaules
+2251	ListeMobilierEtatConservation	archéologiquement complet
+2250	ListeMobilierEtatConservation	fragmenté et incomplet
+2249	ListeMobilierEtatConservation	intact
+302	ListeMatiereType	Autre (non travaillé)
+1833	ListeMatiereType	Faune (non travaillé)
+1832	ListeMatiereType	Humain (non travaillé)
+308	ListeMatiereType	autre
+296	ListeMatiereType	céramique
+2208	ListeMatiereType	indéterminé
+294	ListeMatiereType	lapidaire
+293	ListeMatiereType	lithique
+306	ListeMatiereType	matériaux de construction autre
+305	ListeMatiereType	monétaire
+304	ListeMatiereType	métal ferreux
+303	ListeMatiereType	métal non ferreux
+295	ListeMatiereType	pierre autre
+307	ListeMatiereType	synthétique
+297	ListeMatiereType	terre cuite architecturale
+298	ListeMatiereType	terre cuite autre
+301	ListeMatiereType	travaillé
+300	ListeMatiereType	verre autre
+299	ListeMatiereType	verre de construction
+287	ListeMatiere	autre
+289	ListeMatiere	indéterminé
+286	ListeMatiere	minéral
+290	ListeMatiere	métal
+292	ListeMatiere	organique
+285	ListeMatiere	terre cuite
+288	ListeMatiere	verre
+47	ListeRelationStratigraphique	a coupé
+45	ListeRelationStratigraphique	appartient à
+2238	ListeRelationStratigraphique	appartient à + est sur
+42	ListeRelationStratigraphique	contient
+2237	ListeRelationStratigraphique	contient + est sous
+44	ListeRelationStratigraphique	coupé par
+46	ListeRelationStratigraphique	est égal à
+48	ListeRelationStratigraphique	sous
+49	ListeRelationStratigraphique	sur
+43	ListeRelationStratigraphique	synchrone
+2677	ListeContenantLargeur	10
+739	ListeContenantLargeur	14
+741	ListeContenantLargeur	20
+740	ListeContenantLargeur	21
+2833	ListeContenantLargeur	26
+742	ListeContenantLargeur	30
+2836	ListeContenantLargeur	32.5
+743	ListeContenantLargeur	36
+744	ListeContenantLargeur	40
+2826	ListeContenantLargeur	42
+2829	ListeContenantLargeur	59.4
+745	ListeContenantLargeur	60
+746	ListeContenantLargeur	80
+2827	ListeContenantLargeur	84.1
+850	ListeDocumentFormat	A3
+849	ListeDocumentFormat	A4
+830	ListeDocumentFormat	ai
+1881	ListeDocumentFormat	csv
+834	ListeDocumentFormat	doc
+835	ListeDocumentFormat	docx
+842	ListeDocumentFormat	dwg
+841	ListeDocumentFormat	dxf
+827	ListeDocumentFormat	jpeg
+848	ListeDocumentFormat	ods
+847	ListeDocumentFormat	odt
+840	ListeDocumentFormat	pdf
+829	ListeDocumentFormat	png
+831	ListeDocumentFormat	psd
+844	ListeDocumentFormat	rtf
+838	ListeDocumentFormat	shp
+839	ListeDocumentFormat	sqlite
+837	ListeDocumentFormat	ssf
+846	ListeDocumentFormat	svg
+828	ListeDocumentFormat	tiff
+843	ListeDocumentFormat	txt
+832	ListeDocumentFormat	xls
+833	ListeDocumentFormat	xlsx
+845	ListeDocumentFormat	xml
+836	ListeDocumentFormat	zip
+981	ListeAnthropologieFaceApparition	antérieure
+978	ListeAnthropologieFaceApparition	antéro-latérale
+989	ListeAnthropologieFaceApparition	antéro-mésiale
+983	ListeAnthropologieFaceApparition	arrière
+980	ListeAnthropologieFaceApparition	de face
+985	ListeAnthropologieFaceApparition	dessous
+977	ListeAnthropologieFaceApparition	dessus
+982	ListeAnthropologieFaceApparition	dorsale
+991	ListeAnthropologieFaceApparition	indéterminée
+987	ListeAnthropologieFaceApparition	latérale droit
+976	ListeAnthropologieFaceApparition	latérale gauche
+990	ListeAnthropologieFaceApparition	médiale
+986	ListeAnthropologieFaceApparition	palmaire
+979	ListeAnthropologieFaceApparition	postérieure
+984	ListeAnthropologieFaceApparition	postéro-latérale
+988	ListeAnthropologieFaceApparition	postéro-mésiale
+975	ListeAnthropologieFaceApparition	verticale
+1815	ListeLocalisationContenantSalle	0
+1816	ListeLocalisationContenantSalle	1
+1411	ListeLocalisationContenantSalle	10
+1817	ListeLocalisationContenantSalle	2
+2321	ListeLocalisationContenantSalle	20
+2322	ListeLocalisationContenantSalle	21
+2323	ListeLocalisationContenantSalle	22
+2324	ListeLocalisationContenantSalle	23
+2325	ListeLocalisationContenantSalle	24
+2326	ListeLocalisationContenantSalle	25
+1818	ListeLocalisationContenantSalle	3
+1410	ListeLocalisationContenantSalle	4
+1819	ListeLocalisationContenantSalle	7
+1820	ListeLocalisationContenantSalle	8
+992	ListeAnthropologieSymetrie	assymétrique
+993	ListeAnthropologieSymetrie	symétrique
+1409	ListeLocalisationContenantBatiment	ADS
+1408	ListeLocalisationContenantBatiment	CCE
+2846	ListeLocalisationContenantBatiment	EFS
+761	ListeDocumentTypologie	Administratif
+764	ListeDocumentTypologie	Inventaire
+763	ListeDocumentTypologie	Médiation
+765	ListeDocumentTypologie	Rapport
+762	ListeDocumentTypologie	Terrain & Post-fouille
+1267	ListeAnthropologieOsPartieConcerne	1er molaire (de lait)
+1345	ListeAnthropologieOsPartieConcerne	1er métacarpe
+1403	ListeAnthropologieOsPartieConcerne	1er métatarsien
+1306	ListeAnthropologieOsPartieConcerne	1ère coccygienne
+1271	ListeAnthropologieOsPartieConcerne	1ère molaire
+1269	ListeAnthropologieOsPartieConcerne	1ère prémolaire
+1307	ListeAnthropologieOsPartieConcerne	2ème coccygienne
+1272	ListeAnthropologieOsPartieConcerne	2ème molaire
+1268	ListeAnthropologieOsPartieConcerne	2ème molaire (de lait)
+1346	ListeAnthropologieOsPartieConcerne	2ème métacarpe
+1404	ListeAnthropologieOsPartieConcerne	2ème métatarsien
+1270	ListeAnthropologieOsPartieConcerne	2ème prémolaire
+1308	ListeAnthropologieOsPartieConcerne	3ème coccygienne
+1273	ListeAnthropologieOsPartieConcerne	3ème molaire (de sagesse)
+1347	ListeAnthropologieOsPartieConcerne	3ème métacarpe
+1405	ListeAnthropologieOsPartieConcerne	3ème métatarsien
+1309	ListeAnthropologieOsPartieConcerne	4ème coccygienne
+1348	ListeAnthropologieOsPartieConcerne	4ème métacarpe
+1406	ListeAnthropologieOsPartieConcerne	4ème métatarsien
+1310	ListeAnthropologieOsPartieConcerne	5ème coccygienne
+1349	ListeAnthropologieOsPartieConcerne	5ème métacarpe
+1407	ListeAnthropologieOsPartieConcerne	5ème métatarsien
+1281	ListeAnthropologieOsPartieConcerne	acromion
+1358	ListeAnthropologieOsPartieConcerne	acétabulum
+1263	ListeAnthropologieOsPartieConcerne	aile
+1301	ListeAnthropologieOsPartieConcerne	aile sacrum
+1247	ListeAnthropologieOsPartieConcerne	alvéoles dentaires/ arcade dentaire
+1246	ListeAnthropologieOsPartieConcerne	angle goniaque
+1385	ListeAnthropologieOsPartieConcerne	apex
+1381	ListeAnthropologieOsPartieConcerne	apophyse styloïde (apex)
+1296	ListeAnthropologieOsPartieConcerne	arc antérieur
+1297	ListeAnthropologieOsPartieConcerne	arc postérieur
+1250	ListeAnthropologieOsPartieConcerne	arcade zygomatique
+1386	ListeAnthropologieOsPartieConcerne	base
+1367	ListeAnthropologieOsPartieConcerne	branche inférieure du pubis
+1368	ListeAnthropologieOsPartieConcerne	branche supérieure du pubis
+1387	ListeAnthropologieOsPartieConcerne	calcaneus
+1266	ListeAnthropologieOsPartieConcerne	canine
+1338	ListeAnthropologieOsPartieConcerne	capitatum
+1325	ListeAnthropologieOsPartieConcerne	capitulum
+1314	ListeAnthropologieOsPartieConcerne	cartilage costal
+1287	ListeAnthropologieOsPartieConcerne	cartilage cricoïde
+1286	ListeAnthropologieOsPartieConcerne	cartilage thyroïde
+1312	ListeAnthropologieOsPartieConcerne	col
+1225	ListeAnthropologieOsPartieConcerne	conduit auditif
+1322	ListeAnthropologieOsPartieConcerne	condyle latéral
+1373	ListeAnthropologieOsPartieConcerne	condyle médial
+1228	ListeAnthropologieOsPartieConcerne	condyle occipital
+1305	ListeAnthropologieOsPartieConcerne	corne coccygienne
+1304	ListeAnthropologieOsPartieConcerne	corne sacral
+1256	ListeAnthropologieOsPartieConcerne	corps
+1370	ListeAnthropologieOsPartieConcerne	corps de l’ischium
+1390	ListeAnthropologieOsPartieConcerne	corps du calcaneus
+1393	ListeAnthropologieOsPartieConcerne	corps du talus
+1278	ListeAnthropologieOsPartieConcerne	corps sternal
+1243	ListeAnthropologieOsPartieConcerne	corps/ branche montante
+1261	ListeAnthropologieOsPartieConcerne	crista galli
+1357	ListeAnthropologieOsPartieConcerne	crête iliaque
+1399	ListeAnthropologieOsPartieConcerne	cuboïde
+1401	ListeAnthropologieOsPartieConcerne	cunéiforme intermédiaire
+1402	ListeAnthropologieOsPartieConcerne	cunéiforme latéral
+1400	ListeAnthropologieOsPartieConcerne	cunéiforme médial
+1295	ListeAnthropologieOsPartieConcerne	dent
+1275	ListeAnthropologieOsPartieConcerne	diaphyse
+1288	ListeAnthropologieOsPartieConcerne	emplacement indéterminé
+1214	ListeAnthropologieOsPartieConcerne	entier
+1240	ListeAnthropologieOsPartieConcerne	entière
+1276	ListeAnthropologieOsPartieConcerne	extrémité acromiale
+1274	ListeAnthropologieOsPartieConcerne	extrémité sternale
+1233	ListeAnthropologieOsPartieConcerne	face orbitaire
+1383	ListeAnthropologieOsPartieConcerne	facette latérale
+1384	ListeAnthropologieOsPartieConcerne	facette médiale
+1230	ListeAnthropologieOsPartieConcerne	foramen magnum
+1365	ListeAnthropologieOsPartieConcerne	fosse iliaque
+1376	ListeAnthropologieOsPartieConcerne	fosse intercondylienne
+1327	ListeAnthropologieOsPartieConcerne	fosse olécrânienne
+1216	ListeAnthropologieOsPartieConcerne	glabelle
+1282	ListeAnthropologieOsPartieConcerne	glénoïde
+1371	ListeAnthropologieOsPartieConcerne	grand trochanter
+1255	ListeAnthropologieOsPartieConcerne	grande aile
+1285	ListeAnthropologieOsPartieConcerne	grande corne
+1360	ListeAnthropologieOsPartieConcerne	grande échancrure ischiatique
+1343	ListeAnthropologieOsPartieConcerne	hamatum
+1259	ListeAnthropologieOsPartieConcerne	hamulus
+1215	ListeAnthropologieOsPartieConcerne	hémi-frontal
+1241	ListeAnthropologieOsPartieConcerne	hémi-mandibule
+1232	ListeAnthropologieOsPartieConcerne	hémi-maxillaire
+1248	ListeAnthropologieOsPartieConcerne	hémi-nasal
+1219	ListeAnthropologieOsPartieConcerne	hémi-pariétal
+1354	ListeAnthropologieOsPartieConcerne	ilion
+1264	ListeAnthropologieOsPartieConcerne	incisive centrale
+1265	ListeAnthropologieOsPartieConcerne	incisive latérale
+1334	ListeAnthropologieOsPartieConcerne	incisure radiale
+1335	ListeAnthropologieOsPartieConcerne	incisure trochléaire
+1315	ListeAnthropologieOsPartieConcerne	indéterminée
+1355	ListeAnthropologieOsPartieConcerne	ischion
+1298	ListeAnthropologieOsPartieConcerne	lame
+1262	ListeAnthropologieOsPartieConcerne	lame criblée
+1252	ListeAnthropologieOsPartieConcerne	lame horizontale
+1251	ListeAnthropologieOsPartieConcerne	lame perpendiculaire
+1289	ListeAnthropologieOsPartieConcerne	listel
+1339	ListeAnthropologieOsPartieConcerne	lunatum
+1382	ListeAnthropologieOsPartieConcerne	malléole latérale
+1379	ListeAnthropologieOsPartieConcerne	malléole médiale
+1239	ListeAnthropologieOsPartieConcerne	mandibule
+1277	ListeAnthropologieOsPartieConcerne	manubrium
+1231	ListeAnthropologieOsPartieConcerne	maxillaire
+1226	ListeAnthropologieOsPartieConcerne	méat acoustique externe
+1398	ListeAnthropologieOsPartieConcerne	naviculaire (scaphoïde tarsien)
+1333	ListeAnthropologieOsPartieConcerne	olécrâne
+1218	ListeAnthropologieOsPartieConcerne	orbite
+1350	ListeAnthropologieOsPartieConcerne	os sésamoïdes
+1229	ListeAnthropologieOsPartieConcerne	partie basilaire
+1223	ListeAnthropologieOsPartieConcerne	partie pétreuse
+1224	ListeAnthropologieOsPartieConcerne	partie squameuse
+1372	ListeAnthropologieOsPartieConcerne	petit trochanter
+1254	ListeAnthropologieOsPartieConcerne	petite aile
+1284	ListeAnthropologieOsPartieConcerne	petites corne
+1353	ListeAnthropologieOsPartieConcerne	phalange distale
+1352	ListeAnthropologieOsPartieConcerne	phalange moyenne
+1351	ListeAnthropologieOsPartieConcerne	phalange proximale
+1344	ListeAnthropologieOsPartieConcerne	pisiforme
+1235	ListeAnthropologieOsPartieConcerne	processus alvéolaire
+1292	ListeAnthropologieOsPartieConcerne	processus articulaire
+1302	ListeAnthropologieOsPartieConcerne	processus articulaire supérieur sacrum
+1244	ListeAnthropologieOsPartieConcerne	processus condylaire
+1280	ListeAnthropologieOsPartieConcerne	processus coracoïde
+1245	ListeAnthropologieOsPartieConcerne	processus coronoïde
+1234	ListeAnthropologieOsPartieConcerne	processus frontal
+1396	ListeAnthropologieOsPartieConcerne	processus latéral talus
+1300	ListeAnthropologieOsPartieConcerne	processus mamillaire
+1222	ListeAnthropologieOsPartieConcerne	processus mastoïde
+1236	ListeAnthropologieOsPartieConcerne	processus palatin
+1258	ListeAnthropologieOsPartieConcerne	processus ptérygoïde
+1253	ListeAnthropologieOsPartieConcerne	processus pyramidal
+1221	ListeAnthropologieOsPartieConcerne	processus styloïde
+1249	ListeAnthropologieOsPartieConcerne	processus temporal
+1290	ListeAnthropologieOsPartieConcerne	processus transverse
+1279	ListeAnthropologieOsPartieConcerne	processus xiphoïde
+1220	ListeAnthropologieOsPartieConcerne	processus zygomatique
+1291	ListeAnthropologieOsPartieConcerne	processus épineux
+1242	ListeAnthropologieOsPartieConcerne	protubérance mentonnière
+1227	ListeAnthropologieOsPartieConcerne	protubérance occipitale
+1356	ListeAnthropologieOsPartieConcerne	pubis
+1299	ListeAnthropologieOsPartieConcerne	pédicule
+1337	ListeAnthropologieOsPartieConcerne	scaphoïde
+1257	ListeAnthropologieOsPartieConcerne	selle turcique
+1217	ListeAnthropologieOsPartieConcerne	sinus frontal
+1397	ListeAnthropologieOsPartieConcerne	surface articulaire calcanéennes
+1331	ListeAnthropologieOsPartieConcerne	surface articulaire lunaire
+1380	ListeAnthropologieOsPartieConcerne	surface articulaire malléole
+1395	ListeAnthropologieOsPartieConcerne	surface articulaire naviculaire
+1330	ListeAnthropologieOsPartieConcerne	surface articulaire scaphoïdienne
+1389	ListeAnthropologieOsPartieConcerne	surface articulaire talaire
+1303	ListeAnthropologieOsPartieConcerne	surface auriculaire
+1374	ListeAnthropologieOsPartieConcerne	surface poplitée
+1366	ListeAnthropologieOsPartieConcerne	surface symphysaire
+1388	ListeAnthropologieOsPartieConcerne	talus (astragale)
+1341	ListeAnthropologieOsPartieConcerne	trapèze
+1342	ListeAnthropologieOsPartieConcerne	trapézoïde
+1340	ListeAnthropologieOsPartieConcerne	triquétrum
+1326	ListeAnthropologieOsPartieConcerne	trochlée
+1392	ListeAnthropologieOsPartieConcerne	trochlée du talus
+1313	ListeAnthropologieOsPartieConcerne	tubercule
+1293	ListeAnthropologieOsPartieConcerne	tubercule antérieur
+1377	ListeAnthropologieOsPartieConcerne	tubercule intercondylaire
+1319	ListeAnthropologieOsPartieConcerne	tubercule majeur
+1320	ListeAnthropologieOsPartieConcerne	tubercule mineur
+1294	ListeAnthropologieOsPartieConcerne	tubercule postérieur
+1329	ListeAnthropologieOsPartieConcerne	tubérosité bicipitale
+1391	ListeAnthropologieOsPartieConcerne	tubérosité calcaneus
+1321	ListeAnthropologieOsPartieConcerne	tubérosité deltoïdienne/ condyle médial
+1375	ListeAnthropologieOsPartieConcerne	tubérosité glutéale
+1369	ListeAnthropologieOsPartieConcerne	tubérosité iliaque
+1359	ListeAnthropologieOsPartieConcerne	tubérosité ischiatique
+1238	ListeAnthropologieOsPartieConcerne	tubérosité maxillaire
+1378	ListeAnthropologieOsPartieConcerne	tubérosité tibiale
+1336	ListeAnthropologieOsPartieConcerne	tubérosité ulnaire
+1332	ListeAnthropologieOsPartieConcerne	tête
+1311	ListeAnthropologieOsPartieConcerne	tête costale
+1394	ListeAnthropologieOsPartieConcerne	tête du talus
+1318	ListeAnthropologieOsPartieConcerne	tête humérale
+1328	ListeAnthropologieOsPartieConcerne	tête radiale
+1324	ListeAnthropologieOsPartieConcerne	épicondyle latéral
+1323	ListeAnthropologieOsPartieConcerne	épicondyle médial
+1283	ListeAnthropologieOsPartieConcerne	épine acromiale
+1361	ListeAnthropologieOsPartieConcerne	épine iliaque antéro-supérieure
+1363	ListeAnthropologieOsPartieConcerne	épine iliaque postéro-inférieure
+1362	ListeAnthropologieOsPartieConcerne	épine iliaque postéro-supérieure
+1364	ListeAnthropologieOsPartieConcerne	épine ischiatique
+1237	ListeAnthropologieOsPartieConcerne	épine nasale
+1260	ListeAnthropologieOsPartieConcerne	épine sphénoïdale
+1317	ListeAnthropologieOsPartieConcerne	épiphyse distale
+1316	ListeAnthropologieOsPartieConcerne	épiphyse proximale
+28	ListeTypeOrganisme	aménageur
+34	ListeTypeOrganisme	collectivité
+35	ListeTypeOrganisme	médiation
+32	ListeTypeOrganisme	opérateur
+30	ListeTypeOrganisme	prescripteur
+31	ListeTypeOrganisme	prestataire
+33	ListeTypeOrganisme	propriétaire foncier
+29	ListeTypeOrganisme	étude
+725	ListeContenantMatiere	autre
+2671	ListeContenantMatiere	autre - matériaux de construction
+2670	ListeContenantMatiere	autre - synthétique
+724	ListeContenantMatiere	documentation
+723	ListeContenantMatiere	minéral
+2667	ListeContenantMatiere	minéral - lapidaire
+2668	ListeContenantMatiere	minéral - lithique
+2669	ListeContenantMatiere	minéral - pierre autre
+722	ListeContenantMatiere	mixte
+727	ListeContenantMatiere	métal
+2665	ListeContenantMatiere	métal - ferreux
+2664	ListeContenantMatiere	métal - monétaire
+2666	ListeContenantMatiere	métal - non-ferreux
+729	ListeContenantMatiere	organique
+2660	ListeContenantMatiere	organique - autre
+2661	ListeContenantMatiere	organique - faune
+2662	ListeContenantMatiere	organique - humain
+2663	ListeContenantMatiere	organique - travaillé
+721	ListeContenantMatiere	terre cuite
+2656	ListeContenantMatiere	terre cuite - TCA
+2657	ListeContenantMatiere	terre cuite - autre
+2655	ListeContenantMatiere	terre cuite - céramique
+726	ListeContenantMatiere	verre
+2659	ListeContenantMatiere	verre - autre
+2658	ListeContenantMatiere	verre - construction
+1601	ListeArcheozoologieOsPartieConcerne	acromion
+1597	ListeArcheozoologieOsPartieConcerne	acétabulum
+1587	ListeArcheozoologieOsPartieConcerne	aile
+1608	ListeArcheozoologieOsPartieConcerne	alvéoles dentaires/ arcade dentaire.
+1641	ListeArcheozoologieOsPartieConcerne	angle
+1563	ListeArcheozoologieOsPartieConcerne	arcade zygomatique
+1630	ListeArcheozoologieOsPartieConcerne	branche
+1585	ListeArcheozoologieOsPartieConcerne	bulle tympanique
+1576	ListeArcheozoologieOsPartieConcerne	canine
+1648	ListeArcheozoologieOsPartieConcerne	chute
+1607	ListeArcheozoologieOsPartieConcerne	condyle occipital
+1553	ListeArcheozoologieOsPartieConcerne	corps
+1619	ListeArcheozoologieOsPartieConcerne	corps sternal
+1656	ListeArcheozoologieOsPartieConcerne	diaphyse
+2955	ListeArcheozoologieOsPartieConcerne	diaphyse distale
+2956	ListeArcheozoologieOsPartieConcerne	diaphyse proximale
+1604	ListeArcheozoologieOsPartieConcerne	distal
+1599	ListeArcheozoologieOsPartieConcerne	entier
+1561	ListeArcheozoologieOsPartieConcerne	entière
+1654	ListeArcheozoologieOsPartieConcerne	face orbitaire
+1636	ListeArcheozoologieOsPartieConcerne	foramen magnum
+1567	ListeArcheozoologieOsPartieConcerne	fragment
+1617	ListeArcheozoologieOsPartieConcerne	ilium
+1651	ListeArcheozoologieOsPartieConcerne	incisive
+1638	ListeArcheozoologieOsPartieConcerne	ischium
+1631	ListeArcheozoologieOsPartieConcerne	lame horizontale
+1589	ListeArcheozoologieOsPartieConcerne	lame perpendiculaire
+1613	ListeArcheozoologieOsPartieConcerne	m1
+1640	ListeArcheozoologieOsPartieConcerne	m1 ou m2
+1615	ListeArcheozoologieOsPartieConcerne	m2
+1614	ListeArcheozoologieOsPartieConcerne	m3
+1644	ListeArcheozoologieOsPartieConcerne	manubrium
+1569	ListeArcheozoologieOsPartieConcerne	massacre
+1655	ListeArcheozoologieOsPartieConcerne	molaire
+1616	ListeArcheozoologieOsPartieConcerne	méat acoustique externe
+1606	ListeArcheozoologieOsPartieConcerne	olécrâne
+1610	ListeArcheozoologieOsPartieConcerne	orbite
+1635	ListeArcheozoologieOsPartieConcerne	partie basilaire
+1574	ListeArcheozoologieOsPartieConcerne	partie pétreuse
+1623	ListeArcheozoologieOsPartieConcerne	partie écailleuse
+1591	ListeArcheozoologieOsPartieConcerne	pm1
+1584	ListeArcheozoologieOsPartieConcerne	pm2
+1593	ListeArcheozoologieOsPartieConcerne	pm3
+1588	ListeArcheozoologieOsPartieConcerne	pm4
+1612	ListeArcheozoologieOsPartieConcerne	pm4 lait
+1559	ListeArcheozoologieOsPartieConcerne	processus condylaire
+1594	ListeArcheozoologieOsPartieConcerne	processus coracoïde
+1583	ListeArcheozoologieOsPartieConcerne	processus cornual
+1560	ListeArcheozoologieOsPartieConcerne	processus coronoïde
+1579	ListeArcheozoologieOsPartieConcerne	processus frontal
+1605	ListeArcheozoologieOsPartieConcerne	processus mastoïde
+1557	ListeArcheozoologieOsPartieConcerne	processus nasal
+1573	ListeArcheozoologieOsPartieConcerne	processus palatin
+1580	ListeArcheozoologieOsPartieConcerne	processus styloïde
+1625	ListeArcheozoologieOsPartieConcerne	processus temporal
+1650	ListeArcheozoologieOsPartieConcerne	processus xiphoïde.
+1571	ListeArcheozoologieOsPartieConcerne	processus zygomatique
+1586	ListeArcheozoologieOsPartieConcerne	protubérance occipitale
+1558	ListeArcheozoologieOsPartieConcerne	proximal
+1622	ListeArcheozoologieOsPartieConcerne	prémolaire
+1582	ListeArcheozoologieOsPartieConcerne	pubis
+1609	ListeArcheozoologieOsPartieConcerne	sternèbre
+1598	ListeArcheozoologieOsPartieConcerne	symphyse
+1627	ListeArcheozoologieOsPartieConcerne	tête
+1602	ListeArcheozoologieOsPartieConcerne	épine
+1639	ListeArcheozoologieOsPartieConcerne	épine acromiale
+2957	ListeArcheozoologieOsPartieConcerne	épiphyse distale
+1581	ListeArcheozoologieOsPartieConcerne	épiphyse distale
+1624	ListeArcheozoologieOsPartieConcerne	épiphyse proximale
+2958	ListeArcheozoologieOsPartieConcerne	épiphyse proximale
+1025	ListeAnthropologiePositionInSituOs	au niveau des coudes opposés
+1021	ListeAnthropologiePositionInSituOs	diagonale
+1033	ListeAnthropologiePositionInSituOs	en place
+1022	ListeAnthropologiePositionInSituOs	extension
+1030	ListeAnthropologiePositionInSituOs	fléxion
+1034	ListeAnthropologiePositionInSituOs	horizontale
+1020	ListeAnthropologiePositionInSituOs	le long du corps
+1031	ListeAnthropologiePositionInSituOs	non en place
+1032	ListeAnthropologiePositionInSituOs	sur l'abdomen
+1024	ListeAnthropologiePositionInSituOs	sur l'épaule
+1026	ListeAnthropologiePositionInSituOs	sur le bassin
+1028	ListeAnthropologiePositionInSituOs	sur le fémur
+1027	ListeAnthropologiePositionInSituOs	sur le pubis
+1029	ListeAnthropologiePositionInSituOs	sur le thorax
+1023	ListeAnthropologiePositionInSituOs	verticale
+2672	ListeTypeProjet	collection
+5	ListeTypeProjet	diagnostic
+1	ListeTypeProjet	fouille programmée
+4	ListeTypeProjet	fouille préventive
+3	ListeTypeProjet	indice de site
+8	ListeTypeProjet	projet collectif de recherche
+6	ListeTypeProjet	prospection
+2924	ListeTypeProjet	sauvetage
+7	ListeTypeProjet	sondage
+2	ListeTypeProjet	surveillance de travaux
+1851	ListeIncNature	ardoise
+176	ListeIncNature	calcaire
+1859	ListeIncNature	carbonatée (calcaire, craie, tuf, etc.)
+183	ListeIncNature	charbon de bois
+1860	ListeIncNature	coquille
+180	ListeIncNature	craie
+181	ListeIncNature	galet
+175	ListeIncNature	grès
+186	ListeIncNature	manganèse
+184	ListeIncNature	mortier
+2841	ListeIncNature	métal - ferreux
+2842	ListeIncNature	métal - non ferreux
+1856	ListeIncNature	organique
+2941	ListeIncNature	organique - végétaux
+179	ListeIncNature	oxyde de fer
+185	ListeIncNature	oxyde ferro-manganique
+182	ListeIncNature	racine
+177	ListeIncNature	silex
+178	ListeIncNature	terre cuite
+188	ListeIncNature	terre cuite - brique
+1857	ListeIncNature	terre cuite - tuile
+189	ListeIncNature	terre rubéfiée
+187	ListeIncNature	torchis
+2953	ListeIncNature	traces d'hydromorphie
+994	ListeAnthropologieMisePlatThorax	complète
+995	ListeAnthropologieMisePlatThorax	incomplète
+324	ListeTechnologie	bloc
+1481	ListeTechnologie	bloc testé
+311	ListeTechnologie	casson
+2894	ListeTechnologie	chopper
+2888	ListeTechnologie	chute de burin
+336	ListeTechnologie	débitage
+2891	ListeTechnologie	débris
+316	ListeTechnologie	esquille
+2889	ListeTechnologie	esquille de retouche
+1879	ListeTechnologie	galet testé
+319	ListeTechnologie	lame
+1482	ListeTechnologie	lame Levallois
+330	ListeTechnologie	lame corticale
+347	ListeTechnologie	lame à crête
+322	ListeTechnologie	lame à pan revers
+313	ListeTechnologie	lamelle
+1491	ListeTechnologie	lamelle de flanc
+328	ListeTechnologie	lamelle à pan revers
+1880	ListeTechnologie	micro-lamelle
+312	ListeTechnologie	nucléus
+325	ListeTechnologie	nucléus bipolaire à lamelles
+340	ListeTechnologie	nucléus bipolaire à lames
+341	ListeTechnologie	nucléus bipolaire à éclat
+310	ListeTechnologie	nucléus multipolaire à lamelles
+344	ListeTechnologie	nucléus multipolaire à lames
+314	ListeTechnologie	nucléus multipolaire à éclats
+2898	ListeTechnologie	nucléus repris
+2899	ListeTechnologie	nucléus unipolaire mixte
+320	ListeTechnologie	nucléus unipolaire à lamelles
+315	ListeTechnologie	nucléus unipolaire à lames
+343	ListeTechnologie	nucléus unipolaire à éclats
+2895	ListeTechnologie	nucléus à débitage discoïde
+317	ListeTechnologie	nucléus à débitage sur tranche
+2897	ListeTechnologie	nucléus à lamelles Montbani
+1486	ListeTechnologie	nucléus à lames Levallois
+2893	ListeTechnologie	nucléus à pointe Levallois
+339	ListeTechnologie	nucléus à éclat préférentiel
+1485	ListeTechnologie	nucléus à éclats Levallois
+1484	ListeTechnologie	nucléus à éclats centripète
+2896	ListeTechnologie	nucléus à éclats récurrents
+2885	ListeTechnologie	outil poli
+2883	ListeTechnologie	outil sur bloc
+2884	ListeTechnologie	outil sur débris
+2881	ListeTechnologie	outil sur lame
+2882	ListeTechnologie	outil sur lamelle
+2880	ListeTechnologie	outil sur éclat
+333	ListeTechnologie	percuteur
+1487	ListeTechnologie	pièce brûlée illisible
+346	ListeTechnologie	pièce à crête
+1490	ListeTechnologie	pointe Levallois
+2887	ListeTechnologie	polyèdre
+332	ListeTechnologie	produit indéterminé
+318	ListeTechnologie	préforme de nucléus
+331	ListeTechnologie	tablette de ravivage
+2909	ListeTechnologie	ébauche
+334	ListeTechnologie	ébauche de pièce bifaciale
+348	ListeTechnologie	éclat Levallois
+342	ListeTechnologie	éclat allongé
+337	ListeTechnologie	éclat cortical
+2231	ListeTechnologie	éclat d'entame
+321	ListeTechnologie	éclat d'entretien de pièce bifaciale
+329	ListeTechnologie	éclat d'épannelage
+326	ListeTechnologie	éclat de plein débitage
+2879	ListeTechnologie	éclat de préparation de crête
+323	ListeTechnologie	éclat de ravivage de table
+338	ListeTechnologie	éclat de recintrage
+2892	ListeTechnologie	éclat de réaménagement de nucléus
+345	ListeTechnologie	éclat indéterminé
+2878	ListeTechnologie	éclat kombewa
+2886	ListeTechnologie	éclat lamellaire
+335	ListeTechnologie	éclat laminaire
+2232	ListeTechnologie	éclat peu cortical
+327	ListeTechnologie	éclat semi-cortical
+2890	ListeTechnologie	éclats pseudo-levallois
+1201	ListeAnthropologieOsPrincipal	10ème côte
+1202	ListeAnthropologieOsPrincipal	11ème côte (flottante)
+1203	ListeAnthropologieOsPrincipal	12ème côte (flottante)
+1193	ListeAnthropologieOsPrincipal	1ère côte
+1194	ListeAnthropologieOsPrincipal	2ème côte
+1195	ListeAnthropologieOsPrincipal	3ème côte
+2197	ListeAnthropologieOsPrincipal	4ème côte
+1196	ListeAnthropologieOsPrincipal	5ème côte
+1197	ListeAnthropologieOsPrincipal	6ème côte
+1198	ListeAnthropologieOsPrincipal	7ème côte
+1199	ListeAnthropologieOsPrincipal	8ème côte
+1200	ListeAnthropologieOsPrincipal	9ème côte
+1162	ListeAnthropologieOsPrincipal	Atlas (C1)
+1163	ListeAnthropologieOsPrincipal	Axis (C2)
+1164	ListeAnthropologieOsPrincipal	C3
+1165	ListeAnthropologieOsPrincipal	C4
+1166	ListeAnthropologieOsPrincipal	C5
+1167	ListeAnthropologieOsPrincipal	C6
+1168	ListeAnthropologieOsPrincipal	C7
+1192	ListeAnthropologieOsPrincipal	Coccyx
+1181	ListeAnthropologieOsPrincipal	L1
+1182	ListeAnthropologieOsPrincipal	L2
+1183	ListeAnthropologieOsPrincipal	L3
+1184	ListeAnthropologieOsPrincipal	L4
+1185	ListeAnthropologieOsPrincipal	L5
+1187	ListeAnthropologieOsPrincipal	S1
+1188	ListeAnthropologieOsPrincipal	S2
+1189	ListeAnthropologieOsPrincipal	S3
+1190	ListeAnthropologieOsPrincipal	S4
+1191	ListeAnthropologieOsPrincipal	S5
+1186	ListeAnthropologieOsPrincipal	Sacrum
+1169	ListeAnthropologieOsPrincipal	T1
+1178	ListeAnthropologieOsPrincipal	T10
+1179	ListeAnthropologieOsPrincipal	T11
+1180	ListeAnthropologieOsPrincipal	T12
+1170	ListeAnthropologieOsPrincipal	T2
+1171	ListeAnthropologieOsPrincipal	T3
+1172	ListeAnthropologieOsPrincipal	T4
+1173	ListeAnthropologieOsPrincipal	T5
+1174	ListeAnthropologieOsPrincipal	T6
+1175	ListeAnthropologieOsPrincipal	T7
+1176	ListeAnthropologieOsPrincipal	T8
+1177	ListeAnthropologieOsPrincipal	T9
+1161	ListeAnthropologieOsPrincipal	cartilage
+2950	ListeAnthropologieOsPrincipal	cervicales
+1157	ListeAnthropologieOsPrincipal	clavicule
+1208	ListeAnthropologieOsPrincipal	coxal
+1155	ListeAnthropologieOsPrincipal	dentition déciduale
+1156	ListeAnthropologieOsPrincipal	dentition permanente
+1153	ListeAnthropologieOsPrincipal	ethmoïde
+1211	ListeAnthropologieOsPrincipal	fibula
+1209	ListeAnthropologieOsPrincipal	fémur
+1204	ListeAnthropologieOsPrincipal	humérus
+1823	ListeAnthropologieOsPrincipal	indéterminé
+2951	ListeAnthropologieOsPrincipal	lombaires
+1207	ListeAnthropologieOsPrincipal	main
+1151	ListeAnthropologieOsPrincipal	mandibule
+1152	ListeAnthropologieOsPrincipal	maxillaire
+1142	ListeAnthropologieOsPrincipal	os frontal
+1160	ListeAnthropologieOsPrincipal	os hyoïde
+1148	ListeAnthropologieOsPrincipal	os lacrymal
+1824	ListeAnthropologieOsPrincipal	os long
+1146	ListeAnthropologieOsPrincipal	os nasal
+1145	ListeAnthropologieOsPrincipal	os occipital
+1149	ListeAnthropologieOsPrincipal	os palatin
+1143	ListeAnthropologieOsPrincipal	os pariétal
+1144	ListeAnthropologieOsPrincipal	os temporal
+1147	ListeAnthropologieOsPrincipal	os zygomatique
+1212	ListeAnthropologieOsPrincipal	patellae
+1213	ListeAnthropologieOsPrincipal	pied
+1205	ListeAnthropologieOsPrincipal	radius
+1159	ListeAnthropologieOsPrincipal	scapulae
+1150	ListeAnthropologieOsPrincipal	sphénoïde
+1158	ListeAnthropologieOsPrincipal	sternum
+2952	ListeAnthropologieOsPrincipal	thoraciques
+1210	ListeAnthropologieOsPrincipal	tibia
+1206	ListeAnthropologieOsPrincipal	ulna
+1154	ListeAnthropologieOsPrincipal	vomer
+807	ListeDocumentCategorie	document graphique
+806	ListeDocumentCategorie	document numérique
+808	ListeDocumentCategorie	document photographique ou audiovisuel
+804	ListeDocumentCategorie	document écrit
+805	ListeDocumentCategorie	moulages et empreintes
+2196	ListeTexture	anthropique
+1686	ListeTexture	argile
+1688	ListeTexture	argile limoneuse
+1677	ListeTexture	argile sableuse
+2838	ListeTexture	grave
+1683	ListeTexture	gravier
+1687	ListeTexture	indéterminée
+1685	ListeTexture	limon
+1684	ListeTexture	limon argileux
+1674	ListeTexture	limon organique
+1678	ListeTexture	limon sableux
+1861	ListeTexture	roche carbonatée (calcaire, craie, tuf, etc.)
+1681	ListeTexture	sable
+1682	ListeTexture	sable argileux
+1679	ListeTexture	sable fin
+1675	ListeTexture	sable grossier
+1672	ListeTexture	sable limoneux
+1676	ListeTexture	sable moyen
+1680	ListeTexture	sable très fin
+1673	ListeTexture	tourbe
+1821	ListeFonctionIndividu	administrateur
+2939	ListeFonctionIndividu	agent recolement
+9	ListeFonctionIndividu	aménageur
+23	ListeFonctionIndividu	anthropologue
+16	ListeFonctionIndividu	archéozoologue
+18	ListeFonctionIndividu	carpologue
+2830	ListeFonctionIndividu	consultation
+1855	ListeFonctionIndividu	céramologue
+2814	ListeFonctionIndividu	dessinateur
+2816	ListeFonctionIndividu	direction
+11	ListeFonctionIndividu	géologue
+26	ListeFonctionIndividu	lithicien
+2949	ListeFonctionIndividu	membre PCR
+24	ListeFonctionIndividu	médiateur
+13	ListeFonctionIndividu	prescripteur
+14	ListeFonctionIndividu	prestataire
+19	ListeFonctionIndividu	propriétaire foncier
+12	ListeFonctionIndividu	représentant de collectivité
+22	ListeFonctionIndividu	responsable adjoint
+20	ListeFonctionIndividu	responsable scientifique
+2940	ListeFonctionIndividu	ro_adjoint
+21	ListeFonctionIndividu	référent enregistrement
+10	ListeFonctionIndividu	référent mobilier
+17	ListeFonctionIndividu	référent médiation
+2815	ListeFonctionIndividu	régisseuse
+25	ListeFonctionIndividu	secrétaire
+2795	ListeFonctionIndividu	stagiaire
+15	ListeFonctionIndividu	technicien de fouille
+27	ListeFonctionIndividu	topographe
+930	ListeAnthropologieSexeMethodeUtilisee	caractères morpho-métriques du bassin
+931	ListeAnthropologieSexeMethodeUtilisee	caractères morpho-métriques du crâne
+929	ListeAnthropologieSexeMethodeUtilisee	indices de robustesse
+928	ListeAnthropologieSexeMethodeUtilisee	mesures des os post-crânien
+1013	ListeAnthropologiePositionGeneraleCorps	assis
+1015	ListeAnthropologiePositionGeneraleCorps	decubitus dorsal
+1014	ListeAnthropologiePositionGeneraleCorps	decubitus latéral droit
+1011	ListeAnthropologiePositionGeneraleCorps	decubitus latéral gauche
+1012	ListeAnthropologiePositionGeneraleCorps	decubitus ventral
+153	ListeCompacite	compact
+154	ListeCompacite	légèrement compact
+155	ListeCompacite	meuble
+156	ListeCompacite	très compact
+157	ListeCompacite	très meuble
+223	ListeProfilFondUE	en V
+222	ListeProfilFondUE	en cuvette
+226	ListeProfilFondUE	indéterminé
+224	ListeProfilFondUE	irrégulier
+225	ListeProfilFondUE	plat
+1934	ListeMunsell	10B 2.5
+1935	ListeMunsell	10B 3
+1936	ListeMunsell	10B 4
+1937	ListeMunsell	10B 5
+1938	ListeMunsell	10B 6
+1939	ListeMunsell	10B 7
+1940	ListeMunsell	10B 8
+1941	ListeMunsell	10BG 2.5
+1942	ListeMunsell	10BG 3
+1943	ListeMunsell	10BG 4
+1944	ListeMunsell	10BG 5
+1945	ListeMunsell	10BG 6
+1946	ListeMunsell	10BG 7
+1947	ListeMunsell	10BG 8
+1948	ListeMunsell	10G 2.5
+1949	ListeMunsell	10G 3
+1950	ListeMunsell	10G 4
+1951	ListeMunsell	10G 5
+1952	ListeMunsell	10G 6
+1953	ListeMunsell	10G 7
+1954	ListeMunsell	10G 8
+1955	ListeMunsell	10GY 2.5
+1956	ListeMunsell	10GY 3
+1957	ListeMunsell	10GY 4
+1958	ListeMunsell	10GY 5
+1959	ListeMunsell	10GY 6
+1960	ListeMunsell	10GY 7
+1961	ListeMunsell	10GY 8
+1962	ListeMunsell	10R 2.5/1
+1963	ListeMunsell	10R 2.5/2
+1964	ListeMunsell	10R 2.5/3
+1965	ListeMunsell	10R 2.5/4
+1966	ListeMunsell	10R 2.5/6
+1967	ListeMunsell	10R 2.5/8
+146	ListeMunsell	10R 3/1
+98	ListeMunsell	10R 3/2
+99	ListeMunsell	10R 3/3
+102	ListeMunsell	10R 3/4
+101	ListeMunsell	10R 3/6
+1968	ListeMunsell	10R 3/8
+91	ListeMunsell	10R 4/1
+93	ListeMunsell	10R 4/2
+92	ListeMunsell	10R 4/3
+94	ListeMunsell	10R 4/4
+95	ListeMunsell	10R 4/6
+89	ListeMunsell	10R 4/8
+1969	ListeMunsell	10R 5/1
+1970	ListeMunsell	10R 5/2
+1971	ListeMunsell	10R 5/3
+1972	ListeMunsell	10R 5/4
+1973	ListeMunsell	10R 5/6
+1974	ListeMunsell	10R 5/8
+74	ListeMunsell	10R 6/1
+73	ListeMunsell	10R 6/2
+72	ListeMunsell	10R 6/3
+71	ListeMunsell	10R 6/4
+70	ListeMunsell	10R 6/6
+76	ListeMunsell	10R 6/8
+1975	ListeMunsell	10R 7/1
+1976	ListeMunsell	10R 7/2
+1977	ListeMunsell	10R 7/3
+1978	ListeMunsell	10R 7/4
+1979	ListeMunsell	10R 7/6
+1980	ListeMunsell	10R 7/8
+1981	ListeMunsell	10R 8/1
+1982	ListeMunsell	10R 8/2
+1983	ListeMunsell	10R 8/3
+1984	ListeMunsell	10R 8/4
+1985	ListeMunsell	10Y 2.5
+1986	ListeMunsell	10Y 3
+1987	ListeMunsell	10Y 4
+1988	ListeMunsell	10Y 5
+1989	ListeMunsell	10Y 6
+1990	ListeMunsell	10Y 7
+1991	ListeMunsell	10Y 8
+1862	ListeMunsell	10YR 2/1
+1992	ListeMunsell	10YR 2/2
+150	ListeMunsell	10YR 3/1
+151	ListeMunsell	10YR 3/2
+152	ListeMunsell	10YR 3/3
+148	ListeMunsell	10YR 3/4
+149	ListeMunsell	10YR 3/6
+1863	ListeMunsell	10YR 4,5/1
+1864	ListeMunsell	10YR 4,5/2
+1993	ListeMunsell	10YR 4/1
+1865	ListeMunsell	10YR 4/2
+1866	ListeMunsell	10YR 4/2,5
+1994	ListeMunsell	10YR 4/3
+1995	ListeMunsell	10YR 4/4
+1996	ListeMunsell	10YR 4/6
+1867	ListeMunsell	10YR 5,5/1
+103	ListeMunsell	10YR 5/1
+141	ListeMunsell	10YR 5/2
+142	ListeMunsell	10YR 5/3
+140	ListeMunsell	10YR 5/4
+139	ListeMunsell	10YR 5/6
+1868	ListeMunsell	10YR 5/7
+145	ListeMunsell	10YR 5/8
+1869	ListeMunsell	10YR 6,5/2
+1997	ListeMunsell	10YR 6/1
+1870	ListeMunsell	10YR 6/2
+1998	ListeMunsell	10YR 6/3
+1999	ListeMunsell	10YR 6/4
+2000	ListeMunsell	10YR 6/6
+2001	ListeMunsell	10YR 6/8
+124	ListeMunsell	10YR 7/1
+125	ListeMunsell	10YR 7/2
+126	ListeMunsell	10YR 7/3
+127	ListeMunsell	10YR 7/4
+128	ListeMunsell	10YR 7/6
+121	ListeMunsell	10YR 7/8
+2002	ListeMunsell	10YR 8/1
+1871	ListeMunsell	10YR 8/2
+2003	ListeMunsell	10YR 8/3
+2004	ListeMunsell	10YR 8/4
+2005	ListeMunsell	10YR 8/6
+2006	ListeMunsell	10YR 8/8
+1872	ListeMunsell	2,5Y 5/3
+2007	ListeMunsell	2.5Y 2.5/1
+2008	ListeMunsell	2.5Y 3/1
+2009	ListeMunsell	2.5Y 3/2
+2010	ListeMunsell	2.5Y 3/3
+2011	ListeMunsell	2.5Y 4/1
+2012	ListeMunsell	2.5Y 4/2
+2013	ListeMunsell	2.5Y 4/3
+2014	ListeMunsell	2.5Y 4/4
+2015	ListeMunsell	2.5Y 5/1
+2016	ListeMunsell	2.5Y 5/2
+2017	ListeMunsell	2.5Y 5/3
+2018	ListeMunsell	2.5Y 5/4
+2019	ListeMunsell	2.5Y 5/6
+2020	ListeMunsell	2.5Y 6/1
+2021	ListeMunsell	2.5Y 6/2
+2022	ListeMunsell	2.5Y 6/3
+2023	ListeMunsell	2.5Y 6/4
+2024	ListeMunsell	2.5Y 6/6
+2025	ListeMunsell	2.5Y 6/8
+2026	ListeMunsell	2.5Y 7/1
+2027	ListeMunsell	2.5Y 7/2
+2028	ListeMunsell	2.5Y 7/3
+2029	ListeMunsell	2.5Y 7/4
+2030	ListeMunsell	2.5Y 7/6
+2031	ListeMunsell	2.5Y 7/8
+2032	ListeMunsell	2.5Y 8/1
+2033	ListeMunsell	2.5Y 8/2
+2034	ListeMunsell	2.5Y 8/3
+2035	ListeMunsell	2.5Y 8/4
+2036	ListeMunsell	2.5Y 8/6
+2037	ListeMunsell	2.5Y 8/8
+2038	ListeMunsell	2.5YR 2.5/1
+2039	ListeMunsell	2.5YR 2.5/2
+2040	ListeMunsell	2.5YR 2.5/3
+2041	ListeMunsell	2.5YR 2.5/4
+2042	ListeMunsell	2.5YR 3/1
+2043	ListeMunsell	2.5YR 3/2
+2044	ListeMunsell	2.5YR 3/3
+2045	ListeMunsell	2.5YR 3/4
+2046	ListeMunsell	2.5YR 3/6
+2047	ListeMunsell	2.5YR 4/1
+2048	ListeMunsell	2.5YR 4/2
+2049	ListeMunsell	2.5YR 4/3
+2050	ListeMunsell	2.5YR 4/4
+2051	ListeMunsell	2.5YR 4/6
+2052	ListeMunsell	2.5YR 4/8
+2053	ListeMunsell	2.5YR 5/1
+2054	ListeMunsell	2.5YR 5/2
+2055	ListeMunsell	2.5YR 5/3
+2056	ListeMunsell	2.5YR 5/4
+2057	ListeMunsell	2.5YR 5/6
+2058	ListeMunsell	2.5YR 5/8
+2059	ListeMunsell	2.5YR 6/1
+2060	ListeMunsell	2.5YR 6/2
+2061	ListeMunsell	2.5YR 6/3
+2062	ListeMunsell	2.5YR 6/4
+2063	ListeMunsell	2.5YR 6/6
+2064	ListeMunsell	2.5YR 6/8
+2065	ListeMunsell	2.5YR 7/1
+2066	ListeMunsell	2.5YR 7/2
+2067	ListeMunsell	2.5YR 7/3
+2068	ListeMunsell	2.5YR 7/4
+2069	ListeMunsell	2.5YR 7/6
+2070	ListeMunsell	2.5YR 7/8
+2071	ListeMunsell	2.5YR 8/1
+2072	ListeMunsell	2.5YR 8/2
+2073	ListeMunsell	2.5YR 8/3
+2074	ListeMunsell	2.5YR 8/4
+2075	ListeMunsell	5B 2.5
+2076	ListeMunsell	5B 3
+2077	ListeMunsell	5B 4/1
+96	ListeMunsell	5B 4/2
+2078	ListeMunsell	5B 5
+2079	ListeMunsell	5B 6/1
+97	ListeMunsell	5B 6/2
+2080	ListeMunsell	5B 7
+2081	ListeMunsell	5B 8/1
+111	ListeMunsell	5B 8/2
+2082	ListeMunsell	5BG 2.5
+2083	ListeMunsell	5BG 3
+2084	ListeMunsell	5BG 4/1
+144	ListeMunsell	5BG 4/2
+2085	ListeMunsell	5BG 5
+2086	ListeMunsell	5BG 6/1
+53	ListeMunsell	5BG 6/2
+2087	ListeMunsell	5BG 7
+2088	ListeMunsell	5BG 8/1
+54	ListeMunsell	5BG 8/2
+2089	ListeMunsell	5G 2.5/1
+2090	ListeMunsell	5G 2.5/2
+2091	ListeMunsell	5G 3/1
+2092	ListeMunsell	5G 3/2
+2093	ListeMunsell	5G 4/1
+90	ListeMunsell	5G 4/2
+2094	ListeMunsell	5G 5/1
+2095	ListeMunsell	5G 5/2
+2096	ListeMunsell	5G 6/1
+100	ListeMunsell	5G 6/2
+2097	ListeMunsell	5G 7/1
+2098	ListeMunsell	5G 7/2
+2099	ListeMunsell	5G 8/1
+120	ListeMunsell	5G 8/2
+2100	ListeMunsell	5GY 2.5
+2101	ListeMunsell	5GY 3
+2102	ListeMunsell	5GY 4
+118	ListeMunsell	5GY 4/1
+2103	ListeMunsell	5GY 5
+2104	ListeMunsell	5GY 6
+119	ListeMunsell	5GY 6/1
+2105	ListeMunsell	5GY 7
+2106	ListeMunsell	5GY 8
+147	ListeMunsell	5GY 8/1
+2107	ListeMunsell	5PB 2.5
+2108	ListeMunsell	5PB 3
+2109	ListeMunsell	5PB 4/1
+143	ListeMunsell	5PB 4/2
+2110	ListeMunsell	5PB 5
+2111	ListeMunsell	5PB 6/1
+69	ListeMunsell	5PB 6/2
+2112	ListeMunsell	5PB 7
+2113	ListeMunsell	5PB 8/1
+114	ListeMunsell	5PB 8/2
+2114	ListeMunsell	5Y 2.5/1
+2115	ListeMunsell	5Y 2.5/2
+2116	ListeMunsell	5Y 2.5/3
+2117	ListeMunsell	5Y 2.5/4
+2118	ListeMunsell	5Y 2.5/6
+2119	ListeMunsell	5Y 2.5/8
+2120	ListeMunsell	5Y 3/1
+2121	ListeMunsell	5Y 3/2
+2122	ListeMunsell	5Y 3/3
+2123	ListeMunsell	5Y 3/4
+2124	ListeMunsell	5Y 3/6
+2125	ListeMunsell	5Y 3/8
+62	ListeMunsell	5Y 4/1
+64	ListeMunsell	5Y 4/2
+63	ListeMunsell	5Y 4/3
+61	ListeMunsell	5Y 4/4
+2126	ListeMunsell	5Y 4/6
+2127	ListeMunsell	5Y 4/8
+2128	ListeMunsell	5Y 5/1
+2129	ListeMunsell	5Y 5/2
+2130	ListeMunsell	5Y 5/3
+2131	ListeMunsell	5Y 5/4
+2132	ListeMunsell	5Y 5/6
+2133	ListeMunsell	5Y 5/8
+58	ListeMunsell	5Y 6/1
+57	ListeMunsell	5Y 6/2
+56	ListeMunsell	5Y 6/3
+60	ListeMunsell	5Y 6/4
+59	ListeMunsell	5Y 6/6
+55	ListeMunsell	5Y 6/8
+2134	ListeMunsell	5Y 7/1
+2135	ListeMunsell	5Y 7/2
+2136	ListeMunsell	5Y 7/3
+2137	ListeMunsell	5Y 7/4
+2138	ListeMunsell	5Y 7/6
+2139	ListeMunsell	5Y 7/8
+106	ListeMunsell	5Y 8/1
+108	ListeMunsell	5Y 8/2
+107	ListeMunsell	5Y 8/3
+109	ListeMunsell	5Y 8/4
+110	ListeMunsell	5Y 8/6
+104	ListeMunsell	5Y 8/8
+2140	ListeMunsell	5YR 2.5/1
+2141	ListeMunsell	5YR 2.5/2
+66	ListeMunsell	5YR 3/1
+68	ListeMunsell	5YR 3/2
+67	ListeMunsell	5YR 3/3
+65	ListeMunsell	5YR 3/4
+2142	ListeMunsell	5YR 4/1
+2143	ListeMunsell	5YR 4/2
+2144	ListeMunsell	5YR 4/3
+2145	ListeMunsell	5YR 4/4
+2146	ListeMunsell	5YR 4/6
+137	ListeMunsell	5YR 5/1
+136	ListeMunsell	5YR 5/2
+135	ListeMunsell	5YR 5/3
+134	ListeMunsell	5YR 5/4
+133	ListeMunsell	5YR 5/6
+138	ListeMunsell	5YR 5/8
+2147	ListeMunsell	5YR 6/1
+2148	ListeMunsell	5YR 6/2
+2149	ListeMunsell	5YR 6/3
+2150	ListeMunsell	5YR 6/4
+2151	ListeMunsell	5YR 6/6
+2152	ListeMunsell	5YR 6/8
+84	ListeMunsell	5YR 7/1
+86	ListeMunsell	5YR 7/2
+85	ListeMunsell	5YR 7/3
+87	ListeMunsell	5YR 7/4
+88	ListeMunsell	5YR 7/6
+83	ListeMunsell	5YR 7/8
+2153	ListeMunsell	5YR 8/1
+2154	ListeMunsell	5YR 8/2
+2155	ListeMunsell	5YR 8/3
+2156	ListeMunsell	5YR 8/4
+130	ListeMunsell	7,5YR 3/1
+131	ListeMunsell	7,5YR 3/2
+132	ListeMunsell	7,5YR 3/3
+129	ListeMunsell	7,5YR 3/4
+82	ListeMunsell	7,5YR 5/1
+80	ListeMunsell	7,5YR 5/2
+81	ListeMunsell	7,5YR 5/3
+79	ListeMunsell	7,5YR 5/4
+78	ListeMunsell	7,5YR 5/6
+77	ListeMunsell	7,5YR 5/8
+112	ListeMunsell	7,5YR 7/1
+113	ListeMunsell	7,5YR 7/2
+122	ListeMunsell	7,5YR 7/3
+115	ListeMunsell	7,5YR 7/4
+116	ListeMunsell	7,5YR 7/6
+117	ListeMunsell	7,5YR 7/8
+2157	ListeMunsell	7.5YR 2.5/1
+2158	ListeMunsell	7.5YR 2.5/2
+2159	ListeMunsell	7.5YR 2.5/3
+2160	ListeMunsell	7.5YR 3/1
+2161	ListeMunsell	7.5YR 3/2
+2162	ListeMunsell	7.5YR 3/3
+2163	ListeMunsell	7.5YR 3/4
+2164	ListeMunsell	7.5YR 4/1
+2165	ListeMunsell	7.5YR 4/2
+2166	ListeMunsell	7.5YR 4/3
+2167	ListeMunsell	7.5YR 4/4
+2168	ListeMunsell	7.5YR 4/6
+2169	ListeMunsell	7.5YR 5/1
+2170	ListeMunsell	7.5YR 5/2
+2171	ListeMunsell	7.5YR 5/3
+2172	ListeMunsell	7.5YR 5/4
+2173	ListeMunsell	7.5YR 5/6
+2174	ListeMunsell	7.5YR 5/8
+2175	ListeMunsell	7.5YR 6/1
+2176	ListeMunsell	7.5YR 6/2
+2177	ListeMunsell	7.5YR 6/3
+2178	ListeMunsell	7.5YR 6/4
+2179	ListeMunsell	7.5YR 6/6
+2180	ListeMunsell	7.5YR 6/8
+2181	ListeMunsell	7.5YR 7/1
+2182	ListeMunsell	7.5YR 7/2
+2183	ListeMunsell	7.5YR 7/3
+2184	ListeMunsell	7.5YR 7/4
+2185	ListeMunsell	7.5YR 7/6
+2186	ListeMunsell	7.5YR 7/8
+2187	ListeMunsell	7.5YR 8/1
+2188	ListeMunsell	7.5YR 8/2
+2189	ListeMunsell	7.5YR 8/3
+2190	ListeMunsell	7.5YR 8/4
+2191	ListeMunsell	7.5YR 8/6
+2192	ListeMunsell	N 2.5
+2193	ListeMunsell	N 3
+123	ListeMunsell	N 4/
+2194	ListeMunsell	N 5
+105	ListeMunsell	N 6/
+2195	ListeMunsell	N 7
+75	ListeMunsell	N 8/
+813	ListeDocumentNatureSupport	DVD vidéo
+811	ListeDocumentNatureSupport	calque végétal
+815	ListeDocumentNatureSupport	cassette audio
+826	ListeDocumentNatureSupport	cassette vidéo
+818	ListeDocumentNatureSupport	contre-calque
+817	ListeDocumentNatureSupport	diapositive
+810	ListeDocumentNatureSupport	film polyane
+824	ListeDocumentNatureSupport	numérique
+820	ListeDocumentNatureSupport	négatif couleur
+825	ListeDocumentNatureSupport	négatif n et b
+823	ListeDocumentNatureSupport	papier
+816	ListeDocumentNatureSupport	papier millimétré
+819	ListeDocumentNatureSupport	plâtre
+809	ListeDocumentNatureSupport	polyester
+822	ListeDocumentNatureSupport	polyester millimétré
+821	ListeDocumentNatureSupport	résine
+814	ListeDocumentNatureSupport	tirage
+812	ListeDocumentNatureSupport	élastomère
+675	ListeTraitementNiveau2	C14
+693	ListeTraitementNiveau2	MEB (grains)
+677	ListeTraitementNiveau2	OSL
+2931	ListeTraitementNiveau2	SRA-CCE
+678	ListeTraitementNiveau2	U/Th
+685	ListeTraitementNiveau2	anthracologie
+1931	ListeTraitementNiveau2	archéomagnétisme
+680	ListeTraitementNiveau2	argiles
+679	ListeTraitementNiveau2	calcimétrie
+686	ListeTraitementNiveau2	carpologie
+2928	ListeTraitementNiveau2	chantier de collection
+1494	ListeTraitementNiveau2	collage
+673	ListeTraitementNiveau2	comblement
+670	ListeTraitementNiveau2	consolidation
+676	ListeTraitementNiveau2	dendrochronologie
+1493	ListeTraitementNiveau2	dégagement de motte
+687	ListeTraitementNiveau2	enthomologie
+666	ListeTraitementNiveau2	flottation
+1829	ListeTraitementNiveau2	fluorescence X
+681	ListeTraitementNiveau2	granulométrie
+663	ListeTraitementNiveau2	lavage
+688	ListeTraitementNiveau2	macrorestes végétaux
+689	ListeTraitementNiveau2	malacologie
+664	ListeTraitementNiveau2	marquage
+690	ListeTraitementNiveau2	microfaune
+694	ListeTraitementNiveau2	micromorphologie
+695	ListeTraitementNiveau2	microscopie optique (grains)
+674	ListeTraitementNiveau2	mise en teinte
+2215	ListeTraitementNiveau2	mouvement
+2930	ListeTraitementNiveau2	musée-CCE
+672	ListeTraitementNiveau2	nettoyage
+2235	ListeTraitementNiveau2	non-localisé
+2932	ListeTraitementNiveau2	opérateur-SRA-CCE
+682	ListeTraitementNiveau2	pH
+691	ListeTraitementNiveau2	palynologie
+683	ListeTraitementNiveau2	phosphore
+2933	ListeTraitementNiveau2	privé-CCE
+1492	ListeTraitementNiveau2	prélèvement
+668	ListeTraitementNiveau2	radiographie
+667	ListeTraitementNiveau2	remontage
+671	ListeTraitementNiveau2	restauration
+684	ListeTraitementNiveau2	salinité (conductimétrie)
+669	ListeTraitementNiveau2	stabilisation
+665	ListeTraitementNiveau2	tamisage
+1932	ListeTraitementNiveau2	traitement de motte
+2234	ListeTraitementNiveau2	vu
+692	ListeTraitementNiveau2	xylologie
+1830	ListeTraitementNiveau2	études autres
+1671	ListeArcheozoologieTrace	brûlé blanc
+1669	ListeArcheozoologieTrace	brûlé gris
+1667	ListeArcheozoologieTrace	brûlé noir
+1662	ListeArcheozoologieTrace	carnivore
+1664	ListeArcheozoologieTrace	couteau
+1665	ListeArcheozoologieTrace	hache, couperet
+1663	ListeArcheozoologieTrace	pathologie
+1668	ListeArcheozoologieTrace	percussion
+2936	ListeArcheozoologieTrace	perforation
+1670	ListeArcheozoologieTrace	scie
+1666	ListeArcheozoologieTrace	silex
+1825	ListeArcheozoologieTrace	stries indéterminés
+801	ListeDocumentDetermination	Anthropologie
+798	ListeDocumentDetermination	Cartographie
+803	ListeDocumentDetermination	Conservation-restauration
+799	ListeDocumentDetermination	Céramologie
+800	ListeDocumentDetermination	Datation
+802	ListeDocumentDetermination	Etude documentaire
+788	ListeDocumentDetermination	Fiches UE
+792	ListeDocumentDetermination	Fiches autres
+790	ListeDocumentDetermination	Fiches sépultures
+795	ListeDocumentDetermination	Mobilier
+797	ListeDocumentDetermination	Plan général
+787	ListeDocumentDetermination	Répertoire UE
+791	ListeDocumentDetermination	Répertoire autre
+789	ListeDocumentDetermination	Répertoire sépulture
+796	ListeDocumentDetermination	Répertoire topographique
+794	ListeDocumentDetermination	Terrain
+793	ListeDocumentDetermination	Vue aérienne
+3078	ListeDocumentDetermination	acceptation du projet
+1882	ListeDocumentDetermination	accusé réception du projet scientifique et technique d'intervention
+1883	ListeDocumentDetermination	accusé réception rfo
+3074	ListeDocumentDetermination	anthracologie
+1884	ListeDocumentDetermination	arrêté de désignation
+1885	ListeDocumentDetermination	arrêté de prescription
+1886	ListeDocumentDetermination	arrêté du maire
+2817	ListeDocumentDetermination	autorisation de fouille
+1887	ListeDocumentDetermination	avis cira
+2934	ListeDocumentDetermination	bordereau de remise du mobilier et de la documentation
+3077	ListeDocumentDetermination	carpologie
+2798	ListeDocumentDetermination	coupe
+2800	ListeDocumentDetermination	coupe et plan
+1888	ListeDocumentDetermination	dossier demande programmée
+3075	ListeDocumentDetermination	géoarchéologie
+2947	ListeDocumentDetermination	lithique
+2796	ListeDocumentDetermination	log
+3076	ListeDocumentDetermination	macrolithique
+3072	ListeDocumentDetermination	micromorphologie
+1889	ListeDocumentDetermination	notification d'attribution
+1890	ListeDocumentDetermination	notification de non prescription
+1891	ListeDocumentDetermination	notification de prescription
+1892	ListeDocumentDetermination	notification de prescription modificative
+3073	ListeDocumentDetermination	phosphore
+2799	ListeDocumentDetermination	plan
+1893	ListeDocumentDetermination	projet scientifique et technique d'intervention
+2801	ListeDocumentDetermination	schéma
+2797	ListeDocumentDetermination	schéma stratigraphique
+1501	ListeArcheozoologieRegionAnatomique	bloc crânien
+1503	ListeArcheozoologieRegionAnatomique	ceinture pelvienne
+1504	ListeArcheozoologieRegionAnatomique	ceinture scapulaire
+1506	ListeArcheozoologieRegionAnatomique	dentition
+1499	ListeArcheozoologieRegionAnatomique	membre indéterminé
+1500	ListeArcheozoologieRegionAnatomique	membre inférieur
+1502	ListeArcheozoologieRegionAnatomique	membre supérieur
+1498	ListeArcheozoologieRegionAnatomique	rachis
+1505	ListeArcheozoologieRegionAnatomique	thorax
+620	ListeTypeMesureAnthropologique	angle goniaque (79)
+594	ListeTypeMesureAnthropologique	arc frontal (26)
+576	ListeTypeMesureAnthropologique	arc occipital (28)
+635	ListeTypeMesureAnthropologique	arc pariétal (27)
+601	ListeTypeMesureAnthropologique	arc sagittal (25)"
+583	ListeTypeMesureAnthropologique	cordes frontales (29)
+631	ListeTypeMesureAnthropologique	cordes occipitale (31)
+608	ListeTypeMesureAnthropologique	cordes pariétales (30)
+590	ListeTypeMesureAnthropologique	diamètre maximum
+584	ListeTypeMesureAnthropologique	diamètre minimum
+640	ListeTypeMesureAnthropologique	diamètre sagittal diaphysaire / trou nourricier / détroit supérieur bassin (23)
+582	ListeTypeMesureAnthropologique	diamètre sagittal sous-sigmoïdien (14) / sous trochanter (10)
+650	ListeTypeMesureAnthropologique	diamètre transversal diaphysaire / trou nourricier / détroit supérieur bassin (24)
+614	ListeTypeMesureAnthropologique	diamètre transversal sous-sigmoïdien (13) / sous trochanter (9)
+653	ListeTypeMesureAnthropologique	diamètre tête / verticale cavité cotyloïde (coxal - 41)
+578	ListeTypeMesureAnthropologique	hauteur BA-BR (17)
+623	ListeTypeMesureAnthropologique	hauteur M1/M2
+602	ListeTypeMesureAnthropologique	hauteur PO-BR (20)
+630	ListeTypeMesureAnthropologique	hauteur Pm2/M1
+612	ListeTypeMesureAnthropologique	hauteur antérieure corps (lombaires) / réelle sacrum (1)
+628	ListeTypeMesureAnthropologique	hauteur antérieure en projection (sacrum - "2)
+647	ListeTypeMesureAnthropologique	hauteur branche montante (70a)
+591	ListeTypeMesureAnthropologique	hauteur cavité glénoïde (12)
+624	ListeTypeMesureAnthropologique	hauteur maximum / apophyse odontoïde (Axis) / supérieure (splanchnocrâne - 48)
+651	ListeTypeMesureAnthropologique	hauteur nez (55)
+627	ListeTypeMesureAnthropologique	hauteur orbites (G/D - "52)
+622	ListeTypeMesureAnthropologique	hauteur postérieur corps (lombaires)
+598	ListeTypeMesureAnthropologique	hauteur spino-alvéolaire (NS-PR)
+634	ListeTypeMesureAnthropologique	hauteur symphyse (69)
+575	ListeTypeMesureAnthropologique	indice
+579	ListeTypeMesureAnthropologique	largeur Bi-CO (65)
+632	ListeTypeMesureAnthropologique	largeur Bi-GO (66)
+642	ListeTypeMesureAnthropologique	largeur Bi-JU (45.1)
+574	ListeTypeMesureAnthropologique	largeur Bi-MT (67)
+613	ListeTypeMesureAnthropologique	largeur Bi-PO (11)
+595	ListeTypeMesureAnthropologique	largeur Bi-ZG (45)
+641	ListeTypeMesureAnthropologique	largeur Bi-ZM (46)
+644	ListeTypeMesureAnthropologique	largeur Bi-orbitale (44)
+580	ListeTypeMesureAnthropologique	largeur Bi-stylo-mastoïde
+586	ListeTypeMesureAnthropologique	largeur branche montante (71)
+593	ListeTypeMesureAnthropologique	largeur cavité glénoïde (13)
+648	ListeTypeMesureAnthropologique	largeur condyle
+611	ListeTypeMesureAnthropologique	largeur extrémité distale
+646	ListeTypeMesureAnthropologique	largeur extrémité proximale
+643	ListeTypeMesureAnthropologique	largeur foramen magnum (16)
+637	ListeTypeMesureAnthropologique	largeur frontal maxi (10)
+600	ListeTypeMesureAnthropologique	largeur frontal mini (9)
+596	ListeTypeMesureAnthropologique	largeur inter-orbitale (50)
+599	ListeTypeMesureAnthropologique	largeur largeur de l'ilion (12)
+588	ListeTypeMesureAnthropologique	largeur largeur inf minimum de l'ilion (26)
+616	ListeTypeMesureAnthropologique	largeur maxi / corps
+615	ListeTypeMesureAnthropologique	largeur maxillo-alvéolaire (61)
+652	ListeTypeMesureAnthropologique	largeur mini / corps
+619	ListeTypeMesureAnthropologique	largeur nasaux maxi (57.1)
+604	ListeTypeMesureAnthropologique	largeur nasaux mini (57)
+626	ListeTypeMesureAnthropologique	largeur nez (54)
+618	ListeTypeMesureAnthropologique	largeur orbites (G/D - 51)
+592	ListeTypeMesureAnthropologique	largeur palais (63)
+605	ListeTypeMesureAnthropologique	longueur GL-IN (2)
+585	ListeTypeMesureAnthropologique	longueur NA-BA (5)
+639	ListeTypeMesureAnthropologique	longueur condyle
+609	ListeTypeMesureAnthropologique	longueur foramen magnum (7)
+603	ListeTypeMesureAnthropologique	longueur maxi / totale / corps / épine scapulaire
+610	ListeTypeMesureAnthropologique	longueur maxillo-alvéolaire (60)
+589	ListeTypeMesureAnthropologique	longueur nasaux (56)
+577	ListeTypeMesureAnthropologique	longueur palais (62)
+625	ListeTypeMesureAnthropologique	longueur physiologique / en position
+606	ListeTypeMesureAnthropologique	longueur poulie (talus-4) / apophyse épineuse (Axis)
+649	ListeTypeMesureAnthropologique	longueur région mastoïdienne PO-AS
+636	ListeTypeMesureAnthropologique	longueur totale splanchnocrane (40)
+617	ListeTypeMesureAnthropologique	périmètres minimum/ médio-diaphysaire
+587	ListeTypeMesureAnthropologique	saillie aracade sourcilière
+581	ListeTypeMesureAnthropologique	stature (Trotter et Gleser)
+633	ListeTypeMesureAnthropologique	épaisseur arc antérieur atlas
+629	ListeTypeMesureAnthropologique	épaisseur arc postérieur atlas
+638	ListeTypeMesureAnthropologique	épaisseur bosse frontale (G/D)
+621	ListeTypeMesureAnthropologique	épaisseur bosse pariétale (G/D)
+654	ListeTypeMesureAnthropologique	épaisseur épaisseur en projection M1/M2
+597	ListeTypeMesureAnthropologique	épaisseur épaisseur en projection Pm2/M1
+607	ListeTypeMesureAnthropologique	épaisseur épaisseur moyenne neurocrâne
+573	ListeTypeMesureAnthropologique	épaisseur épaisseur réelle M1/M2
+645	ListeTypeMesureAnthropologique	épaisseur épaisseur réelle Pm2/M1
+655	ListeTraitementNiveau1	1er traitement
+2233	ListeTraitementNiveau1	Récolement
+656	ListeTraitementNiveau1	autres
+657	ListeTraitementNiveau1	conservation-restauration
+658	ListeTraitementNiveau1	datation
+659	ListeTraitementNiveau1	microscopie
+660	ListeTraitementNiveau1	pédologie
+662	ListeTraitementNiveau1	sédimentologie
+2929	ListeTraitementNiveau1	versement
+661	ListeTraitementNiveau1	écologie
+39	ListeTypeUE	annulée
+40	ListeTypeUE	ensemble
+1858	ListeTypeUE	iso
+37	ListeTypeUE	niveau
+38	ListeTypeUE	sondage
+41	ListeTypeUE	structure
+36	ListeTypeUE	tranchée
+1093	ListeMatiereTypePrecision	alliage cuivreux
+2209	ListeMatiereTypePrecision	ardoise
+1094	ListeMatiereTypePrecision	argent
+2948	ListeMatiereTypePrecision	arkose
+1099	ListeMatiereTypePrecision	autre
+1086	ListeMatiereTypePrecision	bois
+1463	ListeMatiereTypePrecision	boudin de four
+1109	ListeMatiereTypePrecision	brique
+2674	ListeMatiereTypePrecision	bronze
+1853	ListeMatiereTypePrecision	calcaire
+2214	ListeMatiereTypePrecision	calcaire schisteux
+1110	ListeMatiereTypePrecision	carreau de pavage
+1462	ListeMatiereTypePrecision	carreaux de pavage
+1100	ListeMatiereTypePrecision	charbon de bois
+1101	ListeMatiereTypePrecision	coquille
+1105	ListeMatiereTypePrecision	craie
+2943	ListeMatiereTypePrecision	creuset
+2848	ListeMatiereTypePrecision	dolérite
+1087	ListeMatiereTypePrecision	enduit peint
+1092	ListeMatiereTypePrecision	fer
+1102	ListeMatiereTypePrecision	flore
+1113	ListeMatiereTypePrecision	four
+1114	ListeMatiereTypePrecision	fourneau
+1106	ListeMatiereTypePrecision	galet
+1084	ListeMatiereTypePrecision	grès
+1461	ListeMatiereTypePrecision	houille
+1096	ListeMatiereTypePrecision	indéterminé
+2211	ListeMatiereTypePrecision	marbre
+2946	ListeMatiereTypePrecision	marcassite
+2212	ListeMatiereTypePrecision	mortier
+1088	ListeMatiereTypePrecision	mosaïque
+2942	ListeMatiereTypePrecision	moule
+1465	ListeMatiereTypePrecision	métal
+1097	ListeMatiereTypePrecision	or
+2849	ListeMatiereTypePrecision	phtanite
+2945	ListeMatiereTypePrecision	phtanite
+1098	ListeMatiereTypePrecision	plomb
+1089	ListeMatiereTypePrecision	plâtre
+2927	ListeMatiereTypePrecision	poudingue
+1115	ListeMatiereTypePrecision	pâte à verre
+1107	ListeMatiereTypePrecision	roche
+2850	ListeMatiereTypePrecision	roche verte
+1108	ListeMatiereTypePrecision	schiste
+1085	ListeMatiereTypePrecision	silex
+2852	ListeMatiereTypePrecision	silex Bartonien
+2859	ListeMatiereTypePrecision	silex Lutécien
+2853	ListeMatiereTypePrecision	silex de Ghlin
+2855	ListeMatiereTypePrecision	silex de Meusnes
+2914	ListeMatiereTypePrecision	silex de Spiennes
+2854	ListeMatiereTypePrecision	silex de l'Escaut
+2856	ListeMatiereTypePrecision	silex du Grand-Pressigny
+2857	ListeMatiereTypePrecision	silex indéterminable brûlé
+2858	ListeMatiereTypePrecision	silex indéterminable patiné
+2920	ListeMatiereTypePrecision	silex indéterminé
+2860	ListeMatiereTypePrecision	silex secondaire
+2851	ListeMatiereTypePrecision	silex à cortex verdi
+2818	ListeMatiereTypePrecision	soufre
+1080	ListeMatiereTypePrecision	sédiment
+1081	ListeMatiereTypePrecision	sédiment organique
+1090	ListeMatiereTypePrecision	terre crue
+1111	ListeMatiereTypePrecision	tomette
+1091	ListeMatiereTypePrecision	torchis
+1082	ListeMatiereTypePrecision	tourbe
+1112	ListeMatiereTypePrecision	tuile
+1116	ListeMatiereTypePrecision	verre soufflé
+1117	ListeMatiereTypePrecision	vitrage
+1095	ListeMatiereTypePrecision	étain
+862	ListeDocumentOrientation	indéterminée
+857	ListeDocumentOrientation	vers l'Est
+856	ListeDocumentOrientation	vers l'Ouest
+861	ListeDocumentOrientation	vers le Nord
+855	ListeDocumentOrientation	vers le Nord-Est
+860	ListeDocumentOrientation	vers le Nord-Ouest
+854	ListeDocumentOrientation	vers le Sud
+858	ListeDocumentOrientation	vers le Sud-Est
+859	ListeDocumentOrientation	vers le Sud-Ouest
+1876	ListeTypologie	armature
+376	ListeTypologie	armature danubienne
+2868	ListeTypologie	armature de faucille
+2875	ListeTypologie	armature foliacée
+2876	ListeTypologie	armature perçante à base concave
+2877	ListeTypologie	armature perçante à base rectiligne
+2874	ListeTypologie	armature tranchante
+1470	ListeTypologie	armature triangulaire
+2873	ListeTypologie	armature à pédoncule et ailerons
+2217	ListeTypologie	armature à retouche couvrante
+392	ListeTypologie	bec
+380	ListeTypologie	biface
+365	ListeTypologie	biface ovalaire
+372	ListeTypologie	biface triangulaire
+2862	ListeTypologie	bord abattu
+351	ListeTypologie	burin caréné
+394	ListeTypologie	burin dièdre
+1471	ListeTypologie	burin plan
+397	ListeTypologie	burin polyédrique
+369	ListeTypologie	burin sur cassure
+384	ListeTypologie	burin sur troncature
+355	ListeTypologie	ciseau
+2864	ListeTypologie	coche
+360	ListeTypologie	couteau à dos
+2900	ListeTypologie	couteau à dos naturel
+389	ListeTypologie	denticulé
+363	ListeTypologie	encoche
+393	ListeTypologie	feuille de gui
+383	ListeTypologie	feuille de laurier
+377	ListeTypologie	flèche de Belloy
+387	ListeTypologie	flèche tranchante
+390	ListeTypologie	grattoir
+388	ListeTypologie	grattoir caréné
+2902	ListeTypologie	grattoir circulaire
+382	ListeTypologie	grattoir double
+2903	ListeTypologie	grattoir unguiforme
+2901	ListeTypologie	grattoir à museau
+373	ListeTypologie	grattoir-racloir
+356	ListeTypologie	hache polie
+2870	ListeTypologie	hache polie réutilisée
+399	ListeTypologie	hache taillée
+1472	ListeTypologie	herminette
+2919	ListeTypologie	indéterminé
+2222	ListeTypologie	lame Montbani
+1473	ListeTypologie	lame appointée
+2867	ListeTypologie	lame esquillée
+1475	ListeTypologie	lame retouchée
+2905	ListeTypologie	lame sous-crête
+2866	ListeTypologie	lame utilisée
+1474	ListeTypologie	lame à bord abattu
+1476	ListeTypologie	lame à retouche d'utilisation
+2218	ListeTypologie	lamelle bordée
+2225	ListeTypologie	lamelle cassée au dessus de la coche
+2224	ListeTypologie	lamelle cassée dans la coche
+2226	ListeTypologie	lamelle cassée sous la coche
+1477	ListeTypologie	lamelle retouchée
+357	ListeTypologie	lamelle scalène
+1478	ListeTypologie	lamelle tronquée
+398	ListeTypologie	lamelle à bord abattu
+2223	ListeTypologie	lamelle à coche
+1877	ListeTypologie	lamelle à encoches
+2904	ListeTypologie	lames courtes
+2216	ListeTypologie	micro-burin
+1479	ListeTypologie	micro-denticulé
+353	ListeTypologie	micro-perçoir
+2865	ListeTypologie	outil composite
+2872	ListeTypologie	outil sur nucléus
+352	ListeTypologie	outillage
+396	ListeTypologie	perçoir
+354	ListeTypologie	pic
+2861	ListeTypologie	pierre à fusil
+378	ListeTypologie	pièce bifaciale
+379	ListeTypologie	pièce esquillée
+3068	ListeTypologie	pièce mâchurée
+2221	ListeTypologie	pièce utilisée
+2906	ListeTypologie	pièce à dos
+361	ListeTypologie	poignard
+2907	ListeTypologie	pointe
+1489	ListeTypologie	pointe a ailerons et pedoncule
+386	ListeTypologie	pointe de Sonchamp
+368	ListeTypologie	pointe du Tardenois
+400	ListeTypologie	pointe hambourgienne
+1480	ListeTypologie	pointe moustérienne
+391	ListeTypologie	pointe à ailerons
+374	ListeTypologie	pointe à ailerons et pédoncules
+2220	ListeTypologie	pointe à base non retouchée
+2219	ListeTypologie	pointe à base retouchée
+385	ListeTypologie	pointe à cran
+1878	ListeTypologie	pointe à dos
+395	ListeTypologie	pointe à dos anguleux
+362	ListeTypologie	pointe à dos courbe
+349	ListeTypologie	pointe à troncature oblique
+381	ListeTypologie	produit laminaire retouché
+2908	ListeTypologie	produit à crête
+350	ListeTypologie	raclette
+371	ListeTypologie	racloir
+2863	ListeTypologie	racloir à encoches
+375	ListeTypologie	rectangle
+364	ListeTypologie	scie à encoches
+370	ListeTypologie	tranchet
+2227	ListeTypologie	trapèze
+2228	ListeTypologie	trapèze court
+2230	ListeTypologie	trapèze de Téviec
+2229	ListeTypologie	trapèze rectangle
+358	ListeTypologie	trapèze à base décalée
+366	ListeTypologie	triangle scalène
+367	ListeTypologie	troncature
+2916	ListeTypologie	à lamelles
+2917	ListeTypologie	à lames
+2918	ListeTypologie	à éclats
+2869	ListeTypologie	éclat de hache polie
+2871	ListeTypologie	éclat de retaille de hache polie
+359	ListeTypologie	éclat retouché
+937	ListeAnthropologieCaracteresDiscrets	3ème trochanter
+935	ListeAnthropologieCaracteresDiscrets	agénésie dentaire
+949	ListeAnthropologieCaracteresDiscrets	anomalie radiculaire
+942	ListeAnthropologieCaracteresDiscrets	dent incluse
+932	ListeAnthropologieCaracteresDiscrets	dent surnuméraire
+2749	ListeAnthropologieCaracteresDiscrets	encoche
+951	ListeAnthropologieCaracteresDiscrets	facette condylienne double occipitale
+2750	ListeAnthropologieCaracteresDiscrets	foramen double
+944	ListeAnthropologieCaracteresDiscrets	foramen pariétal
+2751	ListeAnthropologieCaracteresDiscrets	foramen surnuméraire
+2764	ListeAnthropologieCaracteresDiscrets	foramen suturaire mastoïdien
+2752	ListeAnthropologieCaracteresDiscrets	fosse de Allen
+2753	ListeAnthropologieCaracteresDiscrets	fusion dentaire
+2754	ListeAnthropologieCaracteresDiscrets	hypodontie
+2755	ListeAnthropologieCaracteresDiscrets	incisive / canine en pelle
+938	ListeAnthropologieCaracteresDiscrets	lésion péri-apicale
+952	ListeAnthropologieCaracteresDiscrets	métopisme frontal
+953	ListeAnthropologieCaracteresDiscrets	os Wormiens
+943	ListeAnthropologieCaracteresDiscrets	os surnuméraire
+2763	ListeAnthropologieCaracteresDiscrets	os suturaire occipito-mastoïdien 
+2802	ListeAnthropologieCaracteresDiscrets	ossification du ligament odontoïde
+936	ListeAnthropologieCaracteresDiscrets	ossifications des cartilages
+2756	ListeAnthropologieCaracteresDiscrets	patella bipartite
+2757	ListeAnthropologieCaracteresDiscrets	patella émarginata
+2758	ListeAnthropologieCaracteresDiscrets	perforation olécrânienne
+2759	ListeAnthropologieCaracteresDiscrets	perforation sternale
+2760	ListeAnthropologieCaracteresDiscrets	perforation xyphoïdienne
+945	ListeAnthropologieCaracteresDiscrets	perle d’émail
+947	ListeAnthropologieCaracteresDiscrets	perte convexité antérieur de l’arcade alvéolaire
+946	ListeAnthropologieCaracteresDiscrets	torus mandibulaire
+933	ListeAnthropologieCaracteresDiscrets	torus palatin
+939	ListeAnthropologieCaracteresDiscrets	tubercule de Bolk
+941	ListeAnthropologieCaracteresDiscrets	tubercule de Carabelli
+2761	ListeAnthropologieCaracteresDiscrets	épines dorsales bifides
+2721	ListeAnthropologiePathologiesObservees	DISH
+916	ListeAnthropologiePathologiesObservees	abcès
+2805	ListeAnthropologiePathologiesObservees	abcès costal
+2786	ListeAnthropologiePathologiesObservees	acrobrachicéphalie
+923	ListeAnthropologiePathologiesObservees	agénésie
+2693	ListeAnthropologiePathologiesObservees	amincissement cortical
+2803	ListeAnthropologiePathologiesObservees	amincissement symétrique des pariétaux
+910	ListeAnthropologiePathologiesObservees	amputation
+2678	ListeAnthropologiePathologiesObservees	arthrite inflammatoire
+2717	ListeAnthropologiePathologiesObservees	arthrose
+2718	ListeAnthropologiePathologiesObservees	arthrose temporo-mandibulaire
+2698	ListeAnthropologiePathologiesObservees	asymétrie crânienne
+2719	ListeAnthropologiePathologiesObservees	bec de perroquet
+904	ListeAnthropologiePathologiesObservees	blessures par armes
+2708	ListeAnthropologiePathologiesObservees	bruxisme
+2205	ListeAnthropologiePathologiesObservees	calcification biologque
+2203	ListeAnthropologiePathologiesObservees	calcul bilaire
+2740	ListeAnthropologiePathologiesObservees	calcul urinaire
+915	ListeAnthropologiePathologiesObservees	caries
+2741	ListeAnthropologiePathologiesObservees	cartilage costal
+2742	ListeAnthropologiePathologiesObservees	cartilage trachéal
+2709	ListeAnthropologiePathologiesObservees	chevauchement 
+2733	ListeAnthropologiePathologiesObservees	chondrome
+2720	ListeAnthropologiePathologiesObservees	colonne de bambou
+2699	ListeAnthropologiePathologiesObservees	courbure antéro-postérieure importante
+899	ListeAnthropologiePathologiesObservees	cribra cranii
+2783	ListeAnthropologiePathologiesObservees	cribra femoris
+2785	ListeAnthropologiePathologiesObservees	cribra fibulaire
+2784	ListeAnthropologiePathologiesObservees	cribra humeris
+898	ListeAnthropologiePathologiesObservees	cribra orbitalia
+2794	ListeAnthropologiePathologiesObservees	dent enclavée
+912	ListeAnthropologiePathologiesObservees	décapitation
+2748	ListeAnthropologiePathologiesObservees	déchirure entaille
+2747	ListeAnthropologiePathologiesObservees	déchirure ligamentaire
+913	ListeAnthropologiePathologiesObservees	déchirure ligamentaire/ entaille
+2766	ListeAnthropologiePathologiesObservees	ecchymose osseuse
+2812	ListeAnthropologiePathologiesObservees	enchondrome
+2767	ListeAnthropologiePathologiesObservees	enlèvement osseux
+2769	ListeAnthropologiePathologiesObservees	enthèse
+2789	ListeAnthropologiePathologiesObservees	enthèse inflammatoire
+2770	ListeAnthropologiePathologiesObservees	enthésopathie
+914	ListeAnthropologiePathologiesObservees	entorse
+2680	ListeAnthropologiePathologiesObservees	exostose
+2743	ListeAnthropologiePathologiesObservees	exostose du conduit auditif
+2710	ListeAnthropologiePathologiesObservees	fluorose
+2681	ListeAnthropologiePathologiesObservees	fovéa marquée
+921	ListeAnthropologiePathologiesObservees	fracture
+905	ListeAnthropologiePathologiesObservees	fracture consolidée
+908	ListeAnthropologiePathologiesObservees	fracture de fatigue
+907	ListeAnthropologiePathologiesObservees	fracture déplacée
+906	ListeAnthropologiePathologiesObservees	fracture non consolidée
+2790	ListeAnthropologiePathologiesObservees	fracture par écrasement pariétal
+2809	ListeAnthropologiePathologiesObservees	fusion sacro-iliaque
+920	ListeAnthropologiePathologiesObservees	fêlure
+2728	ListeAnthropologiePathologiesObservees	goutte
+2682	ListeAnthropologiePathologiesObservees	géode
+2711	ListeAnthropologiePathologiesObservees	hypercémentose
+2200	ListeAnthropologiePathologiesObservees	hyperlordose
+2694	ListeAnthropologiePathologiesObservees	hyperostose poreuse
+2776	ListeAnthropologiePathologiesObservees	hypervascularisation
+900	ListeAnthropologiePathologiesObservees	hypoplasie de l’émail dentaire
+924	ListeAnthropologiePathologiesObservees	hypoplasie émail dentaire
+2788	ListeAnthropologiePathologiesObservees	infection de la jonction sterno-claviculaire
+2772	ListeAnthropologiePathologiesObservees	insertion musculaire développée
+2771	ListeAnthropologiePathologiesObservees	insertion musculaire en fosse
+2202	ListeAnthropologiePathologiesObservees	kyste hydatique
+2744	ListeAnthropologiePathologiesObservees	liquide de décomposition
+911	ListeAnthropologiePathologiesObservees	luxation
+3069	ListeAnthropologiePathologiesObservees	luxation de la hanche
+2765	ListeAnthropologiePathologiesObservees	lyse racinaire
+2777	ListeAnthropologiePathologiesObservees	lèpre
+2712	ListeAnthropologiePathologiesObservees	lésion péri-apicale
+2778	ListeAnthropologiePathologiesObservees	mal de Pott
+2722	ListeAnthropologiePathologiesObservees	maladie de Dupuytren
+2723	ListeAnthropologiePathologiesObservees	maladie de Scheuermann
+2683	ListeAnthropologiePathologiesObservees	marque acétabulaire
+2684	ListeAnthropologiePathologiesObservees	marque supra-fovéaire
+2782	ListeAnthropologiePathologiesObservees	marque surface articulaire
+2806	ListeAnthropologiePathologiesObservees	mastoïdite
+2734	ListeAnthropologiePathologiesObservees	méningiome
+2685	ListeAnthropologiePathologiesObservees	nodule de Schmorl
+2735	ListeAnthropologiePathologiesObservees	néoplasie
+2700	ListeAnthropologiePathologiesObservees	os odontoïde
+2745	ListeAnthropologiePathologiesObservees	ossification des tendons
+2686	ListeAnthropologiePathologiesObservees	ostéochondrite cicatricielle
+2687	ListeAnthropologiePathologiesObservees	ostéochondrite de croissance
+2688	ListeAnthropologiePathologiesObservees	ostéochondrite disséquante
+2736	ListeAnthropologiePathologiesObservees	ostéochondrome
+2737	ListeAnthropologiePathologiesObservees	ostéome
+2738	ListeAnthropologiePathologiesObservees	ostéome ostéoïde
+2807	ListeAnthropologiePathologiesObservees	ostéomyélite postraumatique
+2689	ListeAnthropologiePathologiesObservees	ostéophyte
+2690	ListeAnthropologiePathologiesObservees	ostéophyte marginal
+2739	ListeAnthropologiePathologiesObservees	ostéosarcome
+2713	ListeAnthropologiePathologiesObservees	parodontite
+2701	ListeAnthropologiePathologiesObservees	patella bipartite
+2773	ListeAnthropologiePathologiesObservees	patella emarginata
+2787	ListeAnthropologiePathologiesObservees	pectus excavatum
+2695	ListeAnthropologiePathologiesObservees	persistance de la fontanelle antérieure
+918	ListeAnthropologiePathologiesObservees	perte ante-mortem
+2793	ListeAnthropologiePathologiesObservees	perte d'émail dentaire
+919	ListeAnthropologiePathologiesObservees	perte post-mortem
+2714	ListeAnthropologiePathologiesObservees	pigmentation
+2746	ListeAnthropologiePathologiesObservees	plaque pleurale
+2702	ListeAnthropologiePathologiesObservees	position anatomique anormale
+2691	ListeAnthropologiePathologiesObservees	pratique cavalière
+2729	ListeAnthropologiePathologiesObservees	périostite
+2779	ListeAnthropologiePathologiesObservees	périostite infectieuse
+2730	ListeAnthropologiePathologiesObservees	périostose
+901	ListeAnthropologiePathologiesObservees	rachitisme – ostéomalacie
+902	ListeAnthropologiePathologiesObservees	retard de croissance staturale
+903	ListeAnthropologiePathologiesObservees	retard d’éruption dentaire
+2704	ListeAnthropologiePathologiesObservees	sacralisation de 1ère coccygienne
+2703	ListeAnthropologiePathologiesObservees	sacralisation de L5
+2198	ListeAnthropologiePathologiesObservees	scoliose
+2696	ListeAnthropologiePathologiesObservees	scorbut
+2731	ListeAnthropologiePathologiesObservees	sinusite
+2705	ListeAnthropologiePathologiesObservees	spina bifida
+2724	ListeAnthropologiePathologiesObservees	spondylarthrite ankylosante
+2810	ListeAnthropologiePathologiesObservees	spondylarthropathie
+2706	ListeAnthropologiePathologiesObservees	spondylolyse
+2199	ListeAnthropologiePathologiesObservees	spondylose
+2808	ListeAnthropologiePathologiesObservees	staphylocoque
+2692	ListeAnthropologiePathologiesObservees	surface articulaire surnuméraire
+2811	ListeAnthropologiePathologiesObservees	syndesmophyte
+2804	ListeAnthropologiePathologiesObservees	syndrome de Klippel-Feil
+2725	ListeAnthropologiePathologiesObservees	syndrome subacromial
+2201	ListeAnthropologiePathologiesObservees	synostose angulaire
+2707	ListeAnthropologiePathologiesObservees	synostose incomplète
+2780	ListeAnthropologiePathologiesObservees	syphilis
+917	ListeAnthropologiePathologiesObservees	tartre
+2768	ListeAnthropologiePathologiesObservees	tassement vertébral
+909	ListeAnthropologiePathologiesObservees	trépanation
+2732	ListeAnthropologiePathologiesObservees	tubercule de Pacchioni
+2781	ListeAnthropologiePathologiesObservees	tuberculose
+2774	ListeAnthropologiePathologiesObservees	tubérosité deltoïdienne développée
+2791	ListeAnthropologiePathologiesObservees	tumeur épicrânienne
+922	ListeAnthropologiePathologiesObservees	usure dentaire
+2715	ListeAnthropologiePathologiesObservees	usure extra-alimentaire
+2679	ListeAnthropologiePathologiesObservees	éburnation
+2716	ListeAnthropologiePathologiesObservees	édentation
+2697	ListeAnthropologiePathologiesObservees	épaississement cortical
+2775	ListeAnthropologiePathologiesObservees	épine enthèsique
+963	ListeAnthropologieOrientationSquelette	Est / Ouest
+974	ListeAnthropologieOrientationSquelette	Nord / Sud
+970	ListeAnthropologieOrientationSquelette	Nord-Est / Sud-Ouest
+966	ListeAnthropologieOrientationSquelette	Nord-Nord-Est / Sud-Sud-Ouest
+969	ListeAnthropologieOrientationSquelette	Nord-Nord-Ouest / Sud-Sud-Est
+964	ListeAnthropologieOrientationSquelette	Nord-Ouest / Sud-Est
+967	ListeAnthropologieOrientationSquelette	Ouest / Est
+972	ListeAnthropologieOrientationSquelette	Sud / Nord
+968	ListeAnthropologieOrientationSquelette	Sud-Est / Nord-Ouest
+965	ListeAnthropologieOrientationSquelette	Sud-Ouest / Nord-Est
+971	ListeAnthropologieOrientationSquelette	Sud-Sud-Est / Nord-Nord-Ouest
+973	ListeAnthropologieOrientationSquelette	Sud-Sud-Ouest / Nord-Nord-Est
+1119	ListeEtatSanitaire	critique
+1118	ListeEtatSanitaire	instable
+1120	ListeEtatSanitaire	stable
+165	ListeIncConcentration	abondants
+163	ListeIncConcentration	concrétion
+168	ListeIncConcentration	diffuse
+164	ListeIncConcentration	lamine
+161	ListeIncConcentration	nombreux
+166	ListeIncConcentration	occasionnels
+162	ListeIncConcentration	percolation
+167	ListeIncConcentration	rares
+853	ListeDocumentObjetLot	lot
+852	ListeDocumentObjetLot	objet
+851	ListeDocumentObjetLot	ue
+957	ListeAnthropologieTypeSepulture	primaire
+958	ListeAnthropologieTypeSepulture	réduction
+959	ListeAnthropologieTypeSepulture	secondaire
+962	ListeAnthropologieTypeInhumation	pleine terre
+961	ListeAnthropologieTypeInhumation	tombe construite
+960	ListeAnthropologieTypeInhumation	tombe semi-construite
+1124	ListeEtatRepresentativite	bonne ( > 70 %)
+1123	ListeEtatRepresentativite	mauvaise ( < 40 %)
+1125	ListeEtatRepresentativite	moyenne (70 à 40 %)
+401	ListeFragment	distal
+403	ListeFragment	mésial
+402	ListeFragment	proximal
+2245	ListeTypeMesureCeramique	diamètre bord
+2248	ListeTypeMesureCeramique	diamètre col
+2240	ListeTypeMesureCeramique	diamètre fond
+2243	ListeTypeMesureCeramique	diamètre panse
+2247	ListeTypeMesureCeramique	hauteur col
+2242	ListeTypeMesureCeramique	hauteur vase
+2246	ListeTypeMesureCeramique	épaisseur col
+2241	ListeTypeMesureCeramique	épaisseur fond
+2239	ListeTypeMesureCeramique	épaisseur lèvre
+2244	ListeTypeMesureCeramique	épaisseur panse
+570	ListeTypeMesure	diamètre ext.
+572	ListeTypeMesure	diamètre int.
+571	ListeTypeMesure	hauteur
+566	ListeTypeMesure	largeur
+568	ListeTypeMesure	longueur
+569	ListeTypeMesure	poids
+565	ListeTypeMesure	section max
+564	ListeTypeMesure	section min
+563	ListeTypeMesure	volume
+567	ListeTypeMesure	épaisseur
+956	ListeAnthropologieEtatSepulture	sépulture détruite
+955	ListeAnthropologieEtatSepulture	sépulture intacte
+954	ListeAnthropologieEtatSepulture	sépulture remaniée
+882	ListeAnthropologieMethodeAge	degré de minéralisation et éruption dentaire
+887	ListeAnthropologieMethodeAge	degré de synostose des sutures crâniennes
+888	ListeAnthropologieMethodeAge	degré d’usure des dents
+884	ListeAnthropologieMethodeAge	longueur moyenne des os longs
+889	ListeAnthropologieMethodeAge	modifications arthrosiques des articulations des membres
+883	ListeAnthropologieMethodeAge	ossification crânienne et post-crânienne
+886	ListeAnthropologieMethodeAge	stades des faciès symphyseos
+885	ListeAnthropologieMethodeAge	synostose épiphyso-diaphysaire des os post-crânien
+2954	ListePlanUE	anthropomorphe
+233	ListePlanUE	carré
+234	ListePlanUE	circulaire
+237	ListePlanUE	irrégulier
+235	ListePlanUE	ovale
+236	ListePlanUE	rectangulaire
+238	ListePlanUE	rectiligne
+239	ListePlanUE	sinueux
+766	ListeDocumentSousTypologie	Arrêtés et PSTI
+785	ListeDocumentSousTypologie	Article scientifique
+772	ListeDocumentSousTypologie	Carnet de terrain
+776	ListeDocumentSousTypologie	Cartographie - Topographie
+767	ListeDocumentSousTypologie	Correspondance et compte-rendu de réunion
+770	ListeDocumentSousTypologie	DICT
+774	ListeDocumentSousTypologie	Dessin de mobilier
+786	ListeDocumentSousTypologie	Document grand public
+771	ListeDocumentSousTypologie	Documentation aménageur
+781	ListeDocumentSousTypologie	Documents
+769	ListeDocumentSousTypologie	Gestion de chantier et comptabilité
+779	ListeDocumentSousTypologie	Mobilier
+768	ListeDocumentSousTypologie	Mouvement des collections
+784	ListeDocumentSousTypologie	Notice bsr
+775	ListeDocumentSousTypologie	Photographie et audiovisuel
+777	ListeDocumentSousTypologie	Radiographies
+782	ListeDocumentSousTypologie	Rapport d'études et analyses
+783	ListeDocumentSousTypologie	Rapport final d'opération
+773	ListeDocumentSousTypologie	Relevé de terrain
+778	ListeDocumentSousTypologie	US et relations
+927	ListeAnthropologieSexe	femme
+925	ListeAnthropologieSexe	homme
+926	ListeAnthropologieSexe	indéterminé
+1538	ListeArcheozoologieOsPrincipal	atlas
+1517	ListeArcheozoologieOsPrincipal	axis
+1519	ListeArcheozoologieOsPrincipal	bois
+2962	ListeArcheozoologieOsPrincipal	brechet
+1603	ListeArcheozoologieOsPrincipal	calcaneus
+1637	ListeArcheozoologieOsPrincipal	capitato-trapézoïde
+1633	ListeArcheozoologieOsPrincipal	capitatum
+2966	ListeArcheozoologieOsPrincipal	carpo-métacarpe
+2967	ListeArcheozoologieOsPrincipal	cartilage costal
+2961	ListeArcheozoologieOsPrincipal	cheville osseuse
+2968	ListeArcheozoologieOsPrincipal	clavicule
+2960	ListeArcheozoologieOsPrincipal	cleithrum
+1525	ListeArcheozoologieOsPrincipal	coxal
+1645	ListeArcheozoologieOsPrincipal	cuboïde
+1652	ListeArcheozoologieOsPrincipal	cunéiforme intermédiaire
+1634	ListeArcheozoologieOsPrincipal	cunéiforme latéral
+1556	ListeArcheozoologieOsPrincipal	cunéiforme médial
+1511	ListeArcheozoologieOsPrincipal	côte
+1514	ListeArcheozoologieOsPrincipal	dent indéterminée
+1547	ListeArcheozoologieOsPrincipal	dent inférieure
+1512	ListeArcheozoologieOsPrincipal	dent supérieure
+1545	ListeArcheozoologieOsPrincipal	ethmoïde
+1541	ListeArcheozoologieOsPrincipal	fibula
+2965	ListeArcheozoologieOsPrincipal	furcula
+1549	ListeArcheozoologieOsPrincipal	fémur
+1554	ListeArcheozoologieOsPrincipal	grand cunéiforme
+1596	ListeArcheozoologieOsPrincipal	hamatum
+1520	ListeArcheozoologieOsPrincipal	humérus
+1611	ListeArcheozoologieOsPrincipal	lunatum
+1540	ListeArcheozoologieOsPrincipal	mandibule
+1551	ListeArcheozoologieOsPrincipal	maxillaire
+1564	ListeArcheozoologieOsPrincipal	métacarpien I
+1628	ListeArcheozoologieOsPrincipal	métacarpien II
+1642	ListeArcheozoologieOsPrincipal	métacarpien III
+1575	ListeArcheozoologieOsPrincipal	métacarpien III-IV
+1649	ListeArcheozoologieOsPrincipal	métacarpien IV
+1562	ListeArcheozoologieOsPrincipal	métacarpien V
+2912	ListeArcheozoologieOsPrincipal	métacarpien indéterminé
+1546	ListeArcheozoologieOsPrincipal	métapode
+1570	ListeArcheozoologieOsPrincipal	métatarsien I
+1620	ListeArcheozoologieOsPrincipal	métatarsien II
+1565	ListeArcheozoologieOsPrincipal	métatarsien III
+1643	ListeArcheozoologieOsPrincipal	métatarsien III-IV
+1621	ListeArcheozoologieOsPrincipal	métatarsien IV
+1568	ListeArcheozoologieOsPrincipal	métatarsien V
+2910	ListeArcheozoologieOsPrincipal	métatarsien indéterminé
+1629	ListeArcheozoologieOsPrincipal	naviculaire
+1572	ListeArcheozoologieOsPrincipal	naviculo-cuboïde
+2969	ListeArcheozoologieOsPrincipal	os carré
+2935	ListeArcheozoologieOsPrincipal	os coracoïde
+2970	ListeArcheozoologieOsPrincipal	os court
+2963	ListeArcheozoologieOsPrincipal	os dentaire
+1516	ListeArcheozoologieOsPrincipal	os frontal
+1653	ListeArcheozoologieOsPrincipal	os grands sésamoïdes
+1521	ListeArcheozoologieOsPrincipal	os hyoïde
+1543	ListeArcheozoologieOsPrincipal	os incisif
+2959	ListeArcheozoologieOsPrincipal	os jugal
+1522	ListeArcheozoologieOsPrincipal	os lacrymal
+2831	ListeArcheozoologieOsPrincipal	os long
+1537	ListeArcheozoologieOsPrincipal	os malléolaire
+1526	ListeArcheozoologieOsPrincipal	os nasal
+1515	ListeArcheozoologieOsPrincipal	os occipital
+1510	ListeArcheozoologieOsPrincipal	os palatin
+1532	ListeArcheozoologieOsPrincipal	os pariétal
+1555	ListeArcheozoologieOsPrincipal	os petits sésamoïdes
+2971	ListeArcheozoologieOsPrincipal	os plat
+1533	ListeArcheozoologieOsPrincipal	os pénien
+2964	ListeArcheozoologieOsPrincipal	os quadratojugal
+2972	ListeArcheozoologieOsPrincipal	os quadratum
+2974	ListeArcheozoologieOsPrincipal	os squamosal
+2973	ListeArcheozoologieOsPrincipal	os sésamoïde
+1544	ListeArcheozoologieOsPrincipal	os temporal
+1529	ListeArcheozoologieOsPrincipal	os zygomatique
+1536	ListeArcheozoologieOsPrincipal	patella
+1646	ListeArcheozoologieOsPrincipal	petit cunéiforme
+1618	ListeArcheozoologieOsPrincipal	phalange distale
+2911	ListeArcheozoologieOsPrincipal	phalange indéterminé
+1590	ListeArcheozoologieOsPrincipal	phalange intermédiaire
+1577	ListeArcheozoologieOsPrincipal	phalange proximale
+1632	ListeArcheozoologieOsPrincipal	pisiforme
+2975	ListeArcheozoologieOsPrincipal	pygostyle
+1626	ListeArcheozoologieOsPrincipal	pyramidal
+2976	ListeArcheozoologieOsPrincipal	radio-ulna
+1552	ListeArcheozoologieOsPrincipal	radius
+1539	ListeArcheozoologieOsPrincipal	sacrum
+1600	ListeArcheozoologieOsPrincipal	scapho-lunatum
+1566	ListeArcheozoologieOsPrincipal	scaphoïde
+1527	ListeArcheozoologieOsPrincipal	scapula
+1548	ListeArcheozoologieOsPrincipal	sphénoïde
+1542	ListeArcheozoologieOsPrincipal	sternum
+2977	ListeArcheozoologieOsPrincipal	synsacrum
+1592	ListeArcheozoologieOsPrincipal	sésamoïde métatarsien
+1595	ListeArcheozoologieOsPrincipal	talus
+2978	ListeArcheozoologieOsPrincipal	tarso-métatarse
+1530	ListeArcheozoologieOsPrincipal	tibia
+2979	ListeArcheozoologieOsPrincipal	tibio-fibula
+2980	ListeArcheozoologieOsPrincipal	tibio-tarse
+1578	ListeArcheozoologieOsPrincipal	trapèze
+1647	ListeArcheozoologieOsPrincipal	trapézoïde
+1531	ListeArcheozoologieOsPrincipal	ulna
+2981	ListeArcheozoologieOsPrincipal	urostyle
+1524	ListeArcheozoologieOsPrincipal	vertèbre cervicale
+1523	ListeArcheozoologieOsPrincipal	vertèbre coccygienne
+1518	ListeArcheozoologieOsPrincipal	vertèbre indéterminée
+1550	ListeArcheozoologieOsPrincipal	vertèbre lombaire
+1513	ListeArcheozoologieOsPrincipal	vertèbre thoracique
+1534	ListeArcheozoologieOsPrincipal	vomer
+1046	ListeAnthropologieCodification	0
+1045	ListeAnthropologieCodification	1
+1048	ListeAnthropologieCodification	2
+1047	ListeAnthropologieCodification	3
+1050	ListeAnthropologieCodification	4
+1049	ListeAnthropologieCodification	5
+1041	ListeAnthropologieCodification	I
+1040	ListeAnthropologieCodification	II
+1052	ListeAnthropologieCodification	III
+1044	ListeAnthropologieCodification	IV
+1051	ListeAnthropologieCodification	V
+1042	ListeAnthropologieCodification	VI
+1043	ListeAnthropologieCodification	VII
+1136	ListeAnthropologieRegionAnatomique	Bloc crânien
+1138	ListeAnthropologieRegionAnatomique	Ceinture pelvienne
+1139	ListeAnthropologieRegionAnatomique	Ceinture scapulaire
+1141	ListeAnthropologieRegionAnatomique	Dentition
+1135	ListeAnthropologieRegionAnatomique	Membre inférieur
+1137	ListeAnthropologieRegionAnatomique	Membre supérieur
+1134	ListeAnthropologieRegionAnatomique	Rachis
+1140	ListeAnthropologieRegionAnatomique	Thorax
+170	ListeIncTaille	gros fragments
+172	ListeIncTaille	micro-nodules
+169	ListeIncTaille	moellons
+171	ListeIncTaille	nodules
+174	ListeIncTaille	petits fragments
+173	ListeIncTaille	éclats
+533	ListeLateralisation	droit
+532	ListeLateralisation	gauche
+534	ListeLateralisation	indéterminée
+1129	ListeStatutJuridique	affectation
+1126	ListeStatutJuridique	dépôt
+1130	ListeStatutJuridique	en cours
+1128	ListeStatutJuridique	prêt
+1131	ListeStatutJuridique	transfert de propriété L. 3112-1 du CG3P
+1127	ListeStatutJuridique	transfert de propriété L. 523-14 alinéa 3 du CP
+877	ListeAnthropologieAge	adolescent
+879	ListeAnthropologieAge	adulte
+876	ListeAnthropologieAge	fœtus
+881	ListeAnthropologieAge	immature
+880	ListeAnthropologieAge	indéterminé
+878	ListeAnthropologieAge	périnatal
+697	ListeRegieNiveau1	prêt
+696	ListeRegieNiveau1	stockage
+698	ListeRegieNiveau1	traitement
+871	ListeDocumentSujetPrincipal	ambiance
+874	ListeDocumentSujetPrincipal	ensemble
+869	ListeDocumentSujetPrincipal	environnement
+870	ListeDocumentSujetPrincipal	géoarchéologie
+873	ListeDocumentSujetPrincipal	indéterminé
+872	ListeDocumentSujetPrincipal	mobilier
+875	ListeDocumentSujetPrincipal	structure
+897	ListeAnthropologiePathologies	articulaire
+2204	ListeAnthropologiePathologies	calcification biologique
+890	ListeAnthropologiePathologies	carentielle et de stress
+894	ListeAnthropologiePathologies	congénitale
+895	ListeAnthropologiePathologies	dentaire
+896	ListeAnthropologiePathologies	dégénérative
+891	ListeAnthropologiePathologies	infectieuse
+2727	ListeAnthropologiePathologies	inflammatoire
+892	ListeAnthropologiePathologies	musculaire et ligamentaire
+893	ListeAnthropologiePathologies	traumatique
+2726	ListeAnthropologiePathologies	tumorale
+3067	ListeEspece	Elan
+3063	ListeEspece	Eléphant
+3064	ListeEspece	Eléphant antique
+3065	ListeEspece	Mastodonte
+3066	ListeEspece	Rhinocéros
+2982	ListeEspece	amphibien
+2984	ListeEspece	anguille
+1875	ListeEspece	auroch
+2986	ListeEspece	barge à queue noire
+1837	ListeEspece	batracien
+2989	ListeEspece	belette
+2990	ListeEspece	blaireau
+555	ListeEspece	bovidé
+2991	ListeEspece	brochet
+2992	ListeEspece	buse
+2988	ListeEspece	bécasse
+552	ListeEspece	bœuf
+2993	ListeEspece	campagnol
+538	ListeEspece	canard
+2994	ListeEspece	canard chipeau
+2995	ListeEspece	canard colvert
+2996	ListeEspece	canard pilet
+2997	ListeEspece	canard sauvage
+541	ListeEspece	canidé
+551	ListeEspece	capriné
+2998	ListeEspece	carnivore
+2999	ListeEspece	carpe
+3000	ListeEspece	castor
+554	ListeEspece	cerf
+540	ListeEspece	cervidé
+539	ListeEspece	chat
+3001	ListeEspece	chat sauvage
+537	ListeEspece	cheval
+549	ListeEspece	chevreuil
+3002	ListeEspece	chevêche
+561	ListeEspece	chien
+3003	ListeEspece	choucas
+556	ListeEspece	chèvre
+3004	ListeEspece	cigogne
+3005	ListeEspece	cistude
+559	ListeEspece	coq
+1827	ListeEspece	coque
+3006	ListeEspece	corneille
+3007	ListeEspece	corvidés
+3008	ListeEspece	crapaud
+3009	ListeEspece	cygne
+3010	ListeEspece	cygne tuberculé
+535	ListeEspece	daim
+3014	ListeEspece	fouine
+3015	ListeEspece	foulque
+3016	ListeEspece	freux
+548	ListeEspece	félidé
+3017	ListeEspece	geai
+3018	ListeEspece	goëland brun
+3019	ListeEspece	goëland marin
+3020	ListeEspece	grand corbeau
+553	ListeEspece	grand herbivore
+3021	ListeEspece	grand ruminant
+3022	ListeEspece	grenouille verte
+3023	ListeEspece	grive
+3024	ListeEspece	grue
+3025	ListeEspece	harle bièvre
+3026	ListeEspece	harle huppé
+3028	ListeEspece	hermine
+3062	ListeEspece	hippopotame
+2937	ListeEspece	huître
+3027	ListeEspece	hérisson
+3029	ListeEspece	héron
+550	ListeEspece	indéterminé
+560	ListeEspece	lapin
+543	ListeEspece	lièvre
+3030	ListeEspece	loup
+3031	ListeEspece	loutre
+3032	ListeEspece	lynx
+3033	ListeEspece	mammifère
+3061	ListeEspece	mammouth
+3034	ListeEspece	martre
+3035	ListeEspece	merle
+3036	ListeEspece	micromammifère
+3037	ListeEspece	morue
+3038	ListeEspece	mouette rieuse
+1835	ListeEspece	moule
+558	ListeEspece	mouton
+544	ListeEspece	mustélidé
+546	ListeEspece	oie
+3039	ListeEspece	oie cendrée
+557	ListeEspece	oiseau
+3040	ListeEspece	ongulé
+1836	ListeEspece	ours
+3041	ListeEspece	ours brun
+3042	ListeEspece	perche
+3043	ListeEspece	perdrix grise
+3044	ListeEspece	petit mammifère
+3045	ListeEspece	petit ruminant
+3046	ListeEspece	pigeon
+3047	ListeEspece	pigeon ramier
+3048	ListeEspece	pluvier doré
+2213	ListeEspece	poisson
+536	ListeEspece	porc
+3049	ListeEspece	poule
+3050	ListeEspece	putois
+3051	ListeEspece	pygargue
+3053	ListeEspece	rat
+3054	ListeEspece	renard
+547	ListeEspece	rongeur
+3052	ListeEspece	râle d'eau
+542	ListeEspece	sanglier
+3055	ListeEspece	saumon
+3056	ListeEspece	souris
+545	ListeEspece	suidé
+3057	ListeEspece	sus/cervus
+3058	ListeEspece	tanche
+3059	ListeEspece	taupe
+3060	ListeEspece	truite
+1826	ListeEspece	âne
+3011	ListeEspece	écureuil
+3012	ListeEspece	épervier
+562	ListeEspece	équidé
+3013	ListeEspece	équidé
+1009	ListeAnthropologieContenant	aucun
+1006	ListeAnthropologieContenant	cercueil
+1003	ListeAnthropologieContenant	coffrage
+1010	ListeAnthropologieContenant	linceul
+1004	ListeAnthropologieContenant	maçonnerie
+1005	ListeAnthropologieContenant	plancher/brancard
+1007	ListeAnthropologieContenant	sarcophage
+1008	ListeAnthropologieContenant	vêtement
+1911	ListeInterpretationUE	aire de chauffe
+1454	ListeInterpretationUE	alandier
+2944	ListeInterpretationUE	anomalie naturelle
+1926	ListeInterpretationUE	apprêt de sol / remblai de préparation
+1928	ListeInterpretationUE	arase
+1908	ListeInterpretationUE	arrachage
+284	ListeInterpretationUE	avant trou
+1903	ListeInterpretationUE	bitumée
+1929	ListeInterpretationUE	blocage
+240	ListeInterpretationUE	bâtiment excavé
+1895	ListeInterpretationUE	béton de tuileau
+259	ListeInterpretationUE	canalisation
+1914	ListeInterpretationUE	carneau
+273	ListeInterpretationUE	carottage
+1900	ListeInterpretationUE	casson
+241	ListeInterpretationUE	cellier
+1842	ListeInterpretationUE	cercueil
+1854	ListeInterpretationUE	cercueil ou coffrage
+242	ListeInterpretationUE	chablis
+1913	ListeInterpretationUE	chambre de chauffe
+1922	ListeInterpretationUE	chape de mortier
+1843	ListeInterpretationUE	coffrage
+269	ListeInterpretationUE	coupe
+1896	ListeInterpretationUE	craie damée
+1897	ListeInterpretationUE	dallage
+1841	ListeInterpretationUE	de la tombe inhumation
+254	ListeInterpretationUE	drainage
+1840	ListeInterpretationUE	du contenant funéraire
+253	ListeInterpretationUE	défense
+1925	ListeInterpretationUE	démolition
+243	ListeInterpretationUE	dépotoir
+1917	ListeInterpretationUE	dôme
+1909	ListeInterpretationUE	empreinte
+282	ListeInterpretationUE	empreinte avec avant-trou
+283	ListeInterpretationUE	empreinte sans avant-trou
+1904	ListeInterpretationUE	en cassons
+1906	ListeInterpretationUE	en craie damée
+1905	ListeInterpretationUE	en rognons
+266	ListeInterpretationUE	encaissant
+255	ListeInterpretationUE	enclos
+1450	ListeInterpretationUE	extraction
+244	ListeInterpretationUE	fond de cabane
+257	ListeInterpretationUE	fondation
+261	ListeInterpretationUE	fondation et élévation
+258	ListeInterpretationUE	fondation fantôme
+245	ListeInterpretationUE	fosse
+246	ListeInterpretationUE	fosse à gravats
+2922	ListeInterpretationUE	foyer
+275	ListeInterpretationUE	incendie
+247	ListeInterpretationUE	indéterminé
+1916	ListeInterpretationUE	laboratoire
+1451	ListeInterpretationUE	languette
+248	ListeInterpretationUE	latrines
+1844	ListeInterpretationUE	linceul
+1920	ListeInterpretationUE	lit de pose
+1923	ListeInterpretationUE	matériaux
+262	ListeInterpretationUE	maçonnerie
+1898	ListeInterpretationUE	mosaïque
+256	ListeInterpretationUE	parcellaire
+1899	ListeInterpretationUE	pavage
+1902	ListeInterpretationUE	pavée
+1930	ListeInterpretationUE	pillage/récupération
+1921	ListeInterpretationUE	placage (mortier, maçonnerie, etc.)
+1846	ListeInterpretationUE	plancher/brancard
+1910	ListeInterpretationUE	présent
+249	ListeInterpretationUE	puits
+1901	ListeInterpretationUE	rognons de silex
+263	ListeInterpretationUE	sablière
+1847	ListeInterpretationUE	sarcophage
+250	ListeInterpretationUE	silo
+1915	ListeInterpretationUE	sole
+264	ListeInterpretationUE	solin
+268	ListeInterpretationUE	structure
+265	ListeInterpretationUE	terre végétale
+251	ListeInterpretationUE	tombe - incinération
+252	ListeInterpretationUE	tombe - inhumation
+270	ListeInterpretationUE	tranchée
+274	ListeInterpretationUE	trou de bombe
+1848	ListeInterpretationUE	vêtement
+260	ListeInterpretationUE	élévation
+1002	ListeAnthropologieEspaceInhumation	colmatage différé
+999	ListeAnthropologieEspaceInhumation	colmatage progressif
+1000	ListeAnthropologieEspaceInhumation	colmaté
+998	ListeAnthropologieEspaceInhumation	indéterminé
+1001	ListeAnthropologieEspaceInhumation	vide
+1062	ListeAnthropologieTypeConnexion	atlas-axis
+1073	ListeAnthropologieTypeConnexion	carpe droit
+1056	ListeAnthropologieTypeConnexion	carpe gauche
+1074	ListeAnthropologieTypeConnexion	cervicales
+1066	ListeAnthropologieTypeConnexion	coude droit
+1061	ListeAnthropologieTypeConnexion	coude gauche
+1067	ListeAnthropologieTypeConnexion	coxo-fémorale droit
+1069	ListeAnthropologieTypeConnexion	coxo-fémorale gauche
+1076	ListeAnthropologieTypeConnexion	crâne-atlas
+1059	ListeAnthropologieTypeConnexion	crâne-mandibule
+1071	ListeAnthropologieTypeConnexion	genou droit
+1055	ListeAnthropologieTypeConnexion	genou gauche
+1057	ListeAnthropologieTypeConnexion	lombaires
+1075	ListeAnthropologieTypeConnexion	métacarpe droit
+1070	ListeAnthropologieTypeConnexion	métacarpe gauche
+1065	ListeAnthropologieTypeConnexion	métatarse droit
+1063	ListeAnthropologieTypeConnexion	métatarse gauche
+1064	ListeAnthropologieTypeConnexion	sacro-coccygiennes
+1058	ListeAnthropologieTypeConnexion	scapulo-humérale droite
+1068	ListeAnthropologieTypeConnexion	scapulo-humérale gauche
+1053	ListeAnthropologieTypeConnexion	tarse droit
+1054	ListeAnthropologieTypeConnexion	tarse gauche
+1060	ListeAnthropologieTypeConnexion	thoraciques
+1072	ListeAnthropologieTypeConnexion	thorax
+1509	ListeArcheozoologieEpiphysation	jeune épiphysé
+1508	ListeArcheozoologieEpiphysation	non épiphysé
+1507	ListeArcheozoologieEpiphysation	épiphysé
+701	ListeRegieNiveau2	destructif
+699	ListeRegieNiveau2	exposition
+702	ListeRegieNiveau2	non destructif
+705	ListeRegieNiveau2	rejet
+706	ListeRegieNiveau2	réenfouissement
+704	ListeRegieNiveau2	stockage définitif
+703	ListeRegieNiveau2	stockage provisoire
+700	ListeRegieNiveau2	étude
+158	ListeHomogeinite	homogène
+160	ListeHomogeinite	hétérogène
+159	ListeHomogeinite	stratifié
+227	ListeProfilParoiUE	convergente
+228	ListeProfilParoiUE	en gradin
+1460	ListeProfilParoiUE	en sape
+232	ListeProfilParoiUE	indéterminée
+229	ListeProfilParoiUE	irrégulier
+230	ListeProfilParoiUE	oblique
+231	ListeProfilParoiUE	verticale
+1122	ListeObjetLot	lot
+1121	ListeObjetLot	objet
+209	ListeNatureUE	Pilier
+1458	ListeNatureUE	aire de chauffe
+2921	ListeNatureUE	amas lithique
+213	ListeNatureUE	bâtiment
+218	ListeNatureUE	carottage
+3070	ListeNatureUE	caveau
+212	ListeNatureUE	chapelle
+1459	ListeNatureUE	chemin
+191	ListeNatureUE	circulation
+190	ListeNatureUE	colluvion
+192	ListeNatureUE	comblement
+1927	ListeNatureUE	construction
+1838	ListeNatureUE	contenant funéraire
+219	ListeNatureUE	coupe
+211	ListeNatureUE	cuve
+194	ListeNatureUE	destruction
+193	ListeNatureUE	dépotoir
+214	ListeNatureUE	espace ouvert
+203	ListeNatureUE	fosse
+1457	ListeNatureUE	fosses
+204	ListeNatureUE	fossé
+1455	ListeNatureUE	four
+195	ListeNatureUE	foyer
+196	ListeNatureUE	géoarchéologie
+197	ListeNatureUE	incendie
+1839	ListeNatureUE	individu anthropologique
+198	ListeNatureUE	indéterminé
+1452	ListeNatureUE	interface
+205	ListeNatureUE	mur
+199	ListeNatureUE	naturel
+200	ListeNatureUE	occupation
+206	ListeNatureUE	piquet
+207	ListeNatureUE	poteau
+1456	ListeNatureUE	poteaux
+2923	ListeNatureUE	prélèvement
+201	ListeNatureUE	remblai
+202	ListeNatureUE	sol construit
+215	ListeNatureUE	sondage géologie (log)
+216	ListeNatureUE	sondage tarière manuelle
+217	ListeNatureUE	sondage tarière motorisée
+210	ListeNatureUE	sépulture
+208	ListeNatureUE	tranchée
+220	ListeNatureUE	tranchée de diagnostic
+221	ListeNatureUE	tranchée géoarchéologique
+1453	ListeNatureUE	utilisation
+1919	ListeNatureUE	voirie
+1035	ListeAnthropologiePositionCeinturePelvienne	fermée
+1036	ListeAnthropologiePositionCeinturePelvienne	ouverte
+1037	ListeAnthropologiePositionCeinturePelvienne	semi-ouverte
+1133	ListeComposite	non
+1132	ListeComposite	oui
+1658	ListeArcheozoologieSexe	castré
+1660	ListeArcheozoologieSexe	femelle
+1659	ListeArcheozoologieSexe	femelle ?
+1657	ListeArcheozoologieSexe	mâle
+1661	ListeArcheozoologieSexe	mâle ?
+997	ListeAnthropologieRotationMembresInferieurs	non-rotation
+996	ListeAnthropologieRotationMembresInferieurs	rotation
+2289	ListeTypeMesureArcheozoologie	B
+2252	ListeTypeMesureArcheozoologie	BF
+2305	ListeTypeMesureArcheozoologie	BF (cr/cd)
+2255	ListeTypeMesureArcheozoologie	BFcd
+2268	ListeTypeMesureArcheozoologie	BFcr
+2306	ListeTypeMesureArcheozoologie	BFd
+2310	ListeTypeMesureArcheozoologie	BFp
+2253	ListeTypeMesureArcheozoologie	BG
+2267	ListeTypeMesureArcheozoologie	BPC
+2287	ListeTypeMesureArcheozoologie	BPacd
+2276	ListeTypeMesureArcheozoologie	BPacr
+2297	ListeTypeMesureArcheozoologie	BPtr
+2261	ListeTypeMesureArcheozoologie	BT
+2290	ListeTypeMesureArcheozoologie	BTr
+2269	ListeTypeMesureArcheozoologie	Bd
+2280	ListeTypeMesureArcheozoologie	Bp
+2294	ListeTypeMesureArcheozoologie	CD
+2259	ListeTypeMesureArcheozoologie	DC
+2256	ListeTypeMesureArcheozoologie	DD
+2293	ListeTypeMesureArcheozoologie	DHA
+2295	ListeTypeMesureArcheozoologie	DLS
+2263	ListeTypeMesureArcheozoologie	DPA
+2277	ListeTypeMesureArcheozoologie	Dd
+2271	ListeTypeMesureArcheozoologie	Dl
+2272	ListeTypeMesureArcheozoologie	Dm
+2286	ListeTypeMesureArcheozoologie	Dp
+2298	ListeTypeMesureArcheozoologie	GB
+2254	ListeTypeMesureArcheozoologie	GBA
+2262	ListeTypeMesureArcheozoologie	GBTc
+2281	ListeTypeMesureArcheozoologie	GBTi
+2300	ListeTypeMesureArcheozoologie	GL
+2257	ListeTypeMesureArcheozoologie	GLC
+2260	ListeTypeMesureArcheozoologie	GLF
+2264	ListeTypeMesureArcheozoologie	GLP
+2311	ListeTypeMesureArcheozoologie	GLPa
+2273	ListeTypeMesureArcheozoologie	GLl
+2274	ListeTypeMesureArcheozoologie	GLm
+2302	ListeTypeMesureArcheozoologie	GLpe
+2292	ListeTypeMesureArcheozoologie	H
+2278	ListeTypeMesureArcheozoologie	HF (cr/cd)
+2266	ListeTypeMesureArcheozoologie	HFcr
+2285	ListeTypeMesureArcheozoologie	HP
+2282	ListeTypeMesureArcheozoologie	HS
+2275	ListeTypeMesureArcheozoologie	LA
+2299	ListeTypeMesureArcheozoologie	LAPa
+2317	ListeTypeMesureArcheozoologie	LAR
+2291	ListeTypeMesureArcheozoologie	LAd
+2309	ListeTypeMesureArcheozoologie	LCDe
+2288	ListeTypeMesureArcheozoologie	LF
+2283	ListeTypeMesureArcheozoologie	LFo
+2270	ListeTypeMesureArcheozoologie	LG
+2313	ListeTypeMesureArcheozoologie	LO
+2308	ListeTypeMesureArcheozoologie	LS
+2314	ListeTypeMesureArcheozoologie	Ld
+2265	ListeTypeMesureArcheozoologie	LeP
+2307	ListeTypeMesureArcheozoologie	Ll
+2258	ListeTypeMesureArcheozoologie	LmT
+2316	ListeTypeMesureArcheozoologie	MBS
+2312	ListeTypeMesureArcheozoologie	PL
+2315	ListeTypeMesureArcheozoologie	SB
+2303	ListeTypeMesureArcheozoologie	SBI
+2304	ListeTypeMesureArcheozoologie	SBV
+2296	ListeTypeMesureArcheozoologie	SC
+2318	ListeTypeMesureArcheozoologie	SD
+2301	ListeTypeMesureArcheozoologie	SDO
+2279	ListeTypeMesureArcheozoologie	SH
+2284	ListeTypeMesureArcheozoologie	SLC
