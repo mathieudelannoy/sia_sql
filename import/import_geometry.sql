@@ -5,15 +5,15 @@
 -- la commande shp2pgsql convertir un fichier .shp en une table PgSQL
 -- shp2pgsql -s 900913 "FICHIER" TABLE | psql -d BASE
 
-shp2pgsql -s 900913 "/home/cg62/restore/_emprise.shp" emprise | psql -d siacg62
+shp2pgsql -s 900913 "/home/cg62/restore/emprise.shp" emprise | psql -d siacg62
 shp2pgsql -s 900913 "/home/cg62/restore/emprise_point.shp" emprise_point | psql -d siacg62
 
-shp2pgsql -s 900913 "/home/cg62/restore/_ue.shp" ue | psql -d siacg62
+shp2pgsql -s 900913 "/home/cg62/restore/ue.shp" ue | psql -d siacg62
 shp2pgsql -s 900913 -S "/home/cg62/restore/ue_point.shp" ue_point | psql -d siacg62
 shp2pgsql -s 900913 "/home/cg62/restore/ue_ligne.shp" ue_ligne | psql -d siacg62
 
 shp2pgsql -s 900913 "/home/cg62/restore/sections.shp" sections | psql -d siacg62
-shp2pgsql -s 900913 "/home/cg62/restore/_parcelle.shp" parcelle | psql -d siacg62
+shp2pgsql -s 900913 "/home/cg62/restore/parcelle.shp" parcelle | psql -d siacg62
 
 
 -- ajout ue
@@ -24,7 +24,8 @@ FROM public."ue"  AS "b"
 WHERE 
   a.numero = b.ue::int 
   AND a.id_projet = b.id_projet::int
-  AND a.the_geom IS NULL;
+  AND a.the_geom IS NULL
+  AND ST_IsValid(b.the_geom) != 'f';
   
 DROP TABLE public.ue;
 
