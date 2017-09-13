@@ -9,7 +9,7 @@ WHERE  is null
 WHERE NOT EXISTS (SELECT  AS id FROM app. WHERE =)
 */
 
-CREATE VIEW maintenance.orphelins AS
+CREATE OR REPLACE VIEW maintenance.orphelins AS
 -- nombre d'ue orphelines
 SELECT 
   'ue' AS "table", 
@@ -64,6 +64,7 @@ WHERE
   AND NOT EXISTS 
   (SELECT contenant_id AS id FROM app.contenant_document 
     WHERE contenant_document.contenant_id = contenant.id)
+AND contenant.id_projet IS NULL
 -- nombre de documents orphelins
 UNION
 SELECT 

@@ -7,6 +7,7 @@ WHERE
   AND NOT EXISTS 
   (SELECT contenant_id AS id FROM app.contenant_document 
     WHERE contenant_document.contenant_id = contenant.id)
+  AND contenant.id_projet IS NULL
 
 -- suppression contenant mobilier orphelin
 DELETE FROM app.contenant AS "a"
@@ -30,6 +31,7 @@ WHERE
   AND NOT EXISTS 
   (SELECT contenant_id AS id FROM app.contenant_document 
     WHERE contenant_document.contenant_id = contenant.id)
+  AND contenant.id_projet IS NULL
 ORDER BY contenant.id;
 
 SELECT DISTINCT
