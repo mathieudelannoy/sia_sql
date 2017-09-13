@@ -1,11 +1,14 @@
-CREATE VIEW update_matrice AS
+UPDATE app.matrice_geologique 
+SET primaire = TRUE
+FROM (
+
 WITH
 -- récupère les UE du projet
   a AS (
   SELECT 
 		id AS "ue_id", 
 		numero 
-		FROM app.ue WHERE id_projet = 809),
+		FROM app.ue WHERE id_projet = 836),
 -- récupère toutes les matrices géologiques
   b AS (
   SELECT 
@@ -21,13 +24,8 @@ c AS (
 	FROM b
 	WHERE nbr = 1)
 
-SELECT * FROM c;
+SELECT * FROM c) AS update_matrice
 
-UPDATE app.matrice_geologique 
-SET primaire = TRUE
-FROM public.update_matrice
 WHERE 
-  matrice_geologique.id_ue = update_matrice.ue_id
-  AND update_matrice.nbr = 1;
+  matrice_geologique.id_ue = update_matrice.ue_id;
   
-DROP VIEW update_matrice;
