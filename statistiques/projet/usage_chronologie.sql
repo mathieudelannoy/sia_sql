@@ -6,8 +6,10 @@ SELECT
   projet.id,
   projet.intitule,
   source.type_datation,
-  source.debut,
-  source.fin,
+  source.debut_nv1,
+  source.debut_nv2,
+  source.fin_nv1,
+  source.fin_nv2,
   source.tpq,
   source.taq
 FROM (
@@ -15,8 +17,10 @@ FROM (
 SELECT
   projet.id,
   'phase' AS "type_datation",
-  (SELECT intitule FROM app.chronologie WHERE chronologie.id = phase.id_chrono_1_debut) AS debut,
-  (SELECT intitule FROM app.chronologie WHERE chronologie.id = phase.id_chrono_1_fin) AS fin,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = phase.id_chrono_1_debut) AS debut_nv1,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = phase.id_chrono_2_debut) AS debut_nv2,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = phase.id_chrono_1_fin) AS fin_nv1,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = phase.id_chrono_2_fin) AS fin_nv2,
   phase.tpq,
   phase.taq
 FROM app.phase
@@ -35,8 +39,10 @@ UNION ALL
 SELECT DISTINCT
   projet.id,
   'ue' AS "type_datation",
-  (SELECT intitule FROM app.chronologie WHERE chronologie.id = ue.id_chrono_1_debut) AS debut,
-  (SELECT intitule FROM app.chronologie WHERE chronologie.id = ue.id_chrono_1_fin) AS fin,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = ue.id_chrono_1_debut) AS debut_nv1,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = ue.id_chrono_2_debut) AS debut_nv2,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = ue.id_chrono_1_fin) AS fin_nv1,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = ue.id_chrono_2_fin) AS fin_nv2,
   ue.tpq,
   ue.taq
 FROM app.ue
@@ -55,8 +61,10 @@ UNION ALL
 SELECT DISTINCT
   projet.id,
   'mobilier' AS "type_datation",
-  (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_1_debut) AS debut,
-  (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_1_fin) AS fin,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_1_debut) AS debut_nv1,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_2_debut) AS debut_nv2,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_1_fin) AS fin_nv1,
+  (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_2_fin) AS fin_nv2,
   mobilier.tpq,
   mobilier.taq
 FROM app.mobilier
