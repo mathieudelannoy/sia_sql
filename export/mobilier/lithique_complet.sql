@@ -16,12 +16,18 @@ SELECT
   (SELECT valeur FROM app.liste WHERE liste.id = mobilier.id_matiere_type_precision) AS "matiere_premiere",
   (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_technologie) AS "technologie",
   (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_typologie) AS "typologie",
-  mobilier.precision AS "cortex_talon",
+  mobilier.precision,
   regexp_replace(mobilier.commentaire, '\r|\n', ' - ', 'g') AS commentaire,
   mobilier.determination,
   (SELECT valeur FROM app.liste WHERE liste.id = mobilier.id_etat_conservation) AS "etat_conservation",
   (SELECT valeur FROM app.liste WHERE liste.id = mobilier.id_objet_ou_lot) AS "objet_lot",
   mobilier.nombre_elements,
+  (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_cortex) AS "cortex",
+  (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_talon) AS "talon",
+  accident_taille,
+  alteration,
+  (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_type_percussion) AS "type_percussion",
+  (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_type_debitage) AS "type_debitage",
   (SELECT valeur FROM app.liste WHERE liste.id = mlithique.id_fragment) AS "fragment",
   (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_1_debut) AS "chrono_debut", 
   (SELECT intitule FROM app.chronologie WHERE chronologie.id = mobilier.id_chrono_2_debut) AS "sous_chrono_debut",  
@@ -46,7 +52,7 @@ LEFT JOIN (SELECT id_mobilier, id_type_mesure, valeur FROM app.mesure WHERE id_t
 LEFT JOIN (SELECT id_mobilier, id_type_mesure, valeur FROM app.mesure WHERE id_type_mesure = 566) AS "largeur" ON mobilier.id = largeur.id_mobilier
 LEFT JOIN (SELECT id_mobilier, id_type_mesure, valeur FROM app.mesure WHERE id_type_mesure = 568) AS "longueur" ON mobilier.id = longueur.id_mobilier
 WHERE 
-  ue.id_projet = 568 AND
+  ue.id_projet = 839 AND
   mobilier.id_matiere_type = 293),
 
 b AS (
@@ -69,7 +75,13 @@ SELECT
  a.matiere_premiere,
  a.technologie,
  a.typologie,
- a.cortex_talon,
+ a.precision,
+ a.cortex,
+ a.talon,
+ a.accident_taille,
+ a.alteration,
+ a.type_percussion,
+ a.type_debitage,
  a.commentaire,
  a.determination,
  a.etat_conservation,
