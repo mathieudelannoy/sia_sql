@@ -9,13 +9,14 @@ Mobilier : Type ou Type précision. (+ Matrice secondaire si présente).
 WITH
 
 -- récupère les UE du projet
+ 
  a AS (SELECT 
 	id AS "ue_id", 
 	numero 
 	FROM app.ue WHERE id_projet = 809),
 	
 -- récupère toutes les matrices géologiques
- b AS (SELECT 
+b AS (SELECT 
 	a.numero, 
 	id AS "mat_id", 
 	id_ue, 
@@ -84,6 +85,7 @@ j AS (SELECT DISTINCT
 		LEFT JOIN c ON c.id_matrice = b.mat_id
 		WHERE b.primaire = FALSE
 		GROUP BY b.numero),
+
 -- FULL REGROUP
 k AS (SELECT DISTINCT
   b.numero AS num_ue,
@@ -98,15 +100,23 @@ ORDER BY b.numero),
 
 l AS (
 SELECT
+    COALESCE(ue_rl1.numero, a.numero) AS num_str,
+  num_ue AS ue_niveau,
   num_ue || ' : ' || 
   upper(substring(matrice_primaire from 1 for 1)) || substring(matrice_primaire from 2 for length(matrice_primaire)) || '. ' || 
   COALESCE(upper(substring(inclusion from 1 for 1)) || substring(inclusion from 2 for length(inclusion)), '*') || 
   COALESCE('. Matrice secondaire : ' || upper(substring(matrice_secondaire from 1 for 1)) || 
   substring(matrice_secondaire from 2 for length(matrice_secondaire)), '*') || '.' AS description
-FROM k),
+FROM k
+JOIN a ON a.numero = k.num_ue
+LEFT JOIN app.relationstratigraphique AS rl1
+  ON a.ue_id = rl1.ue1 AND (rl1.id_relation = 2238 OR rl1.id_relation = 45)
+LEFT JOIN app.ue AS ue_rl1 ON ue_rl1.id = rl1.ue2
+),
 
 m AS (
 SELECT
+  num_str,
   replace(replace(replace(replace(replace(replace(
   replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace(replace(replace(replace(replace(replace(replace(
   description,
@@ -140,7 +150,12 @@ SELECT
 	AS description
 FROM l)
 
-select * from m;
+select 
+  m.num_str,
+  m.description
+from m
+;
+
 
 /*
 		-- récupère les mobiliers issus des comblements
