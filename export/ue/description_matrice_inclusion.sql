@@ -118,7 +118,7 @@ SELECT
    'concrétion moellons', 'concrétion de moellons'),
    'concrétion nodules', 'concrétion de nodules'),
    'concrétion petits fragments', 'concrétion de petits fragments'),
-   'concrétion éclats', 'concrétion d\'éclats'),
+   'concrétion éclats', 'concrétion d''éclats'),
    'diffuse éclats', 'éclats diffus'),
    'diffuse gros fragments', 'gros fragments diffus'),
    'diffuse micro-nodules', 'micro-nodules diffus'),
@@ -127,16 +127,16 @@ SELECT
    'percolation moellons', 'percolation de moellons'),
    'percolation nodules', 'percolation de nodules'),
    'percolation petits fragments', 'percolation de petits fragments'),
-   'percolation éclats', 'percolation d\'éclats'),
+   'percolation éclats', 'percolation d''éclats'),
    'percolation micro-nodules', 'percolation de micro-nodules'),
    'percolation gros fragments', 'percolation de gros fragments'),
    'diffuse petits fragments', 'petits fragments diffus'),
    'terre cuite - ', ''),
    'métal - ', 'métal '),
    'oragnique - ', ''),
-   'de ardoise', 'd\'ardoise'),
-   'de organique', 'd\'organique'),
-   'de oxyde', 'd\'oxyde')
+   'de ardoise', 'd''ardoise'),
+   'de organique', 'd''organique'),
+   'de oxyde', 'd''oxyde')
 	AS description
 FROM l)
 
