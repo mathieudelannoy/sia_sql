@@ -1,17 +1,40 @@
--- création de la base
-psql.exe --host ADRESSE_IP --port PORTNUM -U "ROLENAME" --dbname=postgres -c "CREATE DATABASE DBNAME WITH TEMPLATE=template_postgis OWNER = postgres TABLESPACE = pg_default CONNECTION LIMIT = -1;"
-psql.exe --host ADRESSE_IP --port PORTNUM -U "ROLENAME" --dbname=DBNAME -1 -f "D:\SIA\fichiers\dump\2016_08_12_DBNAME_noowner_schema_public_enum.sql"
-psql.exe --host ADRESSE_IP --port PORTNUM -U "ROLENAME" --dbname=DBNAME -1 -f "D:\SIA\fichiers\dump\2016_08_12_DBNAME_noowner_schemaonly_app.sql"
+## %IP% = localhost ou localhost
+## %PORTNUM% = 5433
 
--- importation du schéma
-pg_restore.exe --host ADRESSE_IP --port PORTNUM --username "ROLENAME" --create --dbname "DBNAME" --format custom --schema-only --schema=app --no-owner "D:/SIA/fichiers/dump/2016_08_12_DBNAME_noowner_schemaonly.backup" > D:\ERROR.TXT
+## chemin du binaire
+D:
 
-pg_restore.exe --host ADRESSE_IP --port PORTNUM --username "ROLENAME" -O --create --format custom --schema-only --schema=app --file="D:/SCRIPT.SQL" "D:/SIA/fichiers/dump/2016_08_12_DBNAME_noowner_schemaonly.backup"
+cd D:\Logiciels\pgsql\bin
 
--- importation data app
+## creation des utilisateurs
 
-pg_restore.exe --host ADRESSE_IP --port PORTNUM --dbname "DBNAME" --username "ROLENAME" --no-owner --no-security-labels --format custom --data-only --schema=app --jobs=4 "D:\SIA\fichiers\dump\2016_08_17_DBNAME_noowner_app.backup"
+CREATE ROLE "www-data" LOGIN ENCRYPTED PASSWORD 'md57c1eb38d1fbd7c637a4979f10ab01baf' NOSUPERUSER INHERIT NOCREATEDB NOCREATEROLE;
+  
+CREATE ROLE jrmorreale LOGIN ENCRYPTED PASSWORD 'md5ff25bb79b07e2bd0b465627b76295849' SUPERUSER INHERIT CREATEDB CREATEROLE;
 
-pg_restore.exe --host ADRESSE_IP --port PORTNUM --dbname "DBNAME" --username "ROLENAME" --format custom --data-only --schema=app --jobs=4 "D:\SIA\fichiers\dump\2016_08_17_DBNAME_noowner_app.backup"
+CREATE ROLE deploy LOGIN SUPERUSER INHERIT NOCREATEDB NOCREATEROLE;
 
-pg_restore.exe --host ADRESSE_IP --port PORTNUM --dbname "DBNAME" --username "ROLENAME" --format custom --data-only --schema=app --single-transaction --disable-triggers "D:\SIA\fichiers\dump\2016_08_17_DBNAME_app.backup"
+# export du schéma "public" depuis DRI
+# edition manuelle pour ne retenir que les enums et pas les fonctions postgis
+pg_dump.exe --host localhost --port 5433 --username "jrmorreale" --schema-only --schema "public" -Fp --file="D:/SIA/fichiers/dump/2017_06_03_siacg62_public_schema_only.sql" "siacg62"
+
+## export du schema "app"
+pg_dump.exe --host localhost --port 5433 --username "jrmorreale" --schema-only --schema "app" -Fc --file="D:/SIA/fichiers/dump/2017_06_03_siacg62_app_schema_only.backup" "siacg62"
+
+# export des données du schéma "app"
+pg_dump --host localhost --port 5433 --username "jrmorreale" --data-only --schema "app" -Fc --file="D:/SIA/fichiers/dump/2017_06_03_siacg62_app_data_only.backup" "siacg62"
+
+####################################
+## creation de la nouvelle base
+psql.exe --host localhost --port 5433 -U "jrmorreale" --dbname=postgres -c "CREATE DATABASE siacg62_new WITH TEMPLATE=template_postgis OWNER = postgres TABLESPACE = pg_default CONNECTION LIMIT = -1;"
+
+# importation du schema "public" (que les enums)
+psql.exe --host localhost --port 5433 -U "jrmorreale" --dbname="siacg62_new" -1 -f "D:\SIA\fichiers\dump\2017_06_02_siacg62_public_schema_only.sql"
+
+## importation du schema "app"
+psql.exe --host localhost --port 5433 --username "jrmorreale" --dbname="siacg62_new" -c "CREATE SCHEMA app AUTHORIZATION postgres;GRANT ALL ON SCHEMA app TO postgres;GRANT ALL ON SCHEMA app TO ""www-data"";GRANT ALL ON SCHEMA app TO jrmorreale;"
+
+pg_restore.exe --host localhost --port 5433 -U "jrmorreale" --dbname="siacg62_new" --format custom --schema-only --schema=app --exit-on-error "D:/SIA/fichiers/dump/2017_06_03_siacg62_app_schema_only.backup"
+
+## importation des données du schéma "app"
+pg_restore.exe --host localhost --port 5433 --dbname "siacg62_new" --username "jrmorreale" --format custom --data-only --schema=app --single-transaction "D:\SIA\fichiers\dump\2017_06_03_siacg62_app_data_only.backup"
