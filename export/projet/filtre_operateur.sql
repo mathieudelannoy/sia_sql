@@ -13,7 +13,7 @@ SELECT
   projet.codes_ea, 
   projet.code_oa, 
   c.nom || ' ' || c.prenom AS RO,
-  AsText(projet.the_geom) AS geom_wkt
+  ST_AsText(projet.the_geom) AS geom_wkt
 FROM 
   app.projet
 LEFT JOIN app_addons.projet_operateur ON projet.id = projet_operateur.projet_id
