@@ -2,18 +2,15 @@
 
 SELECT 
   "b".ue1 AS ue1_id, 
-  (SELECT a.numero WHERE b.ue1 = "a".id) AS "UE1", 
+  --(SELECT a.numero WHERE b.ue1 = "a".id) AS "UE1", 
   "c".valeur, 
-  "b".ue2,
+  "b".ue2
   
-FROM 
-  app.ue AS "a", 
-  app.relationstratigraphique as "b", 
-  app.liste AS "c" 
+FROM app.ue AS "a"
+JOIN app.relationstratigraphique as "b" ON "b".ue1 = a.id
+JOIN app.liste AS "c" ON "b".id_relation = c.id
 WHERE 
-  "b".id_relation = c.id 
-  AND "b".ue1 = a.id 
-  AND "a".id_projet = 155 
+  "a".id_projet = 820 
 ORDER BY "c".valeur, "b".ue1 ASC
 
 
