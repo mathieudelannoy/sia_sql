@@ -21,7 +21,7 @@ SELECT
   projet_individu.id_projet, 
   projet_individu.id_fonction, 
   projet_individu.role,
-  individu.nom || ' ' || individu.prenom AS personne
+  individu.prenom || ' ' || individu.nom AS personne
 FROM app.projet_individu
 JOIN source_projet ON source_projet.id = projet_individu.id_projet
 JOIN app.individu ON individu.id = projet_individu.id_individu AND (individu.id_organisme != 4 OR individu.id_organisme IS NULL)
@@ -79,11 +79,26 @@ SELECT
   date_fin,
   surface_accessible,
   thesaurus_thematique,
-  a.agg_personnes AS "RO",
-  a2.agg_personnes AS "Adjoints",
-  b.agg_personnes AS "Specialistes",
-  c.agg_personnes AS "techniciens",
-  d.agg_personnes AS "topographes"
+  -- a.agg_personnes AS "RO",
+  -- a2.agg_personnes AS "Adjoints",
+  -- b.agg_personnes AS "Specialistes",
+  -- c.agg_personnes AS "techniciens",
+  -- d.agg_personnes AS "topographes",
+  replace(replace(replace(
+  replace(replace(replace(replace(
+    a.agg_personnes || ' (RO), ' || 
+    COALESCE(a2.agg_personnes, 'aucun') || ' (adjoint), ' || 
+    COALESCE(b.agg_personnes, 'aucun') || ', ' || 
+    COALESCE(c.agg_personnes, 'aucun') || ' (techniciens), ' || 
+    COALESCE(d.agg_personnes, 'aucun') || ' (topographe)'
+    , ' aucun (adjoint),', '')
+    , ' aucun (techniciens),', '')
+    , ', aucun (topographe)', '')
+    , ', aucun', '')
+    , 'Murielle Meurisse-Fort (géologue),', '')
+    , 'Murielle Meurisse-Fort (géologue)', '')
+    , '  ', ' ')
+	AS agents
 FROM source_projet
 LEFT JOIN source_agg_individu AS "a" ON source_projet.id = a.id_projet AND a.role = 'role:ro_adjoint' AND a.id_fonction = 20
 LEFT JOIN source_agg_individu AS "a2" ON source_projet.id = a2.id_projet AND a2.role = 'role:ro_adjoint' AND a2.id_fonction = 22
