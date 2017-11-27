@@ -11,7 +11,7 @@ WITH
 -- récupère les UE du projet
  
  a AS (SELECT 
-	id AS "ue_id", 
+	id AS "ue_id",
 	numero 
 	FROM app.ue WHERE id_projet = 809),
 	
@@ -86,7 +86,7 @@ j AS (SELECT DISTINCT
 		WHERE b.primaire = FALSE
 		GROUP BY b.numero),
 
--- FULL REGROUP
+-- regroupe l'ensemble des CTE précédentes
 k AS (SELECT DISTINCT
   b.numero AS num_ue,
   i.matrice_primaire,
@@ -98,9 +98,10 @@ LEFT JOIN h ON h.id_matrice = i.mat_id
 LEFT JOIN j ON i.numero = j.numero
 ORDER BY b.numero),
 
+-- relie le niveau à sa structure d'appartenance
 l AS (
 SELECT
-    COALESCE(ue_rl1.numero, a.numero) AS num_str,
+    COALESCE(ue_rl1.numero, a.numero) AS ue_structure,
   num_ue AS ue_niveau,
   num_ue || ' : ' || 
   upper(substring(matrice_primaire from 1 for 1)) || substring(matrice_primaire from 2 for length(matrice_primaire)) || '. ' || 
@@ -114,11 +115,15 @@ LEFT JOIN app.relationstratigraphique AS rl1
 LEFT JOIN app.ue AS ue_rl1 ON ue_rl1.id = rl1.ue2
 ),
 
+-- corrections typo/ortho
 m AS (
 SELECT
-  num_str,
+  ue_structure,
   replace(replace(replace(replace(replace(replace(
-  replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace( replace(replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(
+  replace(replace(replace(replace(replace(replace(
   description,
   -- remplacement typographie
    '. **.', '.'), '*.', '.'), '  ', ' '), ', , ', ', '), ', .', '.'), ', , ', ', '),
@@ -150,21 +155,10 @@ SELECT
 	AS description
 FROM l)
 
+-- résultat
 select 
-  m.num_str,
-  m.description
+  m.ue_structure,
+  COALESCE(m.description, 'indication primaire à corriger') AS description
 from m
+ORDER BY m.ue_structure, m.description
 ;
-
-
-/*
-		-- récupère les mobiliers issus des comblements
-  d AS (SELECT DISTINCT
-		a.ue_id,
-		array_to_string(array_agg(DISTINCT
-		(SELECT valeur FROM app.liste WHERE liste.id = d.id_matiere_type) || ' - ' || 
-		COALESCE((SELECT valeur FROM app.liste WHERE liste.id = id_matiere_type_precision), '')), ', ') AS mob
-		FROM app.mobilier AS "d" 
-		LEFT JOIN a ON a.ue_id = d.id_ue
-		GROUP BY a.ue_id),
-*/
