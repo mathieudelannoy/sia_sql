@@ -4,6 +4,10 @@ export d'un texte descriptif pour les comblements pouvant être copier sur les p
 Numéro : Nature texture, homogénéité, compacité, code Munsell en toutes lettres (Code Munsell en chiffres) [de la matrice], 
 avec concentration taille nature [des inclusions]. 
 Mobilier : Type ou Type précision. (+ Matrice secondaire si présente).
+
+exemple :
+ue_structure	description
+628	770 : Argile limoneuse, homogène, meuble, gris très foncé (7.5YR 3/1). Abondants éclats de silex.
 */
 
 WITH
