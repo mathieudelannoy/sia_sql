@@ -1,8 +1,8 @@
-SELECT
-  ue.numero AS num_ue,
-  COALESCE(ue_rl1.numero, ue.numero) AS num_str,
-  (SELECT numero FROM app.ue WHERE mobilier.id_ue_localisation = ue.id) AS ue_localisation,
+SELECT DISTINCT
   mobilier.id,
+  liste_ue_str.numero AS num_ue,
+  COALESCE(liste_ue_str.ue_str, liste_ue_str.numero::text) AS num_str,
+  (SELECT numero FROM app.ue WHERE mobilier.id_ue_localisation = ue.id) AS ue_localisation,
   mobilier.numero,
   mobydick.mob_contenus,
   (SELECT valeur FROM app.liste WHERE liste.id = mobilier.id_matiere) AS matiere,
@@ -13,9 +13,10 @@ SELECT
   mobilier.determination,
  (SELECT valeur FROM app.liste WHERE liste.id = mobilier.id_objet_ou_lot) AS objet_lot,
   mobilier.nombre_elements AS nbr,
+  mobilier.poids,
   (SELECT valeur FROM app.liste WHERE liste.id = mobilier.id_etat_sanitaire) AS "Etat sanitaire", 
   mobilier.etat_representativite AS "Représentativité", 
-  contenant.numero AS contenant,
+  liste_contenants.contenants,
   
   -- champs spécialistes cérmiques
   mceramique.categorie, 
@@ -51,7 +52,6 @@ SELECT
   hauteur.valeur AS hauteur,
   largeur.valeur AS largeur,
   longueur.valeur AS longueur,
-  poids.valeur AS poids,
   section_max.valeur AS section_max,
   section_min.valeur AS section_min,
   volume.valeur AS volume,
@@ -78,9 +78,19 @@ FROM app.mobilier
 LEFT JOIN app.mceramique ON mobilier.id = mceramique.id
 
 -- jointure des différentes UEs liées
-JOIN app.ue ON ue.id = mobilier.id_ue
+-- JOIN app.ue ON ue.id = mobilier.id_ue
+-- LEFT JOIN app.relationstratigraphique AS rl1 ON ue.id = rl1.ue1 AND rl1.id_relation = 2238
+-- LEFT JOIN app.ue AS ue_rl1 ON ue_rl1.id = rl1.ue2
+LEFT JOIN (SELECT
+  ue.id,
+  ue.numero,
+  ue.id_projet,
+  array_to_string(array_agg(ue_rl1.numero ORDER BY ue_rl1.numero), ', ') AS ue_str
+FROM app.ue
 LEFT JOIN app.relationstratigraphique AS rl1 ON ue.id = rl1.ue1 AND rl1.id_relation = 2238
 LEFT JOIN app.ue AS ue_rl1 ON ue_rl1.id = rl1.ue2
+GROUP BY ue.id
+) AS liste_ue_str ON liste_ue_str.id = mobilier.id_ue
 
 -- jointure mobilier appartenance
 LEFT JOIN 
@@ -94,8 +104,13 @@ GROUP BY relationintermobilier.mobilier1
 ) as mobydick ON mobydick.mobilier1 = mobilier.id
 
 -- jointure des contenants
-LEFT JOIN app.contenant_mobilier ON mobilier.id = contenant_mobilier.mobilier_id
-LEFT JOIN app.contenant ON contenant_mobilier.contenant_id = contenant.id
+LEFT JOIN (
+SELECT 
+  contenant_mobilier.mobilier_id,
+  array_to_string(array_agg(contenant.numero ORDER BY numero), ', ') AS contenants
+FROM app.contenant_mobilier
+JOIN app.contenant ON contenant_mobilier.contenant_id = contenant.id
+GROUP BY contenant_mobilier.mobilier_id) AS liste_contenants ON mobilier.id = liste_contenants.mobilier_id
 
 -- jointure des traitement et régie
 LEFT JOIN app.traitement_mobilier ON traitement_mobilier.mobilier_id = mobilier.id
@@ -126,5 +141,5 @@ LEFT JOIN (SELECT id_mobilier, id_type_mesure, valeur FROM app.mesureceramique W
 LEFT JOIN (SELECT id_mobilier, id_type_mesure, valeur FROM app.mesureceramique WHERE id_type_mesure = 2244) AS epaisseur_panse ON epaisseur_panse.id_mobilier = mobilier.id
 
 WHERE 
-  ue.id_projet = 839
+  liste_ue_str.id_projet = 806
   AND mobilier.id_matiere_type = 296;
