@@ -3,10 +3,14 @@
 - plusieurs poids pour une fiche mobilier car flemme de faire plusieurs fiches (et pas de total bien sûr car la même personne considère qu'en même que les mobiliers doivent être différenciés)
 */
 
-SELECT count(id_mobilier) from app.mesure 
+SELECT 
+  count(id_mobilier)
+FROM app.mesure 
 WHERE app.mesure.id_type_mesure = 569;
 
-SELECT DISTINCT count(id_mobilier) from app.mesure 
+SELECT DISTINCT 
+  count(id_mobilier)
+FROM app.mesure 
 WHERE app.mesure.id_type_mesure = 569
 
 
@@ -15,7 +19,7 @@ SELECT * FROM app.mesure;
 
 -- type de mesure en double pour un mobilier
 SELECT 
-  id_type_mesure,
+  (SELECT valeur FROM app.liste WHERE liste.id = id_type_mesure) AS type_mesure,
   id_mobilier,
   COUNT(id_type_mesure)
 FROM app.mesure
@@ -26,7 +30,7 @@ ORDER BY id_type_mesure;
 
 -- type de mesure en double pour une UE
 SELECT 
-  id_type_mesure,
+  (SELECT valeur FROM app.liste WHERE liste.id = id_type_mesure) AS type_mesure,
   id_ue,
   COUNT(id_type_mesure)
 FROM app.mesure
@@ -34,6 +38,7 @@ WHERE id_ue IS NOT NULL
 GROUP BY id_type_mesure, id_ue
 HAVING COUNT(id_type_mesure) > 1
 ORDER BY id_type_mesure
+
 
 /*
 Suppression des doublons de mesures/valeurs pour un mobilier

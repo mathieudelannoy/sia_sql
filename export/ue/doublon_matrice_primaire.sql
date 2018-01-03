@@ -19,17 +19,16 @@ WITH
 
 -- groupe par primaire is true
 c AS (
-	SELECT
-	  numero,
-	  count(numero) AS "nbr"
-	  FROM b
-	WHERE primaire IS TRUE
-	GROUP BY numero, primaire
-	ORDER BY numero)
-	
+SELECT
+  numero
+FROM b
+WHERE primaire IS TRUE
+GROUP BY numero, primaire
+HAVING count(numero) > 1
+ORDER BY numero)
+
 SELECT *
-FROM c
-WHERE nbr > 1
+FROM c;
 
 
 -- liste les UE n'ayant aucune matrice primaire

@@ -20,3 +20,9 @@ ALTER TABLE app.projet
 
 ALTER TABLE app.ue
   ALTER COLUMN id_projet SET NOT NULL;
+  
+-- ajout d'une contrainte d'unicité pour les mesures de mobilier
+-- évite d'avoir deux fois la même mesure pour le même mobilier
+
+-- ajout d'une contrainte d'unicité pour les mesures d'UE
+-- évite d'avoir deux fois la même mesure pour la même UE
