@@ -21,3 +21,14 @@ WHERE
   AND ue.id_projet = 155
   AND mobilier.type_mobilier IS NOT NULL
   AND mobilier.determination = 'palet'
+  
+  
+UPDATE app.mceramique
+SET categorie = 'CS'
+FROM JOIN app.mobilier, app.ue
+WHERE 
+  mceramique.id = mobilier.id
+  AND mobilier.id_ue = ue.id
+  AND ue.id_projet = 806
+  AND mobilier.type_mobilier = 'ceramique'
+  AND mceramique.categorie = 'CR';
