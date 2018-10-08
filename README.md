@@ -10,9 +10,9 @@ Site de l'application :
 [sia.archeologie.pasdecalais.fr](https://sia.archeologie.pasdecalais.fr)
 
 Manuel utilisateur de l'application :
-[sia-usermanual.rtfd.io](http://sia-usermanual.rtfd.io/)
+[sia-usermanual.rtfd.io](http://tutorial-sia.rtfd.io//)
 
 Usage
 -----
 
-Les fichiers présents sont actuellement utilisés en production sur une base PostgreSQL 9.0
+Les fichiers présents sont actuellement utilisés en production sur une base PostgreSQL 9.4
